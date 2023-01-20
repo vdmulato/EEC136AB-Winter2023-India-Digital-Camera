@@ -1,5 +1,6 @@
 # DigitalCamera
 This is the place where we are going to follow up with weekly updates of the project
+
 Week 1 (Jan 9 - Jan 14) 
 First design with considerations taken on what parts to use for prototypes and final product. Ordering of the parts. Refer to week 1 slides for more information.
 Week 2 (Jan 15 - Jan 21)
