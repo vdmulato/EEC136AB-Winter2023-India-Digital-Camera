@@ -8,5 +8,5 @@ First design with considerations taken on what parts to use for prototypes and f
 Week 2 (Jan 15 - Jan 21)
 
 Start of prototype V0 the goal of this prototype is to familiarize ourselves with the Psoc enviroment and ADC implementation. For this first prototype we will be using 
-a single photoresistor and read its value. Basically we will be building a ohmmeter this will help us to be familiar with the code for the next step of implementing the
-multiplexers with an array of photoresistors.
+a single photodiode and read its output. Basically we will be building a voltmeter this will help us to be familiar with the code for the next step of implementing the
+multiplexers with an array of photodiodes.
