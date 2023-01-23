@@ -1,6 +1,6 @@
 // ======================================================================
-// Testing_Copy_01.v generated from TopDesign.cysch
-// 01/22/2023 at 00:19
+// VoltageReading.v generated from TopDesign.cysch
+// 01/22/2023 at 22:48
 // This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 // ======================================================================
 

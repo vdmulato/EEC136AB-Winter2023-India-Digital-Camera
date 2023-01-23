@@ -1,6 +1,6 @@
 -- ======================================================================
--- Testing_Copy_01.ctl generated from Testing_Copy_01
--- 01/22/2023 at 00:19
+-- VoltageReading.ctl generated from VoltageReading
+-- 01/22/2023 at 22:48
 -- This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 -- ======================================================================
 

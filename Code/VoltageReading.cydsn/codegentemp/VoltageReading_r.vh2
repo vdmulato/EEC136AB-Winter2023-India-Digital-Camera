@@ -1,8 +1,8 @@
--- Project:   Testing_Copy_01
--- Generated: 01/22/2023 00:20:00
+-- Project:   VoltageReading
+-- Generated: 01/22/2023 22:49:02
 -- PSoC Creator  4.4
 
-ENTITY Testing_Copy_01 IS
+ENTITY VoltageReading IS
     PORT(
         Debug1(0)_PAD : OUT std_ulogic;
         Debug2(0)_PAD : OUT std_ulogic;
@@ -20,9 +20,9 @@ ENTITY Testing_Copy_01 IS
     ATTRIBUTE voltage_VDDIO_0_RCV OF __DEFAULT__ : ENTITY IS 3.3e0;
     ATTRIBUTE voltage_VDDIO_1 OF __DEFAULT__ : ENTITY IS 3.3e0;
     ATTRIBUTE voltage_VDD_NS OF __DEFAULT__ : ENTITY IS 3.3e0;
-END Testing_Copy_01;
+END VoltageReading;
 
-ARCHITECTURE __DEFAULT__ OF Testing_Copy_01 IS
+ARCHITECTURE __DEFAULT__ OF VoltageReading IS
     SIGNAL Button(0)__PA : bit;
     SIGNAL CPUSS_swj_swclk_tclk : bit;
     SIGNAL CPUSS_swj_swdio_tms : bit;
@@ -96,6 +96,8 @@ ARCHITECTURE __DEFAULT__ OF Testing_Copy_01 IS
     ATTRIBUTE GROUND OF zero : SIGNAL IS true;
     SIGNAL periclk_App : bit;
     ATTRIBUTE Location OF ClockGenBlock : LABEL IS "F(CLK_GEN,0)";
+    ATTRIBUTE Location OF ClockBlock : LABEL IS "F(Clock,0)";
+    ATTRIBUTE Location OF CPUSS : LABEL IS "F(CPUSS,0)";
     ATTRIBUTE lib_model OF CY_CPUSS_SWJ_SWCLK_TCLK(0) : LABEL IS "iocell1";
     ATTRIBUTE Location OF CY_CPUSS_SWJ_SWCLK_TCLK(0) : LABEL IS "P6[7]";
     ATTRIBUTE lib_model OF CY_CPUSS_SWJ_SWDIO_TMS(0) : LABEL IS "iocell2";
@@ -116,6 +118,9 @@ ARCHITECTURE __DEFAULT__ OF Testing_Copy_01 IS
     ATTRIBUTE Location OF Button(0) : LABEL IS "P0[4]";
     ATTRIBUTE lib_model OF Negative(0) : LABEL IS "iocell10";
     ATTRIBUTE Location OF Negative(0) : LABEL IS "P10[1]";
+    ATTRIBUTE Location OF \UART:SCB_IRQ\ : LABEL IS "[IntrContainer=(0)][IntrId=(46)]";
+    ATTRIBUTE Location OF \UART:SCB\ : LABEL IS "F(SCB,5)";
+    ATTRIBUTE Location OF \ADC_1:IRQ\ : LABEL IS "[IntrContainer=(0)][IntrId=(138)]";
     ATTRIBUTE Location OF \ADC_1:SAR\ : LABEL IS "F(SARADC,0)";
     COMPONENT CLK_GEN
         PORT (
@@ -522,8 +527,9 @@ BEGIN
             ilo => ClockBlock_ILO,
             wco => ClockBlock_WCO,
             lfclk => ClockBlock_LFClk,
-            ff_div_0 => \UART:Net_847_ff0\,
+            ff_div_0 => open,
             ff_div_49 => \ADC_1:Net_428_ff49\,
+            ff_div_5 => \UART:Net_847_ff0\,
             periclk_App => periclk_App);
 
     CPUSS:CPUSS

@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
    1:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** /**************************************************************************//**
    2:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h ****  * @file     cmsis_gcc.h
    3:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h ****  * @brief    CMSIS compiler GCC header file
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 2
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 2
 
 
    4:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h ****  * @version  V5.0.3
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
   58:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** #ifndef   __WEAK
   59:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h ****   #define __WEAK                                 __attribute__((weak))
   60:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** #endif
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 3
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 3
 
 
   61:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** #ifndef   __PACKED
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  115:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** #endif
  116:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** 
  117:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** 
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 4
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 4
 
 
  118:Generated_Source\PSoC6\pdl\cmsis/include/cmsis_gcc.h **** /* ###########################  Core Function Access  ########################### */
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
   68              	.L3:
   69 0022 C046     		.align	2
   70              	.L2:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 5
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 5
 
 
   71 0024 00000810 		.word	268959744
@@ -268,68 +268,68 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
   95 0006 00000000 		.4byte	.Ldebug_abbrev0
   96 000a 04       		.byte	0x4
   97 000b 01       		.uleb128 0x1
-  98 000c C8060000 		.4byte	.LASF268
+  98 000c 10070000 		.4byte	.LASF268
   99 0010 0C       		.byte	0xc
- 100 0011 BD010000 		.4byte	.LASF269
- 101 0015 CB070000 		.4byte	.LASF270
+ 100 0011 05020000 		.4byte	.LASF269
+ 101 0015 26000000 		.4byte	.LASF270
  102 0019 00000000 		.4byte	.Ldebug_ranges0+0
  103 001d 00000000 		.4byte	0
  104 0021 00000000 		.4byte	.Ldebug_line0
  105 0025 02       		.uleb128 0x2
  106 0026 02       		.byte	0x2
  107 0027 05       		.byte	0x5
- 108 0028 BF090000 		.4byte	.LASF0
+ 108 0028 BD090000 		.4byte	.LASF0
  109 002c 02       		.uleb128 0x2
  110 002d 01       		.byte	0x1
  111 002e 08       		.byte	0x8
- 112 002f B50B0000 		.4byte	.LASF1
+ 112 002f B30B0000 		.4byte	.LASF1
  113 0033 02       		.uleb128 0x2
  114 0034 01       		.byte	0x1
  115 0035 06       		.byte	0x6
- 116 0036 8F0C0000 		.4byte	.LASF2
+ 116 0036 8D0C0000 		.4byte	.LASF2
  117 003a 03       		.uleb128 0x3
- 118 003b 7D0A0000 		.4byte	.LASF3
+ 118 003b 7B0A0000 		.4byte	.LASF3
  119 003f 03       		.byte	0x3
  120 0040 1D       		.byte	0x1d
  121 0041 2C000000 		.4byte	0x2c
  122 0045 03       		.uleb128 0x3
- 123 0046 6F070000 		.4byte	.LASF4
+ 123 0046 B7070000 		.4byte	.LASF4
  124 004a 03       		.byte	0x3
  125 004b 29       		.byte	0x29
  126 004c 25000000 		.4byte	0x25
  127 0050 03       		.uleb128 0x3
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 6
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 6
 
 
- 128 0051 D0030000 		.4byte	.LASF5
+ 128 0051 18040000 		.4byte	.LASF5
  129 0055 03       		.byte	0x3
  130 0056 2B       		.byte	0x2b
  131 0057 5B000000 		.4byte	0x5b
  132 005b 02       		.uleb128 0x2
  133 005c 02       		.byte	0x2
  134 005d 07       		.byte	0x7
- 135 005e A9080000 		.4byte	.LASF6
+ 135 005e A7080000 		.4byte	.LASF6
  136 0062 02       		.uleb128 0x2
  137 0063 04       		.byte	0x4
  138 0064 05       		.byte	0x5
- 139 0065 C9090000 		.4byte	.LASF7
+ 139 0065 C7090000 		.4byte	.LASF7
  140 0069 03       		.uleb128 0x3
- 141 006a C30B0000 		.4byte	.LASF8
+ 141 006a C10B0000 		.4byte	.LASF8
  142 006e 03       		.byte	0x3
  143 006f 41       		.byte	0x41
  144 0070 74000000 		.4byte	0x74
  145 0074 02       		.uleb128 0x2
  146 0075 04       		.byte	0x4
  147 0076 07       		.byte	0x7
- 148 0077 460B0000 		.4byte	.LASF9
+ 148 0077 440B0000 		.4byte	.LASF9
  149 007b 02       		.uleb128 0x2
  150 007c 08       		.byte	0x8
  151 007d 05       		.byte	0x5
- 152 007e 73060000 		.4byte	.LASF10
+ 152 007e BB060000 		.4byte	.LASF10
  153 0082 02       		.uleb128 0x2
  154 0083 08       		.byte	0x8
  155 0084 07       		.byte	0x7
- 156 0085 D4020000 		.4byte	.LASF11
+ 156 0085 1C030000 		.4byte	.LASF11
  157 0089 04       		.uleb128 0x4
  158 008a 04       		.byte	0x4
  159 008b 05       		.byte	0x5
@@ -337,311 +337,311 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  161 0090 02       		.uleb128 0x2
  162 0091 04       		.byte	0x4
  163 0092 07       		.byte	0x7
- 164 0093 D3000000 		.4byte	.LASF12
+ 164 0093 1B010000 		.4byte	.LASF12
  165 0097 03       		.uleb128 0x3
- 166 0098 E6050000 		.4byte	.LASF13
+ 166 0098 2E060000 		.4byte	.LASF13
  167 009c 04       		.byte	0x4
  168 009d 18       		.byte	0x18
  169 009e 3A000000 		.4byte	0x3a
  170 00a2 03       		.uleb128 0x3
- 171 00a3 45030000 		.4byte	.LASF14
+ 171 00a3 8D030000 		.4byte	.LASF14
  172 00a7 04       		.byte	0x4
  173 00a8 20       		.byte	0x20
  174 00a9 45000000 		.4byte	0x45
  175 00ad 03       		.uleb128 0x3
- 176 00ae D2080000 		.4byte	.LASF15
+ 176 00ae D0080000 		.4byte	.LASF15
  177 00b2 04       		.byte	0x4
  178 00b3 24       		.byte	0x24
  179 00b4 50000000 		.4byte	0x50
  180 00b8 03       		.uleb128 0x3
- 181 00b9 A5020000 		.4byte	.LASF16
+ 181 00b9 ED020000 		.4byte	.LASF16
  182 00bd 04       		.byte	0x4
  183 00be 30       		.byte	0x30
  184 00bf 69000000 		.4byte	0x69
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 7
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 7
 
 
  185 00c3 02       		.uleb128 0x2
  186 00c4 04       		.byte	0x4
  187 00c5 07       		.byte	0x7
- 188 00c6 69090000 		.4byte	.LASF17
+ 188 00c6 67090000 		.4byte	.LASF17
  189 00ca 05       		.uleb128 0x5
  190 00cb B8000000 		.4byte	0xb8
  191 00cf 02       		.uleb128 0x2
  192 00d0 08       		.byte	0x8
  193 00d1 04       		.byte	0x4
- 194 00d2 C6080000 		.4byte	.LASF18
+ 194 00d2 C4080000 		.4byte	.LASF18
  195 00d6 06       		.uleb128 0x6
  196 00d7 B8       		.byte	0xb8
  197 00d8 05       		.byte	0x5
  198 00d9 34       		.byte	0x34
  199 00da E7040000 		.4byte	0x4e7
  200 00de 07       		.uleb128 0x7
- 201 00df 3C010000 		.4byte	.LASF19
+ 201 00df 84010000 		.4byte	.LASF19
  202 00e3 05       		.byte	0x5
  203 00e4 37       		.byte	0x37
  204 00e5 B8000000 		.4byte	0xb8
  205 00e9 00       		.byte	0
  206 00ea 07       		.uleb128 0x7
- 207 00eb 3A030000 		.4byte	.LASF20
+ 207 00eb 82030000 		.4byte	.LASF20
  208 00ef 05       		.byte	0x5
  209 00f0 38       		.byte	0x38
  210 00f1 B8000000 		.4byte	0xb8
  211 00f5 04       		.byte	0x4
  212 00f6 07       		.uleb128 0x7
- 213 00f7 99000000 		.4byte	.LASF21
+ 213 00f7 E1000000 		.4byte	.LASF21
  214 00fb 05       		.byte	0x5
  215 00fc 39       		.byte	0x39
  216 00fd B8000000 		.4byte	0xb8
  217 0101 08       		.byte	0x8
  218 0102 07       		.uleb128 0x7
- 219 0103 81000000 		.4byte	.LASF22
+ 219 0103 C9000000 		.4byte	.LASF22
  220 0107 05       		.byte	0x5
  221 0108 3A       		.byte	0x3a
  222 0109 B8000000 		.4byte	0xb8
  223 010d 0C       		.byte	0xc
  224 010e 07       		.uleb128 0x7
- 225 010f DB080000 		.4byte	.LASF23
+ 225 010f D9080000 		.4byte	.LASF23
  226 0113 05       		.byte	0x5
  227 0114 3B       		.byte	0x3b
  228 0115 B8000000 		.4byte	0xb8
  229 0119 10       		.byte	0x10
  230 011a 07       		.uleb128 0x7
- 231 011b 79070000 		.4byte	.LASF24
+ 231 011b C1070000 		.4byte	.LASF24
  232 011f 05       		.byte	0x5
  233 0120 3C       		.byte	0x3c
  234 0121 B8000000 		.4byte	0xb8
  235 0125 14       		.byte	0x14
  236 0126 07       		.uleb128 0x7
- 237 0127 BA040000 		.4byte	.LASF25
+ 237 0127 02050000 		.4byte	.LASF25
  238 012b 05       		.byte	0x5
  239 012c 3D       		.byte	0x3d
  240 012d B8000000 		.4byte	0xb8
  241 0131 18       		.byte	0x18
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 8
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 8
 
 
  242 0132 07       		.uleb128 0x7
- 243 0133 230D0000 		.4byte	.LASF26
+ 243 0133 210D0000 		.4byte	.LASF26
  244 0137 05       		.byte	0x5
  245 0138 3E       		.byte	0x3e
  246 0139 B8000000 		.4byte	0xb8
  247 013d 1C       		.byte	0x1c
  248 013e 07       		.uleb128 0x7
- 249 013f 81060000 		.4byte	.LASF27
+ 249 013f C9060000 		.4byte	.LASF27
  250 0143 05       		.byte	0x5
  251 0144 3F       		.byte	0x3f
  252 0145 B8000000 		.4byte	0xb8
  253 0149 20       		.byte	0x20
  254 014a 07       		.uleb128 0x7
- 255 014b 98060000 		.4byte	.LASF28
+ 255 014b E0060000 		.4byte	.LASF28
  256 014f 05       		.byte	0x5
  257 0150 40       		.byte	0x40
  258 0151 B8000000 		.4byte	0xb8
  259 0155 24       		.byte	0x24
  260 0156 07       		.uleb128 0x7
- 261 0157 D2090000 		.4byte	.LASF29
+ 261 0157 D0090000 		.4byte	.LASF29
  262 015b 05       		.byte	0x5
  263 015c 43       		.byte	0x43
  264 015d 97000000 		.4byte	0x97
  265 0161 28       		.byte	0x28
  266 0162 07       		.uleb128 0x7
- 267 0163 F1020000 		.4byte	.LASF30
+ 267 0163 39030000 		.4byte	.LASF30
  268 0167 05       		.byte	0x5
  269 0168 44       		.byte	0x44
  270 0169 97000000 		.4byte	0x97
  271 016d 29       		.byte	0x29
  272 016e 07       		.uleb128 0x7
- 273 016f 2A090000 		.4byte	.LASF31
+ 273 016f 28090000 		.4byte	.LASF31
  274 0173 05       		.byte	0x5
  275 0174 45       		.byte	0x45
  276 0175 97000000 		.4byte	0x97
  277 0179 2A       		.byte	0x2a
  278 017a 07       		.uleb128 0x7
- 279 017b EB090000 		.4byte	.LASF32
+ 279 017b E9090000 		.4byte	.LASF32
  280 017f 05       		.byte	0x5
  281 0180 46       		.byte	0x46
  282 0181 97000000 		.4byte	0x97
  283 0185 2B       		.byte	0x2b
  284 0186 07       		.uleb128 0x7
- 285 0187 DF090000 		.4byte	.LASF33
+ 285 0187 DD090000 		.4byte	.LASF33
  286 018b 05       		.byte	0x5
  287 018c 47       		.byte	0x47
  288 018d 97000000 		.4byte	0x97
  289 0191 2C       		.byte	0x2c
  290 0192 07       		.uleb128 0x7
- 291 0193 390B0000 		.4byte	.LASF34
+ 291 0193 370B0000 		.4byte	.LASF34
  292 0197 05       		.byte	0x5
  293 0198 48       		.byte	0x48
  294 0199 97000000 		.4byte	0x97
  295 019d 2D       		.byte	0x2d
  296 019e 07       		.uleb128 0x7
- 297 019f C00D0000 		.4byte	.LASF35
+ 297 019f BE0D0000 		.4byte	.LASF35
  298 01a3 05       		.byte	0x5
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 9
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 9
 
 
  299 01a4 49       		.byte	0x49
  300 01a5 97000000 		.4byte	0x97
  301 01a9 2E       		.byte	0x2e
  302 01aa 07       		.uleb128 0x7
- 303 01ab 030D0000 		.4byte	.LASF36
+ 303 01ab 010D0000 		.4byte	.LASF36
  304 01af 05       		.byte	0x5
  305 01b0 4A       		.byte	0x4a
  306 01b1 97000000 		.4byte	0x97
  307 01b5 2F       		.byte	0x2f
  308 01b6 07       		.uleb128 0x7
- 309 01b7 14020000 		.4byte	.LASF37
+ 309 01b7 5C020000 		.4byte	.LASF37
  310 01bb 05       		.byte	0x5
  311 01bc 4B       		.byte	0x4b
  312 01bd 97000000 		.4byte	0x97
  313 01c1 30       		.byte	0x30
  314 01c2 07       		.uleb128 0x7
- 315 01c3 FD040000 		.4byte	.LASF38
+ 315 01c3 45050000 		.4byte	.LASF38
  316 01c7 05       		.byte	0x5
  317 01c8 4E       		.byte	0x4e
  318 01c9 97000000 		.4byte	0x97
  319 01cd 31       		.byte	0x31
  320 01ce 07       		.uleb128 0x7
- 321 01cf AD0C0000 		.4byte	.LASF39
+ 321 01cf AB0C0000 		.4byte	.LASF39
  322 01d3 05       		.byte	0x5
  323 01d4 4F       		.byte	0x4f
  324 01d5 97000000 		.4byte	0x97
  325 01d9 32       		.byte	0x32
  326 01da 07       		.uleb128 0x7
- 327 01db BF070000 		.4byte	.LASF40
+ 327 01db 07080000 		.4byte	.LASF40
  328 01df 05       		.byte	0x5
  329 01e0 50       		.byte	0x50
  330 01e1 97000000 		.4byte	0x97
  331 01e5 33       		.byte	0x33
  332 01e6 07       		.uleb128 0x7
- 333 01e7 220B0000 		.4byte	.LASF41
+ 333 01e7 200B0000 		.4byte	.LASF41
  334 01eb 05       		.byte	0x5
  335 01ec 51       		.byte	0x51
  336 01ed 97000000 		.4byte	0x97
  337 01f1 34       		.byte	0x34
  338 01f2 07       		.uleb128 0x7
- 339 01f3 09060000 		.4byte	.LASF42
+ 339 01f3 51060000 		.4byte	.LASF42
  340 01f7 05       		.byte	0x5
  341 01f8 52       		.byte	0x52
  342 01f9 A2000000 		.4byte	0xa2
  343 01fd 36       		.byte	0x36
  344 01fe 07       		.uleb128 0x7
- 345 01ff 52010000 		.4byte	.LASF43
+ 345 01ff 9A010000 		.4byte	.LASF43
  346 0203 05       		.byte	0x5
  347 0204 53       		.byte	0x53
  348 0205 A2000000 		.4byte	0xa2
  349 0209 38       		.byte	0x38
  350 020a 07       		.uleb128 0x7
- 351 020b 9C070000 		.4byte	.LASF44
+ 351 020b E4070000 		.4byte	.LASF44
  352 020f 05       		.byte	0x5
  353 0210 54       		.byte	0x54
  354 0211 A2000000 		.4byte	0xa2
  355 0215 3A       		.byte	0x3a
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 10
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 10
 
 
  356 0216 07       		.uleb128 0x7
- 357 0217 2C0D0000 		.4byte	.LASF45
+ 357 0217 2A0D0000 		.4byte	.LASF45
  358 021b 05       		.byte	0x5
  359 021c 55       		.byte	0x55
  360 021d 97000000 		.4byte	0x97
  361 0221 3C       		.byte	0x3c
  362 0222 07       		.uleb128 0x7
- 363 0223 F3010000 		.4byte	.LASF46
+ 363 0223 3B020000 		.4byte	.LASF46
  364 0227 05       		.byte	0x5
  365 0228 56       		.byte	0x56
  366 0229 97000000 		.4byte	0x97
  367 022d 3D       		.byte	0x3d
  368 022e 07       		.uleb128 0x7
- 369 022f 1C090000 		.4byte	.LASF47
+ 369 022f 1A090000 		.4byte	.LASF47
  370 0233 05       		.byte	0x5
  371 0234 57       		.byte	0x57
  372 0235 97000000 		.4byte	0x97
  373 0239 3E       		.byte	0x3e
  374 023a 07       		.uleb128 0x7
- 375 023b 67000000 		.4byte	.LASF48
+ 375 023b AF000000 		.4byte	.LASF48
  376 023f 05       		.byte	0x5
  377 0240 58       		.byte	0x58
  378 0241 97000000 		.4byte	0x97
  379 0245 3F       		.byte	0x3f
  380 0246 07       		.uleb128 0x7
- 381 0247 E0000000 		.4byte	.LASF49
+ 381 0247 28010000 		.4byte	.LASF49
  382 024b 05       		.byte	0x5
  383 024c 59       		.byte	0x59
  384 024d 97000000 		.4byte	0x97
  385 0251 40       		.byte	0x40
  386 0252 07       		.uleb128 0x7
- 387 0253 45080000 		.4byte	.LASF50
+ 387 0253 43080000 		.4byte	.LASF50
  388 0257 05       		.byte	0x5
  389 0258 5A       		.byte	0x5a
  390 0259 97000000 		.4byte	0x97
  391 025d 41       		.byte	0x41
  392 025e 07       		.uleb128 0x7
- 393 025f 6E0C0000 		.4byte	.LASF51
+ 393 025f 6C0C0000 		.4byte	.LASF51
  394 0263 05       		.byte	0x5
  395 0264 5B       		.byte	0x5b
  396 0265 97000000 		.4byte	0x97
  397 0269 42       		.byte	0x42
  398 026a 07       		.uleb128 0x7
- 399 026b D9040000 		.4byte	.LASF52
+ 399 026b 21050000 		.4byte	.LASF52
  400 026f 05       		.byte	0x5
  401 0270 5C       		.byte	0x5c
  402 0271 97000000 		.4byte	0x97
  403 0275 43       		.byte	0x43
  404 0276 07       		.uleb128 0x7
- 405 0277 9A050000 		.4byte	.LASF53
+ 405 0277 E2050000 		.4byte	.LASF53
  406 027b 05       		.byte	0x5
  407 027c 5D       		.byte	0x5d
  408 027d 97000000 		.4byte	0x97
  409 0281 44       		.byte	0x44
  410 0282 07       		.uleb128 0x7
- 411 0283 F9090000 		.4byte	.LASF54
+ 411 0283 F7090000 		.4byte	.LASF54
  412 0287 05       		.byte	0x5
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 11
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 11
 
 
  413 0288 5E       		.byte	0x5e
  414 0289 B8000000 		.4byte	0xb8
  415 028d 48       		.byte	0x48
  416 028e 07       		.uleb128 0x7
- 417 028f C9010000 		.4byte	.LASF55
+ 417 028f 11020000 		.4byte	.LASF55
  418 0293 05       		.byte	0x5
  419 0294 5F       		.byte	0x5f
  420 0295 B8000000 		.4byte	0xb8
  421 0299 4C       		.byte	0x4c
  422 029a 07       		.uleb128 0x7
- 423 029b 310C0000 		.4byte	.LASF56
+ 423 029b 2F0C0000 		.4byte	.LASF56
  424 029f 05       		.byte	0x5
  425 02a0 60       		.byte	0x60
  426 02a1 97000000 		.4byte	0x97
  427 02a5 50       		.byte	0x50
  428 02a6 07       		.uleb128 0x7
- 429 02a7 50040000 		.4byte	.LASF57
+ 429 02a7 98040000 		.4byte	.LASF57
  430 02ab 05       		.byte	0x5
  431 02ac 61       		.byte	0x61
  432 02ad 97000000 		.4byte	0x97
  433 02b1 51       		.byte	0x51
  434 02b2 07       		.uleb128 0x7
- 435 02b3 B8060000 		.4byte	.LASF58
+ 435 02b3 00070000 		.4byte	.LASF58
  436 02b7 05       		.byte	0x5
  437 02b8 62       		.byte	0x62
  438 02b9 97000000 		.4byte	0x97
  439 02bd 52       		.byte	0x52
  440 02be 07       		.uleb128 0x7
- 441 02bf 21030000 		.4byte	.LASF59
+ 441 02bf 69030000 		.4byte	.LASF59
  442 02c3 05       		.byte	0x5
  443 02c4 63       		.byte	0x63
  444 02c5 97000000 		.4byte	0x97
  445 02c9 53       		.byte	0x53
  446 02ca 07       		.uleb128 0x7
- 447 02cb F90B0000 		.4byte	.LASF60
+ 447 02cb F70B0000 		.4byte	.LASF60
  448 02cf 05       		.byte	0x5
  449 02d0 64       		.byte	0x64
  450 02d1 97000000 		.4byte	0x97
  451 02d5 54       		.byte	0x54
  452 02d6 07       		.uleb128 0x7
- 453 02d7 A0040000 		.4byte	.LASF61
+ 453 02d7 E8040000 		.4byte	.LASF61
  454 02db 05       		.byte	0x5
  455 02dc 65       		.byte	0x65
  456 02dd 97000000 		.4byte	0x97
@@ -653,275 +653,275 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  462 02e9 97000000 		.4byte	0x97
  463 02ed 56       		.byte	0x56
  464 02ee 07       		.uleb128 0x7
- 465 02ef 34090000 		.4byte	.LASF63
+ 465 02ef 32090000 		.4byte	.LASF63
  466 02f3 05       		.byte	0x5
  467 02f4 67       		.byte	0x67
  468 02f5 97000000 		.4byte	0x97
  469 02f9 57       		.byte	0x57
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 12
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 12
 
 
  470 02fa 07       		.uleb128 0x7
- 471 02fb 28040000 		.4byte	.LASF64
+ 471 02fb 70040000 		.4byte	.LASF64
  472 02ff 05       		.byte	0x5
  473 0300 68       		.byte	0x68
  474 0301 97000000 		.4byte	0x97
  475 0305 58       		.byte	0x58
  476 0306 07       		.uleb128 0x7
- 477 0307 4E0D0000 		.4byte	.LASF65
+ 477 0307 4C0D0000 		.4byte	.LASF65
  478 030b 05       		.byte	0x5
  479 030c 69       		.byte	0x69
  480 030d 97000000 		.4byte	0x97
  481 0311 59       		.byte	0x59
  482 0312 07       		.uleb128 0x7
- 483 0313 9B0C0000 		.4byte	.LASF66
+ 483 0313 990C0000 		.4byte	.LASF66
  484 0317 05       		.byte	0x5
  485 0318 6E       		.byte	0x6e
  486 0319 AD000000 		.4byte	0xad
  487 031d 5A       		.byte	0x5a
  488 031e 07       		.uleb128 0x7
- 489 031f B5000000 		.4byte	.LASF67
+ 489 031f FD000000 		.4byte	.LASF67
  490 0323 05       		.byte	0x5
  491 0324 6F       		.byte	0x6f
  492 0325 AD000000 		.4byte	0xad
  493 0329 5C       		.byte	0x5c
  494 032a 07       		.uleb128 0x7
- 495 032b 89060000 		.4byte	.LASF68
+ 495 032b D1060000 		.4byte	.LASF68
  496 032f 05       		.byte	0x5
  497 0330 70       		.byte	0x70
  498 0331 97000000 		.4byte	0x97
  499 0335 5E       		.byte	0x5e
  500 0336 07       		.uleb128 0x7
- 501 0337 BB0C0000 		.4byte	.LASF69
+ 501 0337 B90C0000 		.4byte	.LASF69
  502 033b 05       		.byte	0x5
  503 033c 71       		.byte	0x71
  504 033d 97000000 		.4byte	0x97
  505 0341 5F       		.byte	0x5f
  506 0342 07       		.uleb128 0x7
- 507 0343 EC040000 		.4byte	.LASF70
+ 507 0343 34050000 		.4byte	.LASF70
  508 0347 05       		.byte	0x5
  509 0348 72       		.byte	0x72
  510 0349 97000000 		.4byte	0x97
  511 034d 60       		.byte	0x60
  512 034e 07       		.uleb128 0x7
- 513 034f D5050000 		.4byte	.LASF71
+ 513 034f 1D060000 		.4byte	.LASF71
  514 0353 05       		.byte	0x5
  515 0354 73       		.byte	0x73
  516 0355 B8000000 		.4byte	0xb8
  517 0359 64       		.byte	0x64
  518 035a 07       		.uleb128 0x7
- 519 035b 48090000 		.4byte	.LASF72
+ 519 035b 46090000 		.4byte	.LASF72
  520 035f 05       		.byte	0x5
  521 0360 76       		.byte	0x76
  522 0361 AD000000 		.4byte	0xad
  523 0365 68       		.byte	0x68
  524 0366 07       		.uleb128 0x7
- 525 0367 E4080000 		.4byte	.LASF73
+ 525 0367 E2080000 		.4byte	.LASF73
  526 036b 05       		.byte	0x5
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 13
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 13
 
 
  527 036c 77       		.byte	0x77
  528 036d AD000000 		.4byte	0xad
  529 0371 6A       		.byte	0x6a
  530 0372 07       		.uleb128 0x7
- 531 0373 83070000 		.4byte	.LASF74
+ 531 0373 CB070000 		.4byte	.LASF74
  532 0377 05       		.byte	0x5
  533 0378 78       		.byte	0x78
  534 0379 AD000000 		.4byte	0xad
  535 037d 6C       		.byte	0x6c
  536 037e 07       		.uleb128 0x7
- 537 037f 94010000 		.4byte	.LASF75
+ 537 037f DC010000 		.4byte	.LASF75
  538 0383 05       		.byte	0x5
  539 0384 79       		.byte	0x79
  540 0385 AD000000 		.4byte	0xad
  541 0389 6E       		.byte	0x6e
  542 038a 07       		.uleb128 0x7
- 543 038b F5050000 		.4byte	.LASF76
+ 543 038b 3D060000 		.4byte	.LASF76
  544 038f 05       		.byte	0x5
  545 0390 7B       		.byte	0x7b
  546 0391 97000000 		.4byte	0x97
  547 0395 70       		.byte	0x70
  548 0396 07       		.uleb128 0x7
- 549 0397 59020000 		.4byte	.LASF77
+ 549 0397 A1020000 		.4byte	.LASF77
  550 039b 05       		.byte	0x5
  551 039c 7C       		.byte	0x7c
  552 039d 97000000 		.4byte	0x97
  553 03a1 71       		.byte	0x71
  554 03a2 07       		.uleb128 0x7
- 555 03a3 A1010000 		.4byte	.LASF78
+ 555 03a3 E9010000 		.4byte	.LASF78
  556 03a7 05       		.byte	0x5
  557 03a8 7D       		.byte	0x7d
  558 03a9 97000000 		.4byte	0x97
  559 03ad 72       		.byte	0x72
  560 03ae 07       		.uleb128 0x7
- 561 03af 07010000 		.4byte	.LASF79
+ 561 03af 4F010000 		.4byte	.LASF79
  562 03b3 05       		.byte	0x5
  563 03b4 7E       		.byte	0x7e
  564 03b5 97000000 		.4byte	0x97
  565 03b9 73       		.byte	0x73
  566 03ba 07       		.uleb128 0x7
- 567 03bb AD090000 		.4byte	.LASF80
+ 567 03bb AB090000 		.4byte	.LASF80
  568 03bf 05       		.byte	0x5
  569 03c0 80       		.byte	0x80
  570 03c1 AD000000 		.4byte	0xad
  571 03c5 74       		.byte	0x74
  572 03c6 07       		.uleb128 0x7
- 573 03c7 72080000 		.4byte	.LASF81
+ 573 03c7 70080000 		.4byte	.LASF81
  574 03cb 05       		.byte	0x5
  575 03cc 81       		.byte	0x81
  576 03cd AD000000 		.4byte	0xad
  577 03d1 76       		.byte	0x76
  578 03d2 07       		.uleb128 0x7
- 579 03d3 85050000 		.4byte	.LASF82
+ 579 03d3 CD050000 		.4byte	.LASF82
  580 03d7 05       		.byte	0x5
  581 03d8 82       		.byte	0x82
  582 03d9 AD000000 		.4byte	0xad
  583 03dd 78       		.byte	0x78
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 14
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 14
 
 
  584 03de 07       		.uleb128 0x7
- 585 03df 88030000 		.4byte	.LASF83
+ 585 03df D0030000 		.4byte	.LASF83
  586 03e3 05       		.byte	0x5
  587 03e4 83       		.byte	0x83
  588 03e5 AD000000 		.4byte	0xad
  589 03e9 7A       		.byte	0x7a
  590 03ea 07       		.uleb128 0x7
- 591 03eb B10A0000 		.4byte	.LASF84
+ 591 03eb AF0A0000 		.4byte	.LASF84
  592 03ef 05       		.byte	0x5
  593 03f0 86       		.byte	0x86
  594 03f1 97000000 		.4byte	0x97
  595 03f5 7C       		.byte	0x7c
  596 03f6 07       		.uleb128 0x7
- 597 03f7 5D0C0000 		.4byte	.LASF85
+ 597 03f7 5B0C0000 		.4byte	.LASF85
  598 03fb 05       		.byte	0x5
  599 03fc 87       		.byte	0x87
  600 03fd 97000000 		.4byte	0x97
  601 0401 7D       		.byte	0x7d
  602 0402 07       		.uleb128 0x7
- 603 0403 5E030000 		.4byte	.LASF86
+ 603 0403 A6030000 		.4byte	.LASF86
  604 0407 05       		.byte	0x5
  605 0408 88       		.byte	0x88
  606 0409 97000000 		.4byte	0x97
  607 040d 7E       		.byte	0x7e
  608 040e 07       		.uleb128 0x7
- 609 040f B8020000 		.4byte	.LASF87
+ 609 040f 00030000 		.4byte	.LASF87
  610 0413 05       		.byte	0x5
  611 0414 89       		.byte	0x89
  612 0415 97000000 		.4byte	0x97
  613 0419 7F       		.byte	0x7f
  614 041a 07       		.uleb128 0x7
- 615 041b 9D030000 		.4byte	.LASF88
+ 615 041b E5030000 		.4byte	.LASF88
  616 041f 05       		.byte	0x5
  617 0420 8A       		.byte	0x8a
  618 0421 97000000 		.4byte	0x97
  619 0425 80       		.byte	0x80
  620 0426 07       		.uleb128 0x7
- 621 0427 50000000 		.4byte	.LASF89
+ 621 0427 98000000 		.4byte	.LASF89
  622 042b 05       		.byte	0x5
  623 042c 8D       		.byte	0x8d
  624 042d B8000000 		.4byte	0xb8
  625 0431 84       		.byte	0x84
  626 0432 07       		.uleb128 0x7
- 627 0433 DB0A0000 		.4byte	.LASF90
+ 627 0433 D90A0000 		.4byte	.LASF90
  628 0437 05       		.byte	0x5
  629 0438 8E       		.byte	0x8e
  630 0439 B8000000 		.4byte	0xb8
  631 043d 88       		.byte	0x88
  632 043e 07       		.uleb128 0x7
- 633 043f 30080000 		.4byte	.LASF91
+ 633 043f 2E080000 		.4byte	.LASF91
  634 0443 05       		.byte	0x5
  635 0444 8F       		.byte	0x8f
  636 0445 B8000000 		.4byte	0xb8
  637 0449 8C       		.byte	0x8c
  638 044a 07       		.uleb128 0x7
- 639 044b 98090000 		.4byte	.LASF92
+ 639 044b 96090000 		.4byte	.LASF92
  640 044f 05       		.byte	0x5
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 15
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 15
 
 
  641 0450 90       		.byte	0x90
  642 0451 B8000000 		.4byte	0xb8
  643 0455 90       		.byte	0x90
  644 0456 07       		.uleb128 0x7
- 645 0457 680A0000 		.4byte	.LASF93
+ 645 0457 660A0000 		.4byte	.LASF93
  646 045b 05       		.byte	0x5
  647 045c 91       		.byte	0x91
  648 045d B8000000 		.4byte	0xb8
  649 0461 94       		.byte	0x94
  650 0462 07       		.uleb128 0x7
- 651 0463 6E020000 		.4byte	.LASF94
+ 651 0463 B6020000 		.4byte	.LASF94
  652 0467 05       		.byte	0x5
  653 0468 92       		.byte	0x92
  654 0469 B8000000 		.4byte	0xb8
  655 046d 98       		.byte	0x98
  656 046e 07       		.uleb128 0x7
- 657 046f FA0A0000 		.4byte	.LASF95
+ 657 046f F80A0000 		.4byte	.LASF95
  658 0473 05       		.byte	0x5
  659 0474 93       		.byte	0x93
  660 0475 B8000000 		.4byte	0xb8
  661 0479 9C       		.byte	0x9c
  662 047a 07       		.uleb128 0x7
- 663 047b C3040000 		.4byte	.LASF96
+ 663 047b 0B050000 		.4byte	.LASF96
  664 047f 05       		.byte	0x5
  665 0480 94       		.byte	0x94
  666 0481 B8000000 		.4byte	0xb8
  667 0485 A0       		.byte	0xa0
  668 0486 07       		.uleb128 0x7
- 669 0487 C60A0000 		.4byte	.LASF97
+ 669 0487 C40A0000 		.4byte	.LASF97
  670 048b 05       		.byte	0x5
  671 048c 95       		.byte	0x95
  672 048d AD000000 		.4byte	0xad
  673 0491 A4       		.byte	0xa4
  674 0492 07       		.uleb128 0x7
- 675 0493 83090000 		.4byte	.LASF98
+ 675 0493 81090000 		.4byte	.LASF98
  676 0497 05       		.byte	0x5
  677 0498 96       		.byte	0x96
  678 0499 AD000000 		.4byte	0xad
  679 049d A6       		.byte	0xa6
  680 049e 07       		.uleb128 0x7
- 681 049f 580B0000 		.4byte	.LASF99
+ 681 049f 560B0000 		.4byte	.LASF99
  682 04a3 05       		.byte	0x5
  683 04a4 97       		.byte	0x97
  684 04a5 AD000000 		.4byte	0xad
  685 04a9 A8       		.byte	0xa8
  686 04aa 07       		.uleb128 0x7
- 687 04ab 65060000 		.4byte	.LASF100
+ 687 04ab AD060000 		.4byte	.LASF100
  688 04af 05       		.byte	0x5
  689 04b0 98       		.byte	0x98
  690 04b1 AD000000 		.4byte	0xad
  691 04b5 AA       		.byte	0xaa
  692 04b6 07       		.uleb128 0x7
- 693 04b7 E5010000 		.4byte	.LASF101
+ 693 04b7 2D020000 		.4byte	.LASF101
  694 04bb 05       		.byte	0x5
  695 04bc 99       		.byte	0x99
  696 04bd AD000000 		.4byte	0xad
  697 04c1 AC       		.byte	0xac
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 16
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 16
 
 
  698 04c2 07       		.uleb128 0x7
- 699 04c3 55080000 		.4byte	.LASF102
+ 699 04c3 53080000 		.4byte	.LASF102
  700 04c7 05       		.byte	0x5
  701 04c8 9A       		.byte	0x9a
  702 04c9 AD000000 		.4byte	0xad
  703 04cd AE       		.byte	0xae
  704 04ce 07       		.uleb128 0x7
- 705 04cf FE010000 		.4byte	.LASF103
+ 705 04cf 46020000 		.4byte	.LASF103
  706 04d3 05       		.byte	0x5
  707 04d4 9D       		.byte	0x9d
  708 04d5 AD000000 		.4byte	0xad
  709 04d9 B0       		.byte	0xb0
  710 04da 07       		.uleb128 0x7
- 711 04db CE0B0000 		.4byte	.LASF104
+ 711 04db CC0B0000 		.4byte	.LASF104
  712 04df 05       		.byte	0x5
  713 04e0 9E       		.byte	0x9e
  714 04e1 B8000000 		.4byte	0xb8
  715 04e5 B4       		.byte	0xb4
  716 04e6 00       		.byte	0
  717 04e7 03       		.uleb128 0x3
- 718 04e8 7D0B0000 		.4byte	.LASF105
+ 718 04e8 7B0B0000 		.4byte	.LASF105
  719 04ec 05       		.byte	0x5
  720 04ed 9F       		.byte	0x9f
  721 04ee D6000000 		.4byte	0xd6
@@ -932,21 +932,21 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  726 04f9 02       		.uleb128 0x2
  727 04fa 01       		.byte	0x1
  728 04fb 08       		.byte	0x8
- 729 04fc 4F050000 		.4byte	.LASF106
+ 729 04fc 97050000 		.4byte	.LASF106
  730 0500 02       		.uleb128 0x2
  731 0501 04       		.byte	0x4
  732 0502 04       		.byte	0x4
- 733 0503 EB020000 		.4byte	.LASF107
+ 733 0503 33030000 		.4byte	.LASF107
  734 0507 02       		.uleb128 0x2
  735 0508 08       		.byte	0x8
  736 0509 04       		.byte	0x4
- 737 050a 7D040000 		.4byte	.LASF108
+ 737 050a C5040000 		.4byte	.LASF108
  738 050e 0A       		.uleb128 0xa
  739 050f 04       		.byte	0x4
  740 0510 02       		.uleb128 0x2
  741 0511 01       		.byte	0x1
  742 0512 02       		.byte	0x2
- 743 0513 8F040000 		.4byte	.LASF109
+ 743 0513 D7040000 		.4byte	.LASF109
  744 0517 0B       		.uleb128 0xb
  745 0518 01       		.byte	0x1
  746 0519 2C000000 		.4byte	0x2c
@@ -954,23 +954,23 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  748 051e 1304     		.2byte	0x413
  749 0520 3D050000 		.4byte	0x53d
  750 0524 0C       		.uleb128 0xc
- 751 0525 20020000 		.4byte	.LASF110
+ 751 0525 68020000 		.4byte	.LASF110
  752 0529 00       		.byte	0
  753 052a 0C       		.uleb128 0xc
- 754 052b E2030000 		.4byte	.LASF111
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 17
+ 754 052b 2A040000 		.4byte	.LASF111
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 17
 
 
  755 052f 01       		.byte	0x1
  756 0530 0C       		.uleb128 0xc
- 757 0531 37050000 		.4byte	.LASF112
+ 757 0531 7F050000 		.4byte	.LASF112
  758 0535 02       		.byte	0x2
  759 0536 0C       		.uleb128 0xc
- 760 0537 ED000000 		.4byte	.LASF113
+ 760 0537 35010000 		.4byte	.LASF113
  761 053b 03       		.byte	0x3
  762 053c 00       		.byte	0
  763 053d 0D       		.uleb128 0xd
- 764 053e 700D0000 		.4byte	.LASF114
+ 764 053e 6E0D0000 		.4byte	.LASF114
  765 0542 06       		.byte	0x6
  766 0543 1804     		.2byte	0x418
  767 0545 17050000 		.4byte	0x517
@@ -980,52 +980,52 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  771 054c 0205     		.2byte	0x502
  772 054e 16060000 		.4byte	0x616
  773 0552 0F       		.uleb128 0xf
- 774 0553 0F040000 		.4byte	.LASF115
+ 774 0553 57040000 		.4byte	.LASF115
  775 0557 06       		.byte	0x6
  776 0558 0405     		.2byte	0x504
  777 055a B8000000 		.4byte	0xb8
  778 055e 00       		.byte	0
  779 055f 0F       		.uleb128 0xf
- 780 0560 A20B0000 		.4byte	.LASF116
+ 780 0560 A00B0000 		.4byte	.LASF116
  781 0564 06       		.byte	0x6
  782 0565 0505     		.2byte	0x505
  783 0567 B8000000 		.4byte	0xb8
  784 056b 04       		.byte	0x4
  785 056c 0F       		.uleb128 0xf
- 786 056d FF080000 		.4byte	.LASF117
+ 786 056d FD080000 		.4byte	.LASF117
  787 0571 06       		.byte	0x6
  788 0572 0605     		.2byte	0x506
  789 0574 B8000000 		.4byte	0xb8
  790 0578 08       		.byte	0x8
  791 0579 0F       		.uleb128 0xf
- 792 057a 100B0000 		.4byte	.LASF118
+ 792 057a 0E0B0000 		.4byte	.LASF118
  793 057e 06       		.byte	0x6
  794 057f 0705     		.2byte	0x507
  795 0581 B8000000 		.4byte	0xb8
  796 0585 0C       		.byte	0xc
  797 0586 0F       		.uleb128 0xf
- 798 0587 C5030000 		.4byte	.LASF119
+ 798 0587 0D040000 		.4byte	.LASF119
  799 058b 06       		.byte	0x6
  800 058c 0805     		.2byte	0x508
  801 058e B8000000 		.4byte	0xb8
  802 0592 10       		.byte	0x10
  803 0593 0F       		.uleb128 0xf
- 804 0594 45060000 		.4byte	.LASF120
+ 804 0594 8D060000 		.4byte	.LASF120
  805 0598 06       		.byte	0x6
  806 0599 0905     		.2byte	0x509
  807 059b 3D050000 		.4byte	0x53d
  808 059f 14       		.byte	0x14
  809 05a0 0F       		.uleb128 0xf
- 810 05a1 BE030000 		.4byte	.LASF121
+ 810 05a1 06040000 		.4byte	.LASF121
  811 05a5 06       		.byte	0x6
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 18
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 18
 
 
  812 05a6 0A05     		.2byte	0x50a
  813 05a8 B8000000 		.4byte	0xb8
  814 05ac 18       		.byte	0x18
  815 05ad 0F       		.uleb128 0xf
- 816 05ae D60C0000 		.4byte	.LASF122
+ 816 05ae D40C0000 		.4byte	.LASF122
  817 05b2 06       		.byte	0x6
  818 05b3 0B05     		.2byte	0x50b
  819 05b5 16060000 		.4byte	0x616
@@ -1037,37 +1037,37 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  825 05c2 B8000000 		.4byte	0xb8
  826 05c6 5C       		.byte	0x5c
  827 05c7 0F       		.uleb128 0xf
- 828 05c8 E10C0000 		.4byte	.LASF124
+ 828 05c8 DF0C0000 		.4byte	.LASF124
  829 05cc 06       		.byte	0x6
  830 05cd 0D05     		.2byte	0x50d
  831 05cf B8000000 		.4byte	0xb8
  832 05d3 60       		.byte	0x60
  833 05d4 0F       		.uleb128 0xf
- 834 05d5 620D0000 		.4byte	.LASF125
+ 834 05d5 600D0000 		.4byte	.LASF125
  835 05d9 06       		.byte	0x6
  836 05da 0E05     		.2byte	0x50e
  837 05dc B8000000 		.4byte	0xb8
  838 05e0 64       		.byte	0x64
  839 05e1 0F       		.uleb128 0xf
- 840 05e2 9F080000 		.4byte	.LASF126
+ 840 05e2 9D080000 		.4byte	.LASF126
  841 05e6 06       		.byte	0x6
  842 05e7 0F05     		.2byte	0x50f
  843 05e9 B8000000 		.4byte	0xb8
  844 05ed 68       		.byte	0x68
  845 05ee 0F       		.uleb128 0xf
- 846 05ef 16060000 		.4byte	.LASF127
+ 846 05ef 5E060000 		.4byte	.LASF127
  847 05f3 06       		.byte	0x6
  848 05f4 1005     		.2byte	0x510
  849 05f6 B8000000 		.4byte	0xb8
  850 05fa 6C       		.byte	0x6c
  851 05fb 0F       		.uleb128 0xf
- 852 05fc 150D0000 		.4byte	.LASF128
+ 852 05fc 130D0000 		.4byte	.LASF128
  853 0600 06       		.byte	0x6
  854 0601 1105     		.2byte	0x511
  855 0603 10050000 		.4byte	0x510
  856 0607 70       		.byte	0x70
  857 0608 0F       		.uleb128 0xf
- 858 0609 0D050000 		.4byte	.LASF129
+ 858 0609 55050000 		.4byte	.LASF129
  859 060d 06       		.byte	0x6
  860 060e 1205     		.2byte	0x512
  861 0610 B8000000 		.4byte	0xb8
@@ -1078,13 +1078,13 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  866 061b 26060000 		.4byte	0x626
  867 061f 11       		.uleb128 0x11
  868 0620 C3000000 		.4byte	0xc3
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 19
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 19
 
 
  869 0624 0F       		.byte	0xf
  870 0625 00       		.byte	0
  871 0626 0D       		.uleb128 0xd
- 872 0627 FB030000 		.4byte	.LASF130
+ 872 0627 43040000 		.4byte	.LASF130
  873 062b 06       		.byte	0x6
  874 062c 1305     		.2byte	0x513
  875 062e 49050000 		.4byte	0x549
@@ -1097,108 +1097,108 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  882 063e B8000000 		.4byte	0xb8
  883 0642 00       		.byte	0
  884 0643 0D       		.uleb128 0xd
- 885 0644 26060000 		.4byte	.LASF131
+ 885 0644 6E060000 		.4byte	.LASF131
  886 0648 07       		.byte	0x7
  887 0649 D901     		.2byte	0x1d9
  888 064b 32060000 		.4byte	0x632
  889 064f 14       		.uleb128 0x14
- 890 0650 26000000 		.4byte	.LASF164
+ 890 0650 6E000000 		.4byte	.LASF164
  891 0654 38       		.byte	0x38
  892 0655 07       		.byte	0x7
  893 0656 7502     		.2byte	0x275
  894 0658 13070000 		.4byte	0x713
  895 065c 0F       		.uleb128 0xf
- 896 065d 90000000 		.4byte	.LASF132
+ 896 065d D8000000 		.4byte	.LASF132
  897 0661 07       		.byte	0x7
  898 0662 7802     		.2byte	0x278
  899 0664 CA000000 		.4byte	0xca
  900 0668 00       		.byte	0
  901 0669 0F       		.uleb128 0xf
- 902 066a 14040000 		.4byte	.LASF133
+ 902 066a 5C040000 		.4byte	.LASF133
  903 066e 07       		.byte	0x7
  904 066f 7902     		.2byte	0x279
  905 0671 CA000000 		.4byte	0xca
  906 0675 04       		.byte	0x4
  907 0676 0F       		.uleb128 0xf
- 908 0677 BC080000 		.4byte	.LASF134
+ 908 0677 BA080000 		.4byte	.LASF134
  909 067b 07       		.byte	0x7
  910 067c 7B02     		.2byte	0x27b
  911 067e 0E050000 		.4byte	0x50e
  912 0682 08       		.byte	0x8
  913 0683 0F       		.uleb128 0xf
- 914 0684 74010000 		.4byte	.LASF135
+ 914 0684 BC010000 		.4byte	.LASF135
  915 0688 07       		.byte	0x7
  916 0689 7C02     		.2byte	0x27c
  917 068b B8000000 		.4byte	0xb8
  918 068f 0C       		.byte	0xc
  919 0690 0F       		.uleb128 0xf
- 920 0691 B1070000 		.4byte	.LASF136
+ 920 0691 F9070000 		.4byte	.LASF136
  921 0695 07       		.byte	0x7
  922 0696 7D02     		.2byte	0x27d
  923 0698 CA000000 		.4byte	0xca
  924 069c 10       		.byte	0x10
  925 069d 0F       		.uleb128 0xf
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 20
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 20
 
 
- 926 069e 77050000 		.4byte	.LASF137
+ 926 069e BF050000 		.4byte	.LASF137
  927 06a2 07       		.byte	0x7
  928 06a3 7E02     		.2byte	0x27e
  929 06a5 CA000000 		.4byte	0xca
  930 06a9 14       		.byte	0x14
  931 06aa 0F       		.uleb128 0xf
- 932 06ab A30D0000 		.4byte	.LASF138
+ 932 06ab A10D0000 		.4byte	.LASF138
  933 06af 07       		.byte	0x7
  934 06b0 8002     		.2byte	0x280
  935 06b2 0E050000 		.4byte	0x50e
  936 06b6 18       		.byte	0x18
  937 06b7 0F       		.uleb128 0xf
- 938 06b8 E20D0000 		.4byte	.LASF139
+ 938 06b8 E00D0000 		.4byte	.LASF139
  939 06bc 07       		.byte	0x7
  940 06bd 8102     		.2byte	0x281
  941 06bf B8000000 		.4byte	0xb8
  942 06c3 1C       		.byte	0x1c
  943 06c4 0F       		.uleb128 0xf
- 944 06c5 BE050000 		.4byte	.LASF140
+ 944 06c5 06060000 		.4byte	.LASF140
  945 06c9 07       		.byte	0x7
  946 06ca 8202     		.2byte	0x282
  947 06cc CA000000 		.4byte	0xca
  948 06d0 20       		.byte	0x20
  949 06d1 0F       		.uleb128 0xf
- 950 06d2 6C080000 		.4byte	.LASF141
+ 950 06d2 6A080000 		.4byte	.LASF141
  951 06d6 07       		.byte	0x7
  952 06d7 8402     		.2byte	0x284
  953 06d9 0E050000 		.4byte	0x50e
  954 06dd 24       		.byte	0x24
  955 06de 0F       		.uleb128 0xf
- 956 06df 15080000 		.4byte	.LASF142
+ 956 06df 13080000 		.4byte	.LASF142
  957 06e3 07       		.byte	0x7
  958 06e4 8502     		.2byte	0x285
  959 06e6 B8000000 		.4byte	0xb8
  960 06ea 28       		.byte	0x28
  961 06eb 0F       		.uleb128 0xf
- 962 06ec 72090000 		.4byte	.LASF143
+ 962 06ec 70090000 		.4byte	.LASF143
  963 06f0 07       		.byte	0x7
  964 06f1 8602     		.2byte	0x286
  965 06f3 CA000000 		.4byte	0xca
  966 06f7 2C       		.byte	0x2c
  967 06f8 0F       		.uleb128 0xf
- 968 06f9 62040000 		.4byte	.LASF144
+ 968 06f9 AA040000 		.4byte	.LASF144
  969 06fd 07       		.byte	0x7
  970 06fe 8B02     		.2byte	0x28b
  971 0700 43060000 		.4byte	0x643
  972 0704 30       		.byte	0x30
  973 0705 0F       		.uleb128 0xf
- 974 0706 C7050000 		.4byte	.LASF145
+ 974 0706 0F060000 		.4byte	.LASF145
  975 070a 07       		.byte	0x7
  976 070b 8E02     		.2byte	0x28e
  977 070d B8000000 		.4byte	0xb8
  978 0711 34       		.byte	0x34
  979 0712 00       		.byte	0
  980 0713 0D       		.uleb128 0xd
- 981 0714 07030000 		.4byte	.LASF146
+ 981 0714 4F030000 		.4byte	.LASF146
  982 0718 07       		.byte	0x7
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 21
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 21
 
 
  983 0719 9102     		.2byte	0x291
@@ -1209,31 +1209,31 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  988 0722 3B       		.byte	0x3b
  989 0723 64070000 		.4byte	0x764
  990 0727 07       		.uleb128 0x7
- 991 0728 46010000 		.4byte	.LASF147
+ 991 0728 8E010000 		.4byte	.LASF147
  992 072c 08       		.byte	0x8
  993 072d 3D       		.byte	0x3d
  994 072e B8000000 		.4byte	0xb8
  995 0732 00       		.byte	0
  996 0733 07       		.uleb128 0x7
- 997 0734 71030000 		.4byte	.LASF148
+ 997 0734 B9030000 		.4byte	.LASF148
  998 0738 08       		.byte	0x8
  999 0739 3E       		.byte	0x3e
  1000 073a B8000000 		.4byte	0xb8
  1001 073e 04       		.byte	0x4
  1002 073f 07       		.uleb128 0x7
- 1003 0740 5D010000 		.4byte	.LASF149
+ 1003 0740 A5010000 		.4byte	.LASF149
  1004 0744 08       		.byte	0x8
  1005 0745 3F       		.byte	0x3f
  1006 0746 64070000 		.4byte	0x764
  1007 074a 08       		.byte	0x8
  1008 074b 07       		.uleb128 0x7
- 1009 074c 8C0A0000 		.4byte	.LASF150
+ 1009 074c 8A0A0000 		.4byte	.LASF150
  1010 0750 08       		.byte	0x8
  1011 0751 40       		.byte	0x40
  1012 0752 B8000000 		.4byte	0xb8
  1013 0756 0C       		.byte	0xc
  1014 0757 07       		.uleb128 0x7
- 1015 0758 110C0000 		.4byte	.LASF151
+ 1015 0758 0F0C0000 		.4byte	.LASF151
  1016 075c 08       		.byte	0x8
  1017 075d 45       		.byte	0x45
  1018 075e B8000000 		.4byte	0xb8
@@ -1245,30 +1245,30 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1024 076a 15       		.uleb128 0x15
  1025 076b 26060000 		.4byte	0x626
  1026 076f 03       		.uleb128 0x3
- 1027 0770 3C040000 		.4byte	.LASF152
+ 1027 0770 84040000 		.4byte	.LASF152
  1028 0774 08       		.byte	0x8
  1029 0775 48       		.byte	0x48
  1030 0776 1F070000 		.4byte	0x71f
  1031 077a 03       		.uleb128 0x3
- 1032 077b 82010000 		.4byte	.LASF153
+ 1032 077b CA010000 		.4byte	.LASF153
  1033 077f 09       		.byte	0x9
  1034 0780 07       		.byte	0x7
  1035 0781 89000000 		.4byte	0x89
  1036 0785 03       		.uleb128 0x3
- 1037 0786 35010000 		.4byte	.LASF154
+ 1037 0786 7D010000 		.4byte	.LASF154
  1038 078a 0A       		.byte	0xa
  1039 078b 2C       		.byte	0x2c
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 22
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 22
 
 
  1040 078c 62000000 		.4byte	0x62
  1041 0790 03       		.uleb128 0x3
- 1042 0791 38020000 		.4byte	.LASF155
+ 1042 0791 80020000 		.4byte	.LASF155
  1043 0795 0A       		.byte	0xa
  1044 0796 72       		.byte	0x72
  1045 0797 62000000 		.4byte	0x62
  1046 079b 0D       		.uleb128 0xd
- 1047 079c 96020000 		.4byte	.LASF156
+ 1047 079c DE020000 		.4byte	.LASF156
  1048 07a0 0B       		.byte	0xb
  1049 07a1 6501     		.2byte	0x165
  1050 07a3 90000000 		.4byte	0x90
@@ -1278,12 +1278,12 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1054 07aa A6       		.byte	0xa6
  1055 07ab C6070000 		.4byte	0x7c6
  1056 07af 17       		.uleb128 0x17
- 1057 07b0 CF050000 		.4byte	.LASF157
+ 1057 07b0 17060000 		.4byte	.LASF157
  1058 07b4 0A       		.byte	0xa
  1059 07b5 A8       		.byte	0xa8
  1060 07b6 9B070000 		.4byte	0x79b
  1061 07ba 17       		.uleb128 0x17
- 1062 07bb 400A0000 		.4byte	.LASF158
+ 1062 07bb 3E0A0000 		.4byte	.LASF158
  1063 07bf 0A       		.byte	0xa
  1064 07c0 A9       		.byte	0xa9
  1065 07c1 C6070000 		.4byte	0x7c6
@@ -1301,24 +1301,24 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1077 07d9 A3       		.byte	0xa3
  1078 07da F7070000 		.4byte	0x7f7
  1079 07de 07       		.uleb128 0x7
- 1080 07df CC020000 		.4byte	.LASF159
+ 1080 07df 14030000 		.4byte	.LASF159
  1081 07e3 0A       		.byte	0xa
  1082 07e4 A5       		.byte	0xa5
  1083 07e5 89000000 		.4byte	0x89
  1084 07e9 00       		.byte	0
  1085 07ea 07       		.uleb128 0x7
- 1086 07eb E4040000 		.4byte	.LASF160
+ 1086 07eb 2C050000 		.4byte	.LASF160
  1087 07ef 0A       		.byte	0xa
  1088 07f0 AA       		.byte	0xaa
  1089 07f1 A7070000 		.4byte	0x7a7
  1090 07f5 04       		.byte	0x4
  1091 07f6 00       		.byte	0
  1092 07f7 03       		.uleb128 0x3
- 1093 07f8 95040000 		.4byte	.LASF161
+ 1093 07f8 DD040000 		.4byte	.LASF161
  1094 07fc 0A       		.byte	0xa
  1095 07fd AB       		.byte	0xab
  1096 07fe D6070000 		.4byte	0x7d6
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 23
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 23
 
 
  1097 0802 03       		.uleb128 0x3
@@ -1327,18 +1327,18 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1100 0808 AF       		.byte	0xaf
  1101 0809 7A070000 		.4byte	0x77a
  1102 080d 03       		.uleb128 0x3
- 1103 080e F20A0000 		.4byte	.LASF163
+ 1103 080e F00A0000 		.4byte	.LASF163
  1104 0812 0C       		.byte	0xc
  1105 0813 16       		.byte	0x16
  1106 0814 74000000 		.4byte	0x74
  1107 0818 18       		.uleb128 0x18
- 1108 0819 84020000 		.4byte	.LASF165
+ 1108 0819 CC020000 		.4byte	.LASF165
  1109 081d 18       		.byte	0x18
  1110 081e 0C       		.byte	0xc
  1111 081f 2D       		.byte	0x2d
  1112 0820 6B080000 		.4byte	0x86b
  1113 0824 07       		.uleb128 0x7
- 1114 0825 B4040000 		.4byte	.LASF166
+ 1114 0825 FC040000 		.4byte	.LASF166
  1115 0829 0C       		.byte	0xc
  1116 082a 2F       		.byte	0x2f
  1117 082b 6B080000 		.4byte	0x86b
@@ -1350,19 +1350,19 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1123 0836 89000000 		.4byte	0x89
  1124 083a 04       		.byte	0x4
  1125 083b 07       		.uleb128 0x7
- 1126 083c 9F0A0000 		.4byte	.LASF167
+ 1126 083c 9D0A0000 		.4byte	.LASF167
  1127 0840 0C       		.byte	0xc
  1128 0841 30       		.byte	0x30
  1129 0842 89000000 		.4byte	0x89
  1130 0846 08       		.byte	0x8
  1131 0847 07       		.uleb128 0x7
- 1132 0848 100A0000 		.4byte	.LASF168
+ 1132 0848 0E0A0000 		.4byte	.LASF168
  1133 084c 0C       		.byte	0xc
  1134 084d 30       		.byte	0x30
  1135 084e 89000000 		.4byte	0x89
  1136 0852 0C       		.byte	0xc
  1137 0853 07       		.uleb128 0x7
- 1138 0854 B9030000 		.4byte	.LASF169
+ 1138 0854 01040000 		.4byte	.LASF169
  1139 0858 0C       		.byte	0xc
  1140 0859 30       		.byte	0x30
  1141 085a 89000000 		.4byte	0x89
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1151 086c 04       		.byte	0x4
  1152 086d 18080000 		.4byte	0x818
  1153 0871 10       		.uleb128 0x10
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 24
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 24
 
 
  1154 0872 0D080000 		.4byte	0x80d
@@ -1388,95 +1388,95 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1158 087f 00       		.byte	0
  1159 0880 00       		.byte	0
  1160 0881 18       		.uleb128 0x18
- 1161 0882 1D0B0000 		.4byte	.LASF170
+ 1161 0882 1B0B0000 		.4byte	.LASF170
  1162 0886 24       		.byte	0x24
  1163 0887 0C       		.byte	0xc
  1164 0888 35       		.byte	0x35
  1165 0889 FA080000 		.4byte	0x8fa
  1166 088d 07       		.uleb128 0x7
- 1167 088e BE000000 		.4byte	.LASF171
+ 1167 088e 06010000 		.4byte	.LASF171
  1168 0892 0C       		.byte	0xc
  1169 0893 37       		.byte	0x37
  1170 0894 89000000 		.4byte	0x89
  1171 0898 00       		.byte	0
  1172 0899 07       		.uleb128 0x7
- 1173 089a 8D0B0000 		.4byte	.LASF172
+ 1173 089a 8B0B0000 		.4byte	.LASF172
  1174 089e 0C       		.byte	0xc
  1175 089f 38       		.byte	0x38
  1176 08a0 89000000 		.4byte	0x89
  1177 08a4 04       		.byte	0x4
  1178 08a5 07       		.uleb128 0x7
- 1179 08a6 AE020000 		.4byte	.LASF173
+ 1179 08a6 F6020000 		.4byte	.LASF173
  1180 08aa 0C       		.byte	0xc
  1181 08ab 39       		.byte	0x39
  1182 08ac 89000000 		.4byte	0x89
  1183 08b0 08       		.byte	0x8
  1184 08b1 07       		.uleb128 0x7
- 1185 08b2 54050000 		.4byte	.LASF174
+ 1185 08b2 9C050000 		.4byte	.LASF174
  1186 08b6 0C       		.byte	0xc
  1187 08b7 3A       		.byte	0x3a
  1188 08b8 89000000 		.4byte	0x89
  1189 08bc 0C       		.byte	0xc
  1190 08bd 07       		.uleb128 0x7
- 1191 08be 96080000 		.4byte	.LASF175
+ 1191 08be 94080000 		.4byte	.LASF175
  1192 08c2 0C       		.byte	0xc
  1193 08c3 3B       		.byte	0x3b
  1194 08c4 89000000 		.4byte	0x89
  1195 08c8 10       		.byte	0x10
  1196 08c9 07       		.uleb128 0x7
- 1197 08ca 470A0000 		.4byte	.LASF176
+ 1197 08ca 450A0000 		.4byte	.LASF176
  1198 08ce 0C       		.byte	0xc
  1199 08cf 3C       		.byte	0x3c
  1200 08d0 89000000 		.4byte	0x89
  1201 08d4 14       		.byte	0x14
  1202 08d5 07       		.uleb128 0x7
- 1203 08d6 8C020000 		.4byte	.LASF177
+ 1203 08d6 D4020000 		.4byte	.LASF177
  1204 08da 0C       		.byte	0xc
  1205 08db 3D       		.byte	0x3d
  1206 08dc 89000000 		.4byte	0x89
  1207 08e0 18       		.byte	0x18
  1208 08e1 07       		.uleb128 0x7
- 1209 08e2 EF0B0000 		.4byte	.LASF178
+ 1209 08e2 ED0B0000 		.4byte	.LASF178
  1210 08e6 0C       		.byte	0xc
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 25
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 25
 
 
  1211 08e7 3E       		.byte	0x3e
  1212 08e8 89000000 		.4byte	0x89
  1213 08ec 1C       		.byte	0x1c
  1214 08ed 07       		.uleb128 0x7
- 1215 08ee 1F080000 		.4byte	.LASF179
+ 1215 08ee 1D080000 		.4byte	.LASF179
  1216 08f2 0C       		.byte	0xc
  1217 08f3 3F       		.byte	0x3f
  1218 08f4 89000000 		.4byte	0x89
  1219 08f8 20       		.byte	0x20
  1220 08f9 00       		.byte	0
  1221 08fa 1A       		.uleb128 0x1a
- 1222 08fb 73000000 		.4byte	.LASF180
+ 1222 08fb BB000000 		.4byte	.LASF180
  1223 08ff 0801     		.2byte	0x108
  1224 0901 0C       		.byte	0xc
  1225 0902 48       		.byte	0x48
  1226 0903 3A090000 		.4byte	0x93a
  1227 0907 07       		.uleb128 0x7
- 1228 0908 870C0000 		.4byte	.LASF181
+ 1228 0908 850C0000 		.4byte	.LASF181
  1229 090c 0C       		.byte	0xc
  1230 090d 49       		.byte	0x49
  1231 090e 3A090000 		.4byte	0x93a
  1232 0912 00       		.byte	0
  1233 0913 07       		.uleb128 0x7
- 1234 0914 960B0000 		.4byte	.LASF182
+ 1234 0914 940B0000 		.4byte	.LASF182
  1235 0918 0C       		.byte	0xc
  1236 0919 4A       		.byte	0x4a
  1237 091a 3A090000 		.4byte	0x93a
  1238 091e 80       		.byte	0x80
  1239 091f 1B       		.uleb128 0x1b
- 1240 0920 FA0C0000 		.4byte	.LASF183
+ 1240 0920 F80C0000 		.4byte	.LASF183
  1241 0924 0C       		.byte	0xc
  1242 0925 4C       		.byte	0x4c
  1243 0926 0D080000 		.4byte	0x80d
  1244 092a 0001     		.2byte	0x100
  1245 092c 1B       		.uleb128 0x1b
- 1246 092d 9B0D0000 		.4byte	.LASF184
+ 1246 092d 990D0000 		.4byte	.LASF184
  1247 0931 0C       		.byte	0xc
  1248 0932 4F       		.byte	0x4f
  1249 0933 0D080000 		.4byte	0x80d
@@ -1490,34 +1490,34 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1257 0948 1F       		.byte	0x1f
  1258 0949 00       		.byte	0
  1259 094a 1A       		.uleb128 0x1a
- 1260 094b 58090000 		.4byte	.LASF185
+ 1260 094b 56090000 		.4byte	.LASF185
  1261 094f 9001     		.2byte	0x190
  1262 0951 0C       		.byte	0xc
  1263 0952 5B       		.byte	0x5b
  1264 0953 88090000 		.4byte	0x988
  1265 0957 07       		.uleb128 0x7
- 1266 0958 B4040000 		.4byte	.LASF166
+ 1266 0958 FC040000 		.4byte	.LASF166
  1267 095c 0C       		.byte	0xc
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 26
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 26
 
 
  1268 095d 5C       		.byte	0x5c
  1269 095e 88090000 		.4byte	0x988
  1270 0962 00       		.byte	0
  1271 0963 07       		.uleb128 0x7
- 1272 0964 6B040000 		.4byte	.LASF186
+ 1272 0964 B3040000 		.4byte	.LASF186
  1273 0968 0C       		.byte	0xc
  1274 0969 5D       		.byte	0x5d
  1275 096a 89000000 		.4byte	0x89
  1276 096e 04       		.byte	0x4
  1277 096f 07       		.uleb128 0x7
- 1278 0970 4C020000 		.4byte	.LASF187
+ 1278 0970 94020000 		.4byte	.LASF187
  1279 0974 0C       		.byte	0xc
  1280 0975 5F       		.byte	0x5f
  1281 0976 8E090000 		.4byte	0x98e
  1282 097a 08       		.byte	0x8
  1283 097b 07       		.uleb128 0x7
- 1284 097c 73000000 		.4byte	.LASF180
+ 1284 097c BB000000 		.4byte	.LASF180
  1285 0980 0C       		.byte	0xc
  1286 0981 60       		.byte	0x60
  1287 0982 FA080000 		.4byte	0x8fa
@@ -1534,19 +1534,19 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1298 099c 1F       		.byte	0x1f
  1299 099d 00       		.byte	0
  1300 099e 18       		.uleb128 0x18
- 1301 099f 1C0C0000 		.4byte	.LASF188
+ 1301 099f 1A0C0000 		.4byte	.LASF188
  1302 09a3 08       		.byte	0x8
  1303 09a4 0C       		.byte	0xc
  1304 09a5 73       		.byte	0x73
  1305 09a6 C3090000 		.4byte	0x9c3
  1306 09aa 07       		.uleb128 0x7
- 1307 09ab A3060000 		.4byte	.LASF189
+ 1307 09ab EB060000 		.4byte	.LASF189
  1308 09af 0C       		.byte	0xc
  1309 09b0 74       		.byte	0x74
  1310 09b1 C3090000 		.4byte	0x9c3
  1311 09b5 00       		.byte	0
  1312 09b6 07       		.uleb128 0x7
- 1313 09b7 0F0D0000 		.4byte	.LASF190
+ 1313 09b7 0D0D0000 		.4byte	.LASF190
  1314 09bb 0C       		.byte	0xc
  1315 09bc 75       		.byte	0x75
  1316 09bd 89000000 		.4byte	0x89
@@ -1556,9 +1556,9 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1320 09c4 04       		.byte	0x4
  1321 09c5 2C000000 		.4byte	0x2c
  1322 09c9 18       		.uleb128 0x18
- 1323 09ca B1030000 		.4byte	.LASF191
+ 1323 09ca F9030000 		.4byte	.LASF191
  1324 09ce 68       		.byte	0x68
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 27
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 27
 
 
  1325 09cf 0C       		.byte	0xc
@@ -1583,13 +1583,13 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1344 09f1 89000000 		.4byte	0x89
  1345 09f5 08       		.byte	0x8
  1346 09f6 07       		.uleb128 0x7
- 1347 09f7 27010000 		.4byte	.LASF192
+ 1347 09f7 6F010000 		.4byte	.LASF192
  1348 09fb 0C       		.byte	0xc
  1349 09fc B7       		.byte	0xb7
  1350 09fd 25000000 		.4byte	0x25
  1351 0a01 0C       		.byte	0xc
  1352 0a02 07       		.uleb128 0x7
- 1353 0a03 69070000 		.4byte	.LASF193
+ 1353 0a03 B1070000 		.4byte	.LASF193
  1354 0a07 0C       		.byte	0xc
  1355 0a08 B8       		.byte	0xb8
  1356 0a09 25000000 		.4byte	0x25
@@ -1601,40 +1601,40 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1362 0a15 9E090000 		.4byte	0x99e
  1363 0a19 10       		.byte	0x10
  1364 0a1a 07       		.uleb128 0x7
- 1365 0a1b 1E010000 		.4byte	.LASF194
+ 1365 0a1b 66010000 		.4byte	.LASF194
  1366 0a1f 0C       		.byte	0xc
  1367 0a20 BA       		.byte	0xba
  1368 0a21 89000000 		.4byte	0x89
  1369 0a25 18       		.byte	0x18
  1370 0a26 07       		.uleb128 0x7
- 1371 0a27 51020000 		.4byte	.LASF195
+ 1371 0a27 99020000 		.4byte	.LASF195
  1372 0a2b 0C       		.byte	0xc
  1373 0a2c C1       		.byte	0xc1
  1374 0a2d 0E050000 		.4byte	0x50e
  1375 0a31 1C       		.byte	0x1c
  1376 0a32 07       		.uleb128 0x7
- 1377 0a33 B7010000 		.4byte	.LASF196
+ 1377 0a33 FF010000 		.4byte	.LASF196
  1378 0a37 0C       		.byte	0xc
  1379 0a38 C3       		.byte	0xc3
  1380 0a39 4F0C0000 		.4byte	0xc4f
  1381 0a3d 20       		.byte	0x20
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 28
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 28
 
 
  1382 0a3e 07       		.uleb128 0x7
- 1383 0a3f 89000000 		.4byte	.LASF197
+ 1383 0a3f D1000000 		.4byte	.LASF197
  1384 0a43 0C       		.byte	0xc
  1385 0a44 C5       		.byte	0xc5
  1386 0a45 7E0C0000 		.4byte	0xc7e
  1387 0a49 24       		.byte	0x24
  1388 0a4a 07       		.uleb128 0x7
- 1389 0a4b BA0D0000 		.4byte	.LASF198
+ 1389 0a4b B80D0000 		.4byte	.LASF198
  1390 0a4f 0C       		.byte	0xc
  1391 0a50 C8       		.byte	0xc8
  1392 0a51 A20C0000 		.4byte	0xca2
  1393 0a55 28       		.byte	0x28
  1394 0a56 07       		.uleb128 0x7
- 1395 0a57 EE050000 		.4byte	.LASF199
+ 1395 0a57 36060000 		.4byte	.LASF199
  1396 0a5b 0C       		.byte	0xc
  1397 0a5c C9       		.byte	0xc9
  1398 0a5d BC0C0000 		.4byte	0xcbc
@@ -1658,13 +1658,13 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1416 0a81 89000000 		.4byte	0x89
  1417 0a85 3C       		.byte	0x3c
  1418 0a86 07       		.uleb128 0x7
- 1419 0a87 2A080000 		.4byte	.LASF200
+ 1419 0a87 28080000 		.4byte	.LASF200
  1420 0a8b 0C       		.byte	0xc
  1421 0a8c D1       		.byte	0xd1
  1422 0a8d C20C0000 		.4byte	0xcc2
  1423 0a91 40       		.byte	0x40
  1424 0a92 07       		.uleb128 0x7
- 1425 0a93 3B0D0000 		.4byte	.LASF201
+ 1425 0a93 390D0000 		.4byte	.LASF201
  1426 0a97 0C       		.byte	0xc
  1427 0a98 D2       		.byte	0xd2
  1428 0a99 D20C0000 		.4byte	0xcd2
@@ -1676,40 +1676,40 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1434 0aa5 9E090000 		.4byte	0x99e
  1435 0aa9 44       		.byte	0x44
  1436 0aaa 07       		.uleb128 0x7
- 1437 0aab AB050000 		.4byte	.LASF202
+ 1437 0aab F3050000 		.4byte	.LASF202
  1438 0aaf 0C       		.byte	0xc
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 29
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 29
 
 
  1439 0ab0 D8       		.byte	0xd8
  1440 0ab1 89000000 		.4byte	0x89
  1441 0ab5 4C       		.byte	0x4c
  1442 0ab6 07       		.uleb128 0x7
- 1443 0ab7 510A0000 		.4byte	.LASF203
+ 1443 0ab7 4F0A0000 		.4byte	.LASF203
  1444 0abb 0C       		.byte	0xc
  1445 0abc D9       		.byte	0xd9
  1446 0abd 85070000 		.4byte	0x785
  1447 0ac1 50       		.byte	0x50
  1448 0ac2 07       		.uleb128 0x7
- 1449 0ac3 3A0A0000 		.4byte	.LASF204
+ 1449 0ac3 380A0000 		.4byte	.LASF204
  1450 0ac7 0C       		.byte	0xc
  1451 0ac8 DC       		.byte	0xdc
  1452 0ac9 110B0000 		.4byte	0xb11
  1453 0acd 54       		.byte	0x54
  1454 0ace 07       		.uleb128 0x7
- 1455 0acf 330B0000 		.4byte	.LASF205
+ 1455 0acf 310B0000 		.4byte	.LASF205
  1456 0ad3 0C       		.byte	0xc
  1457 0ad4 E0       		.byte	0xe0
  1458 0ad5 02080000 		.4byte	0x802
  1459 0ad9 58       		.byte	0x58
  1460 0ada 07       		.uleb128 0x7
- 1461 0adb 60090000 		.4byte	.LASF206
+ 1461 0adb 5E090000 		.4byte	.LASF206
  1462 0adf 0C       		.byte	0xc
  1463 0ae0 E2       		.byte	0xe2
  1464 0ae1 F7070000 		.4byte	0x7f7
  1465 0ae5 5C       		.byte	0x5c
  1466 0ae6 07       		.uleb128 0x7
- 1467 0ae7 930D0000 		.4byte	.LASF207
+ 1467 0ae7 910D0000 		.4byte	.LASF207
  1468 0aeb 0C       		.byte	0xc
  1469 0aec E3       		.byte	0xe3
  1470 0aed 89000000 		.4byte	0x89
@@ -1731,14 +1731,14 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1486 0b12 04       		.byte	0x4
  1487 0b13 170B0000 		.4byte	0xb17
  1488 0b17 1D       		.uleb128 0x1d
- 1489 0b18 A60C0000 		.4byte	.LASF208
+ 1489 0b18 A40C0000 		.4byte	.LASF208
  1490 0b1c 2804     		.2byte	0x428
  1491 0b1e 0C       		.byte	0xc
  1492 0b1f 3802     		.2byte	0x238
  1493 0b21 490C0000 		.4byte	0xc49
  1494 0b25 0F       		.uleb128 0xf
- 1495 0b26 2E010000 		.4byte	.LASF209
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 30
+ 1495 0b26 76010000 		.4byte	.LASF209
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 30
 
 
  1496 0b2a 0C       		.byte	0xc
@@ -1746,119 +1746,119 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1498 0b2d 89000000 		.4byte	0x89
  1499 0b31 00       		.byte	0
  1500 0b32 0F       		.uleb128 0xf
- 1501 0b33 4F060000 		.4byte	.LASF210
+ 1501 0b33 97060000 		.4byte	.LASF210
  1502 0b37 0C       		.byte	0xc
  1503 0b38 3F02     		.2byte	0x23f
  1504 0b3a 290D0000 		.4byte	0xd29
  1505 0b3e 04       		.byte	0x4
  1506 0b3f 0F       		.uleb128 0xf
- 1507 0b40 0C020000 		.4byte	.LASF211
+ 1507 0b40 54020000 		.4byte	.LASF211
  1508 0b44 0C       		.byte	0xc
  1509 0b45 3F02     		.2byte	0x23f
  1510 0b47 290D0000 		.4byte	0xd29
  1511 0b4b 08       		.byte	0x8
  1512 0b4c 0F       		.uleb128 0xf
- 1513 0b4d CB0D0000 		.4byte	.LASF212
+ 1513 0b4d C90D0000 		.4byte	.LASF212
  1514 0b51 0C       		.byte	0xc
  1515 0b52 3F02     		.2byte	0x23f
  1516 0b54 290D0000 		.4byte	0xd29
  1517 0b58 0C       		.byte	0xc
  1518 0b59 0F       		.uleb128 0xf
- 1519 0b5a 8A040000 		.4byte	.LASF213
+ 1519 0b5a D2040000 		.4byte	.LASF213
  1520 0b5e 0C       		.byte	0xc
  1521 0b5f 4102     		.2byte	0x241
  1522 0b61 89000000 		.4byte	0x89
  1523 0b65 10       		.byte	0x10
  1524 0b66 0F       		.uleb128 0xf
- 1525 0b67 1D040000 		.4byte	.LASF214
+ 1525 0b67 65040000 		.4byte	.LASF214
  1526 0b6b 0C       		.byte	0xc
  1527 0b6c 4202     		.2byte	0x242
  1528 0b6e 0B0F0000 		.4byte	0xf0b
  1529 0b72 14       		.byte	0x14
  1530 0b73 0F       		.uleb128 0xf
- 1531 0b74 6B0B0000 		.4byte	.LASF215
+ 1531 0b74 690B0000 		.4byte	.LASF215
  1532 0b78 0C       		.byte	0xc
  1533 0b79 4402     		.2byte	0x244
  1534 0b7b 89000000 		.4byte	0x89
  1535 0b7f 30       		.byte	0x30
  1536 0b80 0F       		.uleb128 0xf
- 1537 0b81 2A0A0000 		.4byte	.LASF216
+ 1537 0b81 280A0000 		.4byte	.LASF216
  1538 0b85 0C       		.byte	0xc
  1539 0b86 4502     		.2byte	0x245
  1540 0b88 730C0000 		.4byte	0xc73
  1541 0b8c 34       		.byte	0x34
  1542 0b8d 0F       		.uleb128 0xf
- 1543 0b8e 69010000 		.4byte	.LASF217
+ 1543 0b8e B1010000 		.4byte	.LASF217
  1544 0b92 0C       		.byte	0xc
  1545 0b93 4702     		.2byte	0x247
  1546 0b95 89000000 		.4byte	0x89
  1547 0b99 38       		.byte	0x38
  1548 0b9a 0F       		.uleb128 0xf
- 1549 0b9b 92070000 		.4byte	.LASF218
+ 1549 0b9b DA070000 		.4byte	.LASF218
  1550 0b9f 0C       		.byte	0xc
  1551 0ba0 4902     		.2byte	0x249
  1552 0ba2 260F0000 		.4byte	0xf26
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 31
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 31
 
 
  1553 0ba6 3C       		.byte	0x3c
  1554 0ba7 0F       		.uleb128 0xf
- 1555 0ba8 9D020000 		.4byte	.LASF219
+ 1555 0ba8 E5020000 		.4byte	.LASF219
  1556 0bac 0C       		.byte	0xc
  1557 0bad 4C02     		.2byte	0x24c
  1558 0baf 6B080000 		.4byte	0x86b
  1559 0bb3 40       		.byte	0x40
  1560 0bb4 0F       		.uleb128 0xf
- 1561 0bb5 B4050000 		.4byte	.LASF220
+ 1561 0bb5 FC050000 		.4byte	.LASF220
  1562 0bb9 0C       		.byte	0xc
  1563 0bba 4D02     		.2byte	0x24d
  1564 0bbc 89000000 		.4byte	0x89
  1565 0bc0 44       		.byte	0x44
  1566 0bc1 0F       		.uleb128 0xf
- 1567 0bc2 08050000 		.4byte	.LASF221
+ 1567 0bc2 50050000 		.4byte	.LASF221
  1568 0bc6 0C       		.byte	0xc
  1569 0bc7 4E02     		.2byte	0x24e
  1570 0bc9 6B080000 		.4byte	0x86b
  1571 0bcd 48       		.byte	0x48
  1572 0bce 0F       		.uleb128 0xf
- 1573 0bcf A9060000 		.4byte	.LASF222
+ 1573 0bcf F1060000 		.4byte	.LASF222
  1574 0bd3 0C       		.byte	0xc
  1575 0bd4 4F02     		.2byte	0x24f
  1576 0bd6 2C0F0000 		.4byte	0xf2c
  1577 0bda 4C       		.byte	0x4c
  1578 0bdb 0F       		.uleb128 0xf
- 1579 0bdc 970A0000 		.4byte	.LASF223
+ 1579 0bdc 950A0000 		.4byte	.LASF223
  1580 0be0 0C       		.byte	0xc
  1581 0be1 5202     		.2byte	0x252
  1582 0be3 89000000 		.4byte	0x89
  1583 0be7 50       		.byte	0x50
  1584 0be8 0F       		.uleb128 0xf
- 1585 0be9 AD0B0000 		.4byte	.LASF224
+ 1585 0be9 AB0B0000 		.4byte	.LASF224
  1586 0bed 0C       		.byte	0xc
  1587 0bee 5302     		.2byte	0x253
  1588 0bf0 490C0000 		.4byte	0xc49
  1589 0bf4 54       		.byte	0x54
  1590 0bf5 0F       		.uleb128 0xf
- 1591 0bf6 870A0000 		.4byte	.LASF225
+ 1591 0bf6 850A0000 		.4byte	.LASF225
  1592 0bfa 0C       		.byte	0xc
  1593 0bfb 7602     		.2byte	0x276
  1594 0bfd E90E0000 		.4byte	0xee9
  1595 0c01 58       		.byte	0x58
  1596 0c02 1E       		.uleb128 0x1e
- 1597 0c03 58090000 		.4byte	.LASF185
+ 1597 0c03 56090000 		.4byte	.LASF185
  1598 0c07 0C       		.byte	0xc
  1599 0c08 7A02     		.2byte	0x27a
  1600 0c0a 88090000 		.4byte	0x988
  1601 0c0e 4801     		.2byte	0x148
  1602 0c10 1E       		.uleb128 0x1e
- 1603 0c11 F6080000 		.4byte	.LASF226
+ 1603 0c11 F4080000 		.4byte	.LASF226
  1604 0c15 0C       		.byte	0xc
  1605 0c16 7B02     		.2byte	0x27b
  1606 0c18 4A090000 		.4byte	0x94a
  1607 0c1c 4C01     		.2byte	0x14c
  1608 0c1e 1E       		.uleb128 0x1e
- 1609 0c1f 5E050000 		.4byte	.LASF227
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 32
+ 1609 0c1f A6050000 		.4byte	.LASF227
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 32
 
 
  1610 0c23 0C       		.byte	0xc
@@ -1866,13 +1866,13 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1612 0c26 3D0F0000 		.4byte	0xf3d
  1613 0c2a DC02     		.2byte	0x2dc
  1614 0c2c 1E       		.uleb128 0x1e
- 1615 0c2d 290C0000 		.4byte	.LASF228
+ 1615 0c2d 270C0000 		.4byte	.LASF228
  1616 0c31 0C       		.byte	0xc
  1617 0c32 8402     		.2byte	0x284
  1618 0c34 EE0C0000 		.4byte	0xcee
  1619 0c38 E002     		.2byte	0x2e0
  1620 0c3a 1E       		.uleb128 0x1e
- 1621 0c3b 0B0A0000 		.4byte	.LASF229
+ 1621 0c3b 090A0000 		.4byte	.LASF229
  1622 0c3f 0C       		.byte	0xc
  1623 0c40 8502     		.2byte	0x285
  1624 0c42 490F0000 		.4byte	0xf49
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1664 0ca1 00       		.byte	0
  1665 0ca2 08       		.uleb128 0x8
  1666 0ca3 04       		.byte	0x4
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 33
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 33
 
 
  1667 0ca4 840C0000 		.4byte	0xc84
@@ -1948,37 +1948,37 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1691 0ce0 00       		.byte	0
  1692 0ce1 00       		.byte	0
  1693 0ce2 0D       		.uleb128 0xd
- 1694 0ce3 DB030000 		.4byte	.LASF230
+ 1694 0ce3 23040000 		.4byte	.LASF230
  1695 0ce7 0C       		.byte	0xc
  1696 0ce8 1D01     		.2byte	0x11d
  1697 0cea C9090000 		.4byte	0x9c9
  1698 0cee 14       		.uleb128 0x14
- 1699 0cef 230C0000 		.4byte	.LASF231
+ 1699 0cef 210C0000 		.4byte	.LASF231
  1700 0cf3 0C       		.byte	0xc
  1701 0cf4 0C       		.byte	0xc
  1702 0cf5 2101     		.2byte	0x121
  1703 0cf7 230D0000 		.4byte	0xd23
  1704 0cfb 0F       		.uleb128 0xf
- 1705 0cfc B4040000 		.4byte	.LASF166
+ 1705 0cfc FC040000 		.4byte	.LASF166
  1706 0d00 0C       		.byte	0xc
  1707 0d01 2301     		.2byte	0x123
  1708 0d03 230D0000 		.4byte	0xd23
  1709 0d07 00       		.byte	0
  1710 0d08 0F       		.uleb128 0xf
- 1711 0d09 640B0000 		.4byte	.LASF232
+ 1711 0d09 620B0000 		.4byte	.LASF232
  1712 0d0d 0C       		.byte	0xc
  1713 0d0e 2401     		.2byte	0x124
  1714 0d10 89000000 		.4byte	0x89
  1715 0d14 04       		.byte	0x4
  1716 0d15 0F       		.uleb128 0xf
- 1717 0d16 DC0D0000 		.4byte	.LASF233
+ 1717 0d16 DA0D0000 		.4byte	.LASF233
  1718 0d1a 0C       		.byte	0xc
  1719 0d1b 2501     		.2byte	0x125
  1720 0d1d 290D0000 		.4byte	0xd29
  1721 0d21 08       		.byte	0x8
  1722 0d22 00       		.byte	0
  1723 0d23 08       		.uleb128 0x8
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 34
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 34
 
 
  1724 0d24 04       		.byte	0x4
@@ -1987,25 +1987,25 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1727 0d2a 04       		.byte	0x4
  1728 0d2b E20C0000 		.4byte	0xce2
  1729 0d2f 14       		.uleb128 0x14
- 1730 0d30 FF020000 		.4byte	.LASF234
+ 1730 0d30 47030000 		.4byte	.LASF234
  1731 0d34 0E       		.byte	0xe
  1732 0d35 0C       		.byte	0xc
  1733 0d36 3D01     		.2byte	0x13d
  1734 0d38 640D0000 		.4byte	0xd64
  1735 0d3c 0F       		.uleb128 0xf
- 1736 0d3d A90D0000 		.4byte	.LASF235
+ 1736 0d3d A70D0000 		.4byte	.LASF235
  1737 0d41 0C       		.byte	0xc
  1738 0d42 3E01     		.2byte	0x13e
  1739 0d44 640D0000 		.4byte	0xd64
  1740 0d48 00       		.byte	0
  1741 0d49 0F       		.uleb128 0xf
- 1742 0d4a 84040000 		.4byte	.LASF236
+ 1742 0d4a CC040000 		.4byte	.LASF236
  1743 0d4e 0C       		.byte	0xc
  1744 0d4f 3F01     		.2byte	0x13f
  1745 0d51 640D0000 		.4byte	0xd64
  1746 0d55 06       		.byte	0x6
  1747 0d56 0F       		.uleb128 0xf
- 1748 0d57 B3060000 		.4byte	.LASF237
+ 1748 0d57 FB060000 		.4byte	.LASF237
  1749 0d5b 0C       		.byte	0xc
  1750 0d5c 4001     		.2byte	0x140
  1751 0d5e 5B000000 		.4byte	0x5b
@@ -2024,121 +2024,121 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1764 0d77 5702     		.2byte	0x257
  1765 0d79 750E0000 		.4byte	0xe75
  1766 0d7d 0F       		.uleb128 0xf
- 1767 0d7e 410D0000 		.4byte	.LASF238
+ 1767 0d7e 3F0D0000 		.4byte	.LASF238
  1768 0d82 0C       		.byte	0xc
  1769 0d83 5902     		.2byte	0x259
  1770 0d85 90000000 		.4byte	0x90
  1771 0d89 00       		.byte	0
  1772 0d8a 0F       		.uleb128 0xf
- 1773 0d8b 420C0000 		.4byte	.LASF239
+ 1773 0d8b 400C0000 		.4byte	.LASF239
  1774 0d8f 0C       		.byte	0xc
  1775 0d90 5A02     		.2byte	0x25a
  1776 0d92 490C0000 		.4byte	0xc49
  1777 0d96 04       		.byte	0x4
  1778 0d97 0F       		.uleb128 0xf
- 1779 0d98 70040000 		.4byte	.LASF240
+ 1779 0d98 B8040000 		.4byte	.LASF240
  1780 0d9c 0C       		.byte	0xc
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 35
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 35
 
 
  1781 0d9d 5B02     		.2byte	0x25b
  1782 0d9f 750E0000 		.4byte	0xe75
  1783 0da3 08       		.byte	0x8
  1784 0da4 0F       		.uleb128 0xf
- 1785 0da5 590A0000 		.4byte	.LASF241
+ 1785 0da5 570A0000 		.4byte	.LASF241
  1786 0da9 0C       		.byte	0xc
  1787 0daa 5C02     		.2byte	0x25c
  1788 0dac 81080000 		.4byte	0x881
  1789 0db0 24       		.byte	0x24
  1790 0db1 0F       		.uleb128 0xf
- 1791 0db2 56060000 		.4byte	.LASF242
+ 1791 0db2 9E060000 		.4byte	.LASF242
  1792 0db6 0C       		.byte	0xc
  1793 0db7 5D02     		.2byte	0x25d
  1794 0db9 89000000 		.4byte	0x89
  1795 0dbd 48       		.byte	0x48
  1796 0dbe 0F       		.uleb128 0xf
- 1797 0dbf AF0D0000 		.4byte	.LASF243
+ 1797 0dbf AD0D0000 		.4byte	.LASF243
  1798 0dc3 0C       		.byte	0xc
  1799 0dc4 5E02     		.2byte	0x25e
  1800 0dc6 82000000 		.4byte	0x82
  1801 0dca 50       		.byte	0x50
  1802 0dcb 0F       		.uleb128 0xf
- 1803 0dcc B0000000 		.4byte	.LASF244
+ 1803 0dcc F8000000 		.4byte	.LASF244
  1804 0dd0 0C       		.byte	0xc
  1805 0dd1 5F02     		.2byte	0x25f
  1806 0dd3 2F0D0000 		.4byte	0xd2f
  1807 0dd7 58       		.byte	0x58
  1808 0dd8 0F       		.uleb128 0xf
- 1809 0dd9 2A050000 		.4byte	.LASF245
+ 1809 0dd9 72050000 		.4byte	.LASF245
  1810 0ddd 0C       		.byte	0xc
  1811 0dde 6002     		.2byte	0x260
  1812 0de0 F7070000 		.4byte	0x7f7
  1813 0de4 68       		.byte	0x68
  1814 0de5 0F       		.uleb128 0xf
- 1815 0de6 4F0C0000 		.4byte	.LASF246
+ 1815 0de6 4D0C0000 		.4byte	.LASF246
  1816 0dea 0C       		.byte	0xc
  1817 0deb 6102     		.2byte	0x261
  1818 0ded F7070000 		.4byte	0x7f7
  1819 0df1 70       		.byte	0x70
  1820 0df2 0F       		.uleb128 0xf
- 1821 0df3 A2000000 		.4byte	.LASF247
+ 1821 0df3 EA000000 		.4byte	.LASF247
  1822 0df7 0C       		.byte	0xc
  1823 0df8 6202     		.2byte	0x262
  1824 0dfa F7070000 		.4byte	0x7f7
  1825 0dfe 78       		.byte	0x78
  1826 0dff 0F       		.uleb128 0xf
- 1827 0e00 A70A0000 		.4byte	.LASF248
+ 1827 0e00 A50A0000 		.4byte	.LASF248
  1828 0e04 0C       		.byte	0xc
  1829 0e05 6302     		.2byte	0x263
  1830 0e07 850E0000 		.4byte	0xe85
  1831 0e0b 80       		.byte	0x80
  1832 0e0c 0F       		.uleb128 0xf
- 1833 0e0d C7000000 		.4byte	.LASF249
+ 1833 0e0d 0F010000 		.4byte	.LASF249
  1834 0e11 0C       		.byte	0xc
  1835 0e12 6402     		.2byte	0x264
  1836 0e14 950E0000 		.4byte	0xe95
  1837 0e18 88       		.byte	0x88
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 36
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 36
 
 
  1838 0e19 0F       		.uleb128 0xf
- 1839 0e1a E20B0000 		.4byte	.LASF250
+ 1839 0e1a E00B0000 		.4byte	.LASF250
  1840 0e1e 0C       		.byte	0xc
  1841 0e1f 6502     		.2byte	0x265
  1842 0e21 89000000 		.4byte	0x89
  1843 0e25 A0       		.byte	0xa0
  1844 0e26 0F       		.uleb128 0xf
- 1845 0e27 D7010000 		.4byte	.LASF251
+ 1845 0e27 1F020000 		.4byte	.LASF251
  1846 0e2b 0C       		.byte	0xc
  1847 0e2c 6602     		.2byte	0x266
  1848 0e2e F7070000 		.4byte	0x7f7
  1849 0e32 A4       		.byte	0xa4
  1850 0e33 0F       		.uleb128 0xf
- 1851 0e34 68050000 		.4byte	.LASF252
+ 1851 0e34 B0050000 		.4byte	.LASF252
  1852 0e38 0C       		.byte	0xc
  1853 0e39 6702     		.2byte	0x267
  1854 0e3b F7070000 		.4byte	0x7f7
  1855 0e3f AC       		.byte	0xac
  1856 0e40 0F       		.uleb128 0xf
- 1857 0e41 4D030000 		.4byte	.LASF253
+ 1857 0e41 95030000 		.4byte	.LASF253
  1858 0e45 0C       		.byte	0xc
  1859 0e46 6802     		.2byte	0x268
  1860 0e48 F7070000 		.4byte	0x7f7
  1861 0e4c B4       		.byte	0xb4
  1862 0e4d 0F       		.uleb128 0xf
- 1863 0e4e 5A070000 		.4byte	.LASF254
+ 1863 0e4e A2070000 		.4byte	.LASF254
  1864 0e52 0C       		.byte	0xc
  1865 0e53 6902     		.2byte	0x269
  1866 0e55 F7070000 		.4byte	0x7f7
  1867 0e59 BC       		.byte	0xbc
  1868 0e5a 0F       		.uleb128 0xf
- 1869 0e5b 19050000 		.4byte	.LASF255
+ 1869 0e5b 61050000 		.4byte	.LASF255
  1870 0e5f 0C       		.byte	0xc
  1871 0e60 6A02     		.2byte	0x26a
  1872 0e62 F7070000 		.4byte	0x7f7
  1873 0e66 C4       		.byte	0xc4
  1874 0e67 0F       		.uleb128 0xf
- 1875 0e68 63080000 		.4byte	.LASF256
+ 1875 0e68 61080000 		.4byte	.LASF256
  1876 0e6c 0C       		.byte	0xc
  1877 0e6d 6B02     		.2byte	0x26b
  1878 0e6f 89000000 		.4byte	0x89
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1892 0e8f C3000000 		.4byte	0xc3
  1893 0e93 07       		.byte	0x7
  1894 0e94 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 37
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 37
 
 
  1895 0e95 10       		.uleb128 0x10
@@ -2174,13 +2174,13 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1905 0ea8 7002     		.2byte	0x270
  1906 0eaa C90E0000 		.4byte	0xec9
  1907 0eae 0F       		.uleb128 0xf
- 1908 0eaf 33030000 		.4byte	.LASF257
+ 1908 0eaf 7B030000 		.4byte	.LASF257
  1909 0eb3 0C       		.byte	0xc
  1910 0eb4 7302     		.2byte	0x273
  1911 0eb6 C90E0000 		.4byte	0xec9
  1912 0eba 00       		.byte	0
  1913 0ebb 0F       		.uleb128 0xf
- 1914 0ebc D30D0000 		.4byte	.LASF258
+ 1914 0ebc D10D0000 		.4byte	.LASF258
  1915 0ec0 0C       		.byte	0xc
  1916 0ec1 7402     		.2byte	0x274
  1917 0ec3 D90E0000 		.4byte	0xed9
@@ -2206,19 +2206,19 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1937 0eec 5502     		.2byte	0x255
  1938 0eee 0B0F0000 		.4byte	0xf0b
  1939 0ef2 20       		.uleb128 0x20
- 1940 0ef3 A60C0000 		.4byte	.LASF208
+ 1940 0ef3 A40C0000 		.4byte	.LASF208
  1941 0ef7 0C       		.byte	0xc
  1942 0ef8 6C02     		.2byte	0x26c
  1943 0efa 740D0000 		.4byte	0xd74
  1944 0efe 20       		.uleb128 0x20
- 1945 0eff 090C0000 		.4byte	.LASF259
+ 1945 0eff 070C0000 		.4byte	.LASF259
  1946 0f03 0C       		.byte	0xc
  1947 0f04 7502     		.2byte	0x275
  1948 0f06 A50E0000 		.4byte	0xea5
  1949 0f0a 00       		.byte	0
  1950 0f0b 10       		.uleb128 0x10
  1951 0f0c F9040000 		.4byte	0x4f9
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 38
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 38
 
 
  1952 0f10 1B0F0000 		.4byte	0xf1b
@@ -2256,12 +2256,12 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  1984 0f57 02       		.byte	0x2
  1985 0f58 00       		.byte	0
  1986 0f59 21       		.uleb128 0x21
- 1987 0f5a ED0C0000 		.4byte	.LASF271
+ 1987 0f5a EB0C0000 		.4byte	.LASF271
  1988 0f5e 02       		.byte	0x2
  1989 0f5f 81       		.byte	0x81
  1990 0f60 03       		.byte	0x3
  1991 0f61 22       		.uleb128 0x22
- 1992 0f62 D10C0000 		.4byte	.LASF272
+ 1992 0f62 CF0C0000 		.4byte	.LASF272
  1993 0f66 01       		.byte	0x1
  1994 0f67 0F       		.byte	0xf
  1995 0f68 89000000 		.4byte	0x89
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2006 0f83 24       		.uleb128 0x24
  2007 0f84 590F0000 		.4byte	0xf59
  2008 0f88 02000000 		.4byte	.LBB4
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 39
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 39
 
 
  2009 0f8c 02000000 		.4byte	.LBE4-.LBB4
@@ -2319,7 +2319,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2044 0fca 00       		.byte	0
  2045 0fcb 00       		.byte	0
  2046 0fcc 29       		.uleb128 0x29
- 2047 0fcd 3E000000 		.4byte	.LASF260
+ 2047 0fcd 86000000 		.4byte	.LASF260
  2048 0fd1 05       		.byte	0x5
  2049 0fd2 A7       		.byte	0xa7
  2050 0fd3 D70F0000 		.4byte	0xfd7
@@ -2329,16 +2329,16 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2054 0fdd 15       		.uleb128 0x15
  2055 0fde E7040000 		.4byte	0x4e7
  2056 0fe2 29       		.uleb128 0x29
- 2057 0fe3 7A0C0000 		.4byte	.LASF261
+ 2057 0fe3 780C0000 		.4byte	.LASF261
  2058 0fe7 0D       		.byte	0xd
  2059 0fe8 87       		.byte	0x87
  2060 0fe9 13070000 		.4byte	0x713
  2061 0fed 2A       		.uleb128 0x2a
- 2062 0fee 160A0000 		.4byte	.LASF262
+ 2062 0fee 140A0000 		.4byte	.LASF262
  2063 0ff2 08       		.byte	0x8
  2064 0ff3 6001     		.2byte	0x160
  2065 0ff5 B8000000 		.4byte	0xb8
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 40
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 40
 
 
  2066 0ff9 10       		.uleb128 0x10
@@ -2351,30 +2351,30 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2073 1009 15       		.uleb128 0x15
  2074 100a 6F070000 		.4byte	0x76f
  2075 100e 2A       		.uleb128 0x2a
- 2076 100f 85080000 		.4byte	.LASF263
+ 2076 100f 83080000 		.4byte	.LASF263
  2077 1013 08       		.byte	0x8
  2078 1014 6401     		.2byte	0x164
  2079 1016 1A100000 		.4byte	0x101a
  2080 101a 15       		.uleb128 0x15
  2081 101b F90F0000 		.4byte	0xff9
  2082 101f 2A       		.uleb128 0x2a
- 2083 1020 40020000 		.4byte	.LASF264
+ 2083 1020 88020000 		.4byte	.LASF264
  2084 1024 0C       		.byte	0xc
  2085 1025 FD02     		.2byte	0x2fd
  2086 1027 110B0000 		.4byte	0xb11
  2087 102b 2B       		.uleb128 0x2b
- 2088 102c 0C090000 		.4byte	.LASF265
- 2089 1030 0C090000 		.4byte	.LASF265
+ 2088 102c 0A090000 		.4byte	.LASF265
+ 2089 1030 0A090000 		.4byte	.LASF265
  2090 1034 0E       		.byte	0xe
  2091 1035 2502     		.2byte	0x225
  2092 1037 2C       		.uleb128 0x2c
- 2093 1038 7D030000 		.4byte	.LASF266
- 2094 103c 7D030000 		.4byte	.LASF266
+ 2093 1038 C5030000 		.4byte	.LASF266
+ 2094 103c C5030000 		.4byte	.LASF266
  2095 1040 0D       		.byte	0xd
  2096 1041 31       		.byte	0x31
  2097 1042 2C       		.uleb128 0x2c
- 2098 1043 48000000 		.4byte	.LASF267
- 2099 1047 48000000 		.4byte	.LASF267
+ 2098 1043 90000000 		.4byte	.LASF267
+ 2099 1047 90000000 		.4byte	.LASF267
  2100 104b 0F       		.byte	0xf
  2101 104c B6       		.byte	0xb6
  2102 104d 00       		.byte	0
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2120 000f 10       		.uleb128 0x10
  2121 0010 17       		.uleb128 0x17
  2122 0011 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 41
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 41
 
 
  2123 0012 00       		.byte	0
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2177 0048 00       		.byte	0
  2178 0049 00       		.byte	0
  2179 004a 07       		.uleb128 0x7
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 42
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 42
 
 
  2180 004b 0D       		.uleb128 0xd
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2234 0081 00       		.byte	0
  2235 0082 03       		.uleb128 0x3
  2236 0083 0E       		.uleb128 0xe
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 43
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 43
 
 
  2237 0084 1C       		.uleb128 0x1c
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2291 00ba 11       		.uleb128 0x11
  2292 00bb 21       		.uleb128 0x21
  2293 00bc 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 44
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 44
 
 
  2294 00bd 49       		.uleb128 0x49
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2348 00f3 13       		.uleb128 0x13
  2349 00f4 00       		.byte	0
  2350 00f5 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 45
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 45
 
 
  2351 00f6 17       		.uleb128 0x17
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2405 012c 01       		.uleb128 0x1
  2406 012d 13       		.uleb128 0x13
  2407 012e 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 46
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 46
 
 
  2408 012f 00       		.byte	0
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2462 0165 05       		.uleb128 0x5
  2463 0166 00       		.byte	0
  2464 0167 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 47
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 47
 
 
  2465 0168 1F       		.uleb128 0x1f
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2519 019e 49       		.uleb128 0x49
  2520 019f 13       		.uleb128 0x13
  2521 01a0 11       		.uleb128 0x11
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 48
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 48
 
 
  2522 01a1 01       		.uleb128 0x1
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2576 01dc 18       		.uleb128 0x18
  2577 01dd 9142     		.uleb128 0x2111
  2578 01df 18       		.uleb128 0x18
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 49
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 49
 
 
  2579 01e0 00       		.byte	0
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2633 021a 2B       		.uleb128 0x2b
  2634 021b 2E       		.uleb128 0x2e
  2635 021c 00       		.byte	0
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 50
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 50
 
 
  2636 021d 3F       		.uleb128 0x3f
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2688      00000201 
  2688      FB0E0D00 
  2688      01010101 
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 51
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 51
 
 
  2689              	.LASF62:
@@ -3015,1259 +3015,1259 @@ ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 1
  2694 001d 696E7472 		.ascii	"intrMask\000"
  2694      4D61736B 
  2694      00
- 2695              	.LASF164:
- 2696 0026 63795F73 		.ascii	"cy_stc_scb_uart_context\000"
- 2696      74635F73 
- 2696      63625F75 
- 2696      6172745F 
- 2696      636F6E74 
- 2697              	.LASF260:
- 2698 003e 63795F64 		.ascii	"cy_device\000"
- 2698      65766963 
- 2698      6500
- 2699              	.LASF267:
- 2700 0048 73657476 		.ascii	"setvbuf\000"
- 2700      62756600 
- 2701              	.LASF89:
- 2702 0050 63707573 		.ascii	"cpussCm0ClockCtlOffset\000"
- 2702      73436D30 
- 2702      436C6F63 
- 2702      6B43746C 
- 2702      4F666673 
- 2703              	.LASF48:
- 2704 0067 70657269 		.ascii	"periClockNr\000"
- 2704      436C6F63 
- 2704      6B4E7200 
- 2705              	.LASF180:
- 2706 0073 5F6F6E5F 		.ascii	"_on_exit_args\000"
- 2706      65786974 
- 2706      5F617267 
- 2706      7300
- 2707              	.LASF22:
- 2708 0081 75646242 		.ascii	"udbBase\000"
- 2708      61736500 
- 2709              	.LASF197:
- 2710 0089 5F777269 		.ascii	"_write\000"
- 2710      746500
- 2711              	.LASF132:
- 2712 0090 74785374 		.ascii	"txStatus\000"
- 2712      61747573 
- 2712      00
- 2713              	.LASF21:
- 2714 0099 70657269 		.ascii	"periBase\000"
- 2714      42617365 
- 2714      00
- 2715              	.LASF247:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 52
+ 2695              	.LASF270:
+ 2696 0026 433A5C55 		.ascii	"C:\\Users\\dmula\\Documents\\GitHub\\DigitalCamera\\"
+ 2696      73657273 
+ 2696      5C646D75 
+ 2696      6C615C44 
+ 2696      6F63756D 
+ 2697 0054 436F6465 		.ascii	"Code\\VoltageReading.cydsn\000"
+ 2697      5C566F6C 
+ 2697      74616765 
+ 2697      52656164 
+ 2697      696E672E 
+ 2698              	.LASF164:
+ 2699 006e 63795F73 		.ascii	"cy_stc_scb_uart_context\000"
+ 2699      74635F73 
+ 2699      63625F75 
+ 2699      6172745F 
+ 2699      636F6E74 
+ 2700              	.LASF260:
+ 2701 0086 63795F64 		.ascii	"cy_device\000"
+ 2701      65766963 
+ 2701      6500
+ 2702              	.LASF267:
+ 2703 0090 73657476 		.ascii	"setvbuf\000"
+ 2703      62756600 
+ 2704              	.LASF89:
+ 2705 0098 63707573 		.ascii	"cpussCm0ClockCtlOffset\000"
+ 2705      73436D30 
+ 2705      436C6F63 
+ 2705      6B43746C 
+ 2705      4F666673 
+ 2706              	.LASF48:
+ 2707 00af 70657269 		.ascii	"periClockNr\000"
+ 2707      436C6F63 
+ 2707      6B4E7200 
+ 2708              	.LASF180:
+ 2709 00bb 5F6F6E5F 		.ascii	"_on_exit_args\000"
+ 2709      65786974 
+ 2709      5F617267 
+ 2709      7300
+ 2710              	.LASF22:
+ 2711 00c9 75646242 		.ascii	"udbBase\000"
+ 2711      61736500 
+ 2712              	.LASF197:
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 52
 
 
- 2716 00a2 5F776374 		.ascii	"_wctomb_state\000"
- 2716      6F6D625F 
- 2716      73746174 
- 2716      6500
- 2717              	.LASF244:
- 2718 00b0 5F723438 		.ascii	"_r48\000"
- 2718      00
- 2719              	.LASF67:
- 2720 00b5 64774368 		.ascii	"dwChSize\000"
- 2720      53697A65 
- 2720      00
- 2721              	.LASF171:
- 2722 00be 5F5F746D 		.ascii	"__tm_sec\000"
- 2722      5F736563 
- 2722      00
- 2723              	.LASF249:
- 2724 00c7 5F736967 		.ascii	"_signal_buf\000"
- 2724      6E616C5F 
- 2724      62756600 
- 2725              	.LASF12:
- 2726 00d3 756E7369 		.ascii	"unsigned int\000"
- 2726      676E6564 
- 2726      20696E74 
- 2726      00
- 2727              	.LASF49:
- 2728 00e0 736D6966 		.ascii	"smifDeviceNr\000"
- 2728      44657669 
- 2728      63654E72 
- 2728      00
- 2729              	.LASF113:
- 2730 00ed 43595F53 		.ascii	"CY_SAR_RANGE_COND_OUTSIDE\000"
- 2730      41525F52 
- 2730      414E4745 
- 2730      5F434F4E 
- 2730      445F4F55 
- 2731              	.LASF79:
- 2732 0107 70657269 		.ascii	"periDivCmdPaTypeSelPos\000"
- 2732      44697643 
- 2732      6D645061 
- 2732      54797065 
- 2732      53656C50 
- 2733              	.LASF194:
- 2734 011e 5F6C6266 		.ascii	"_lbfsize\000"
- 2734      73697A65 
- 2734      00
- 2735              	.LASF192:
- 2736 0127 5F666C61 		.ascii	"_flags\000"
- 2736      677300
- 2737              	.LASF209:
- 2738 012e 5F657272 		.ascii	"_errno\000"
- 2738      6E6F00
- 2739              	.LASF154:
- 2740 0135 5F6F6666 		.ascii	"_off_t\000"
- 2740      5F7400
- 2741              	.LASF19:
- 2742 013c 63707573 		.ascii	"cpussBase\000"
- 2742      73426173 
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 53
+ 2713 00d1 5F777269 		.ascii	"_write\000"
+ 2713      746500
+ 2714              	.LASF132:
+ 2715 00d8 74785374 		.ascii	"txStatus\000"
+ 2715      61747573 
+ 2715      00
+ 2716              	.LASF21:
+ 2717 00e1 70657269 		.ascii	"periBase\000"
+ 2717      42617365 
+ 2717      00
+ 2718              	.LASF247:
+ 2719 00ea 5F776374 		.ascii	"_wctomb_state\000"
+ 2719      6F6D625F 
+ 2719      73746174 
+ 2719      6500
+ 2720              	.LASF244:
+ 2721 00f8 5F723438 		.ascii	"_r48\000"
+ 2721      00
+ 2722              	.LASF67:
+ 2723 00fd 64774368 		.ascii	"dwChSize\000"
+ 2723      53697A65 
+ 2723      00
+ 2724              	.LASF171:
+ 2725 0106 5F5F746D 		.ascii	"__tm_sec\000"
+ 2725      5F736563 
+ 2725      00
+ 2726              	.LASF249:
+ 2727 010f 5F736967 		.ascii	"_signal_buf\000"
+ 2727      6E616C5F 
+ 2727      62756600 
+ 2728              	.LASF12:
+ 2729 011b 756E7369 		.ascii	"unsigned int\000"
+ 2729      676E6564 
+ 2729      20696E74 
+ 2729      00
+ 2730              	.LASF49:
+ 2731 0128 736D6966 		.ascii	"smifDeviceNr\000"
+ 2731      44657669 
+ 2731      63654E72 
+ 2731      00
+ 2732              	.LASF113:
+ 2733 0135 43595F53 		.ascii	"CY_SAR_RANGE_COND_OUTSIDE\000"
+ 2733      41525F52 
+ 2733      414E4745 
+ 2733      5F434F4E 
+ 2733      445F4F55 
+ 2734              	.LASF79:
+ 2735 014f 70657269 		.ascii	"periDivCmdPaTypeSelPos\000"
+ 2735      44697643 
+ 2735      6D645061 
+ 2735      54797065 
+ 2735      53656C50 
+ 2736              	.LASF194:
+ 2737 0166 5F6C6266 		.ascii	"_lbfsize\000"
+ 2737      73697A65 
+ 2737      00
+ 2738              	.LASF192:
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 53
 
 
- 2742      6500
- 2743              	.LASF147:
- 2744 0146 6368616E 		.ascii	"channelBase\000"
- 2744      6E656C42 
- 2744      61736500 
- 2745              	.LASF43:
- 2746 0152 63707573 		.ascii	"cpussFmIrq\000"
- 2746      73466D49 
- 2746      727100
- 2747              	.LASF149:
- 2748 015d 6877436F 		.ascii	"hwConfigStc\000"
- 2748      6E666967 
- 2748      53746300 
- 2749              	.LASF217:
- 2750 0169 5F5F7364 		.ascii	"__sdidinit\000"
- 2750      6964696E 
- 2750      697400
- 2751              	.LASF135:
- 2752 0174 72785269 		.ascii	"rxRingBufSize\000"
- 2752      6E674275 
- 2752      6653697A 
- 2752      6500
- 2753              	.LASF153:
- 2754 0182 5F4C4F43 		.ascii	"_LOCK_RECURSIVE_T\000"
- 2754      4B5F5245 
- 2754      43555253 
- 2754      4956455F 
- 2754      5400
- 2755              	.LASF75:
- 2756 0194 70657269 		.ascii	"periTrGrSize\000"
- 2756      54724772 
- 2756      53697A65 
- 2756      00
- 2757              	.LASF78:
- 2758 01a1 70657269 		.ascii	"periDivCmdPaDivSelPos\000"
- 2758      44697643 
- 2758      6D645061 
- 2758      44697653 
- 2758      656C506F 
- 2759              	.LASF196:
- 2760 01b7 5F726561 		.ascii	"_read\000"
- 2760      6400
- 2761              	.LASF269:
- 2762 01bd 6D61696E 		.ascii	"main_cm0p.c\000"
- 2762      5F636D30 
- 2762      702E6300 
- 2763              	.LASF55:
- 2764 01c9 63727970 		.ascii	"cryptoMemSize\000"
- 2764      746F4D65 
- 2764      6D53697A 
- 2764      6500
- 2765              	.LASF251:
- 2766 01d7 5F6D6272 		.ascii	"_mbrlen_state\000"
- 2766      6C656E5F 
- 2766      73746174 
- 2766      6500
- 2767              	.LASF101:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 54
+ 2739 016f 5F666C61 		.ascii	"_flags\000"
+ 2739      677300
+ 2740              	.LASF209:
+ 2741 0176 5F657272 		.ascii	"_errno\000"
+ 2741      6E6F00
+ 2742              	.LASF154:
+ 2743 017d 5F6F6666 		.ascii	"_off_t\000"
+ 2743      5F7400
+ 2744              	.LASF19:
+ 2745 0184 63707573 		.ascii	"cpussBase\000"
+ 2745      73426173 
+ 2745      6500
+ 2746              	.LASF147:
+ 2747 018e 6368616E 		.ascii	"channelBase\000"
+ 2747      6E656C42 
+ 2747      61736500 
+ 2748              	.LASF43:
+ 2749 019a 63707573 		.ascii	"cpussFmIrq\000"
+ 2749      73466D49 
+ 2749      727100
+ 2750              	.LASF149:
+ 2751 01a5 6877436F 		.ascii	"hwConfigStc\000"
+ 2751      6E666967 
+ 2751      53746300 
+ 2752              	.LASF217:
+ 2753 01b1 5F5F7364 		.ascii	"__sdidinit\000"
+ 2753      6964696E 
+ 2753      697400
+ 2754              	.LASF135:
+ 2755 01bc 72785269 		.ascii	"rxRingBufSize\000"
+ 2755      6E674275 
+ 2755      6653697A 
+ 2755      6500
+ 2756              	.LASF153:
+ 2757 01ca 5F4C4F43 		.ascii	"_LOCK_RECURSIVE_T\000"
+ 2757      4B5F5245 
+ 2757      43555253 
+ 2757      4956455F 
+ 2757      5400
+ 2758              	.LASF75:
+ 2759 01dc 70657269 		.ascii	"periTrGrSize\000"
+ 2759      54724772 
+ 2759      53697A65 
+ 2759      00
+ 2760              	.LASF78:
+ 2761 01e9 70657269 		.ascii	"periDivCmdPaDivSelPos\000"
+ 2761      44697643 
+ 2761      6D645061 
+ 2761      44697653 
+ 2761      656C506F 
+ 2762              	.LASF196:
+ 2763 01ff 5F726561 		.ascii	"_read\000"
+ 2763      6400
+ 2764              	.LASF269:
+ 2765 0205 6D61696E 		.ascii	"main_cm0p.c\000"
+ 2765      5F636D30 
+ 2765      702E6300 
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 54
 
 
- 2768 01e5 63707573 		.ascii	"cpussRam1Ctl0\000"
- 2768      7352616D 
- 2768      3143746C 
- 2768      3000
- 2769              	.LASF46:
- 2770 01f3 73727373 		.ascii	"srssNumPll\000"
- 2770      4E756D50 
- 2770      6C6C00
- 2771              	.LASF103:
- 2772 01fe 69706353 		.ascii	"ipcStructSize\000"
- 2772      74727563 
- 2772      7453697A 
- 2772      6500
- 2773              	.LASF211:
- 2774 020c 5F737464 		.ascii	"_stdout\000"
- 2774      6F757400 
- 2775              	.LASF37:
- 2776 0214 70726F74 		.ascii	"protVersion\000"
- 2776      56657273 
- 2776      696F6E00 
- 2777              	.LASF110:
- 2778 0220 43595F53 		.ascii	"CY_SAR_RANGE_COND_BELOW\000"
- 2778      41525F52 
- 2778      414E4745 
- 2778      5F434F4E 
- 2778      445F4245 
- 2779              	.LASF155:
- 2780 0238 5F66706F 		.ascii	"_fpos_t\000"
- 2780      735F7400 
- 2781              	.LASF264:
- 2782 0240 5F696D70 		.ascii	"_impure_ptr\000"
- 2782      7572655F 
- 2782      70747200 
- 2783              	.LASF187:
- 2784 024c 5F666E73 		.ascii	"_fns\000"
- 2784      00
- 2785              	.LASF195:
- 2786 0251 5F636F6F 		.ascii	"_cookie\000"
- 2786      6B696500 
- 2787              	.LASF77:
- 2788 0259 70657269 		.ascii	"periDivCmdTypeSelPos\000"
- 2788      44697643 
- 2788      6D645479 
- 2788      70655365 
- 2788      6C506F73 
- 2789              	.LASF94:
- 2790 026e 63707573 		.ascii	"cpussTrimRamCtlOffset\000"
- 2790      73547269 
- 2790      6D52616D 
- 2790      43746C4F 
- 2790      66667365 
- 2791              	.LASF165:
- 2792 0284 5F426967 		.ascii	"_Bigint\000"
- 2792      696E7400 
- 2793              	.LASF177:
- 2794 028c 5F5F746D 		.ascii	"__tm_wday\000"
- 2794      5F776461 
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 55
+ 2766              	.LASF55:
+ 2767 0211 63727970 		.ascii	"cryptoMemSize\000"
+ 2767      746F4D65 
+ 2767      6D53697A 
+ 2767      6500
+ 2768              	.LASF251:
+ 2769 021f 5F6D6272 		.ascii	"_mbrlen_state\000"
+ 2769      6C656E5F 
+ 2769      73746174 
+ 2769      6500
+ 2770              	.LASF101:
+ 2771 022d 63707573 		.ascii	"cpussRam1Ctl0\000"
+ 2771      7352616D 
+ 2771      3143746C 
+ 2771      3000
+ 2772              	.LASF46:
+ 2773 023b 73727373 		.ascii	"srssNumPll\000"
+ 2773      4E756D50 
+ 2773      6C6C00
+ 2774              	.LASF103:
+ 2775 0246 69706353 		.ascii	"ipcStructSize\000"
+ 2775      74727563 
+ 2775      7453697A 
+ 2775      6500
+ 2776              	.LASF211:
+ 2777 0254 5F737464 		.ascii	"_stdout\000"
+ 2777      6F757400 
+ 2778              	.LASF37:
+ 2779 025c 70726F74 		.ascii	"protVersion\000"
+ 2779      56657273 
+ 2779      696F6E00 
+ 2780              	.LASF110:
+ 2781 0268 43595F53 		.ascii	"CY_SAR_RANGE_COND_BELOW\000"
+ 2781      41525F52 
+ 2781      414E4745 
+ 2781      5F434F4E 
+ 2781      445F4245 
+ 2782              	.LASF155:
+ 2783 0280 5F66706F 		.ascii	"_fpos_t\000"
+ 2783      735F7400 
+ 2784              	.LASF264:
+ 2785 0288 5F696D70 		.ascii	"_impure_ptr\000"
+ 2785      7572655F 
+ 2785      70747200 
+ 2786              	.LASF187:
+ 2787 0294 5F666E73 		.ascii	"_fns\000"
+ 2787      00
+ 2788              	.LASF195:
+ 2789 0299 5F636F6F 		.ascii	"_cookie\000"
+ 2789      6B696500 
+ 2790              	.LASF77:
+ 2791 02a1 70657269 		.ascii	"periDivCmdTypeSelPos\000"
+ 2791      44697643 
+ 2791      6D645479 
+ 2791      70655365 
+ 2791      6C506F73 
+ 2792              	.LASF94:
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 55
 
 
- 2794      7900
- 2795              	.LASF156:
- 2796 0296 77696E74 		.ascii	"wint_t\000"
- 2796      5F7400
- 2797              	.LASF219:
- 2798 029d 5F726573 		.ascii	"_result\000"
- 2798      756C7400 
- 2799              	.LASF16:
- 2800 02a5 75696E74 		.ascii	"uint32_t\000"
- 2800      33325F74 
- 2800      00
- 2801              	.LASF173:
- 2802 02ae 5F5F746D 		.ascii	"__tm_hour\000"
- 2802      5F686F75 
- 2802      7200
- 2803              	.LASF87:
- 2804 02b8 6770696F 		.ascii	"gpioPrtCfgOutOffset\000"
- 2804      50727443 
- 2804      66674F75 
- 2804      744F6666 
- 2804      73657400 
- 2805              	.LASF159:
- 2806 02cc 5F5F636F 		.ascii	"__count\000"
- 2806      756E7400 
- 2807              	.LASF11:
- 2808 02d4 6C6F6E67 		.ascii	"long long unsigned int\000"
- 2808      206C6F6E 
- 2808      6720756E 
- 2808      7369676E 
- 2808      65642069 
- 2809              	.LASF107:
- 2810 02eb 666C6F61 		.ascii	"float\000"
- 2810      7400
- 2811              	.LASF30:
- 2812 02f1 63727970 		.ascii	"cryptoVersion\000"
- 2812      746F5665 
- 2812      7273696F 
- 2812      6E00
- 2813              	.LASF234:
- 2814 02ff 5F72616E 		.ascii	"_rand48\000"
- 2814      64343800 
- 2815              	.LASF146:
- 2816 0307 63795F73 		.ascii	"cy_stc_scb_uart_context_t\000"
- 2816      74635F73 
- 2816      63625F75 
- 2816      6172745F 
- 2816      636F6E74 
- 2817              	.LASF59:
- 2818 0321 666C6173 		.ascii	"flashProgramDelay\000"
- 2818      6850726F 
- 2818      6772616D 
- 2818      44656C61 
- 2818      7900
- 2819              	.LASF257:
- 2820 0333 5F6E6578 		.ascii	"_nextf\000"
- 2820      746600
- 2821              	.LASF20:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 56
+ 2793 02b6 63707573 		.ascii	"cpussTrimRamCtlOffset\000"
+ 2793      73547269 
+ 2793      6D52616D 
+ 2793      43746C4F 
+ 2793      66667365 
+ 2794              	.LASF165:
+ 2795 02cc 5F426967 		.ascii	"_Bigint\000"
+ 2795      696E7400 
+ 2796              	.LASF177:
+ 2797 02d4 5F5F746D 		.ascii	"__tm_wday\000"
+ 2797      5F776461 
+ 2797      7900
+ 2798              	.LASF156:
+ 2799 02de 77696E74 		.ascii	"wint_t\000"
+ 2799      5F7400
+ 2800              	.LASF219:
+ 2801 02e5 5F726573 		.ascii	"_result\000"
+ 2801      756C7400 
+ 2802              	.LASF16:
+ 2803 02ed 75696E74 		.ascii	"uint32_t\000"
+ 2803      33325F74 
+ 2803      00
+ 2804              	.LASF173:
+ 2805 02f6 5F5F746D 		.ascii	"__tm_hour\000"
+ 2805      5F686F75 
+ 2805      7200
+ 2806              	.LASF87:
+ 2807 0300 6770696F 		.ascii	"gpioPrtCfgOutOffset\000"
+ 2807      50727443 
+ 2807      66674F75 
+ 2807      744F6666 
+ 2807      73657400 
+ 2808              	.LASF159:
+ 2809 0314 5F5F636F 		.ascii	"__count\000"
+ 2809      756E7400 
+ 2810              	.LASF11:
+ 2811 031c 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 2811      206C6F6E 
+ 2811      6720756E 
+ 2811      7369676E 
+ 2811      65642069 
+ 2812              	.LASF107:
+ 2813 0333 666C6F61 		.ascii	"float\000"
+ 2813      7400
+ 2814              	.LASF30:
+ 2815 0339 63727970 		.ascii	"cryptoVersion\000"
+ 2815      746F5665 
+ 2815      7273696F 
+ 2815      6E00
+ 2816              	.LASF234:
+ 2817 0347 5F72616E 		.ascii	"_rand48\000"
+ 2817      64343800 
+ 2818              	.LASF146:
+ 2819 034f 63795F73 		.ascii	"cy_stc_scb_uart_context_t\000"
+ 2819      74635F73 
+ 2819      63625F75 
+ 2819      6172745F 
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 56
 
 
- 2822 033a 666C6173 		.ascii	"flashcBase\000"
- 2822      68634261 
- 2822      736500
- 2823              	.LASF14:
- 2824 0345 696E7431 		.ascii	"int16_t\000"
- 2824      365F7400 
- 2825              	.LASF253:
- 2826 034d 5F6D6273 		.ascii	"_mbsrtowcs_state\000"
- 2826      72746F77 
- 2826      63735F73 
- 2826      74617465 
- 2826      00
- 2827              	.LASF86:
- 2828 035e 6770696F 		.ascii	"gpioPrtCfgInOffset\000"
- 2828      50727443 
- 2828      6667496E 
- 2828      4F666673 
- 2828      657400
- 2829              	.LASF148:
- 2830 0371 6E756D43 		.ascii	"numChannels\000"
- 2830      68616E6E 
- 2830      656C7300 
- 2831              	.LASF266:
- 2832 037d 55415254 		.ascii	"UART_Start\000"
- 2832      5F537461 
- 2832      727400
- 2833              	.LASF83:
- 2834 0388 70657269 		.ascii	"periDiv24_5CtlOffset\000"
- 2834      44697632 
- 2834      345F3543 
- 2834      746C4F66 
- 2834      66736574 
- 2835              	.LASF88:
- 2836 039d 6770696F 		.ascii	"gpioPrtCfgSioOffset\000"
- 2836      50727443 
- 2836      66675369 
- 2836      6F4F6666 
- 2836      73657400 
- 2837              	.LASF191:
- 2838 03b1 5F5F7346 		.ascii	"__sFILE\000"
- 2838      494C4500 
- 2839              	.LASF169:
- 2840 03b9 5F776473 		.ascii	"_wds\000"
- 2840      00
- 2841              	.LASF121:
- 2842 03be 6368616E 		.ascii	"chanEn\000"
- 2842      456E00
- 2843              	.LASF119:
- 2844 03c5 72616E67 		.ascii	"rangeThres\000"
- 2844      65546872 
- 2844      657300
- 2845              	.LASF5:
- 2846 03d0 5F5F7569 		.ascii	"__uint16_t\000"
- 2846      6E743136 
- 2846      5F7400
- 2847              	.LASF230:
- 2848 03db 5F5F4649 		.ascii	"__FILE\000"
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 57
+ 2819      636F6E74 
+ 2820              	.LASF59:
+ 2821 0369 666C6173 		.ascii	"flashProgramDelay\000"
+ 2821      6850726F 
+ 2821      6772616D 
+ 2821      44656C61 
+ 2821      7900
+ 2822              	.LASF257:
+ 2823 037b 5F6E6578 		.ascii	"_nextf\000"
+ 2823      746600
+ 2824              	.LASF20:
+ 2825 0382 666C6173 		.ascii	"flashcBase\000"
+ 2825      68634261 
+ 2825      736500
+ 2826              	.LASF14:
+ 2827 038d 696E7431 		.ascii	"int16_t\000"
+ 2827      365F7400 
+ 2828              	.LASF253:
+ 2829 0395 5F6D6273 		.ascii	"_mbsrtowcs_state\000"
+ 2829      72746F77 
+ 2829      63735F73 
+ 2829      74617465 
+ 2829      00
+ 2830              	.LASF86:
+ 2831 03a6 6770696F 		.ascii	"gpioPrtCfgInOffset\000"
+ 2831      50727443 
+ 2831      6667496E 
+ 2831      4F666673 
+ 2831      657400
+ 2832              	.LASF148:
+ 2833 03b9 6E756D43 		.ascii	"numChannels\000"
+ 2833      68616E6E 
+ 2833      656C7300 
+ 2834              	.LASF266:
+ 2835 03c5 55415254 		.ascii	"UART_Start\000"
+ 2835      5F537461 
+ 2835      727400
+ 2836              	.LASF83:
+ 2837 03d0 70657269 		.ascii	"periDiv24_5CtlOffset\000"
+ 2837      44697632 
+ 2837      345F3543 
+ 2837      746C4F66 
+ 2837      66736574 
+ 2838              	.LASF88:
+ 2839 03e5 6770696F 		.ascii	"gpioPrtCfgSioOffset\000"
+ 2839      50727443 
+ 2839      66675369 
+ 2839      6F4F6666 
+ 2839      73657400 
+ 2840              	.LASF191:
+ 2841 03f9 5F5F7346 		.ascii	"__sFILE\000"
+ 2841      494C4500 
+ 2842              	.LASF169:
+ 2843 0401 5F776473 		.ascii	"_wds\000"
+ 2843      00
+ 2844              	.LASF121:
+ 2845 0406 6368616E 		.ascii	"chanEn\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 57
 
 
- 2848      4C4500
- 2849              	.LASF111:
- 2850 03e2 43595F53 		.ascii	"CY_SAR_RANGE_COND_INSIDE\000"
- 2850      41525F52 
- 2850      414E4745 
- 2850      5F434F4E 
- 2850      445F494E 
- 2851              	.LASF130:
- 2852 03fb 63795F73 		.ascii	"cy_stc_sar_config_t\000"
- 2852      74635F73 
- 2852      61725F63 
- 2852      6F6E6669 
- 2852      675F7400 
- 2853              	.LASF115:
- 2854 040f 6374726C 		.ascii	"ctrl\000"
- 2854      00
- 2855              	.LASF133:
- 2856 0414 72785374 		.ascii	"rxStatus\000"
- 2856      61747573 
- 2856      00
- 2857              	.LASF214:
- 2858 041d 5F656D65 		.ascii	"_emergency\000"
- 2858      7267656E 
- 2858      637900
- 2859              	.LASF64:
- 2860 0428 666C6173 		.ascii	"flashCtlMainWs3Freq\000"
- 2860      6843746C 
- 2860      4D61696E 
- 2860      57733346 
- 2860      72657100 
- 2861              	.LASF152:
- 2862 043c 4144435F 		.ascii	"ADC_1_CONFIG_STRUCT\000"
- 2862      315F434F 
- 2862      4E464947 
- 2862      5F535452 
- 2862      55435400 
- 2863              	.LASF57:
- 2864 0450 666C6173 		.ascii	"flashPipeRequired\000"
- 2864      68506970 
- 2864      65526571 
- 2864      75697265 
- 2864      6400
- 2865              	.LASF144:
- 2866 0462 63624576 		.ascii	"cbEvents\000"
- 2866      656E7473 
- 2866      00
- 2867              	.LASF186:
- 2868 046b 5F696E64 		.ascii	"_ind\000"
- 2868      00
- 2869              	.LASF240:
- 2870 0470 5F617363 		.ascii	"_asctime_buf\000"
- 2870      74696D65 
- 2870      5F627566 
- 2870      00
- 2871              	.LASF108:
- 2872 047d 646F7562 		.ascii	"double\000"
- 2872      6C6500
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 58
+ 2845      456E00
+ 2846              	.LASF119:
+ 2847 040d 72616E67 		.ascii	"rangeThres\000"
+ 2847      65546872 
+ 2847      657300
+ 2848              	.LASF5:
+ 2849 0418 5F5F7569 		.ascii	"__uint16_t\000"
+ 2849      6E743136 
+ 2849      5F7400
+ 2850              	.LASF230:
+ 2851 0423 5F5F4649 		.ascii	"__FILE\000"
+ 2851      4C4500
+ 2852              	.LASF111:
+ 2853 042a 43595F53 		.ascii	"CY_SAR_RANGE_COND_INSIDE\000"
+ 2853      41525F52 
+ 2853      414E4745 
+ 2853      5F434F4E 
+ 2853      445F494E 
+ 2854              	.LASF130:
+ 2855 0443 63795F73 		.ascii	"cy_stc_sar_config_t\000"
+ 2855      74635F73 
+ 2855      61725F63 
+ 2855      6F6E6669 
+ 2855      675F7400 
+ 2856              	.LASF115:
+ 2857 0457 6374726C 		.ascii	"ctrl\000"
+ 2857      00
+ 2858              	.LASF133:
+ 2859 045c 72785374 		.ascii	"rxStatus\000"
+ 2859      61747573 
+ 2859      00
+ 2860              	.LASF214:
+ 2861 0465 5F656D65 		.ascii	"_emergency\000"
+ 2861      7267656E 
+ 2861      637900
+ 2862              	.LASF64:
+ 2863 0470 666C6173 		.ascii	"flashCtlMainWs3Freq\000"
+ 2863      6843746C 
+ 2863      4D61696E 
+ 2863      57733346 
+ 2863      72657100 
+ 2864              	.LASF152:
+ 2865 0484 4144435F 		.ascii	"ADC_1_CONFIG_STRUCT\000"
+ 2865      315F434F 
+ 2865      4E464947 
+ 2865      5F535452 
+ 2865      55435400 
+ 2866              	.LASF57:
+ 2867 0498 666C6173 		.ascii	"flashPipeRequired\000"
+ 2867      68506970 
+ 2867      65526571 
+ 2867      75697265 
+ 2867      6400
+ 2868              	.LASF144:
+ 2869 04aa 63624576 		.ascii	"cbEvents\000"
+ 2869      656E7473 
+ 2869      00
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 58
 
 
- 2873              	.LASF236:
- 2874 0484 5F6D756C 		.ascii	"_mult\000"
- 2874      7400
- 2875              	.LASF213:
- 2876 048a 5F696E63 		.ascii	"_inc\000"
- 2876      00
- 2877              	.LASF109:
- 2878 048f 5F426F6F 		.ascii	"_Bool\000"
- 2878      6C00
- 2879              	.LASF161:
- 2880 0495 5F6D6273 		.ascii	"_mbstate_t\000"
- 2880      74617465 
- 2880      5F7400
- 2881              	.LASF61:
- 2882 04a0 666C6173 		.ascii	"flashCtlMainWs0Freq\000"
- 2882      6843746C 
- 2882      4D61696E 
- 2882      57733046 
- 2882      72657100 
- 2883              	.LASF166:
- 2884 04b4 5F6E6578 		.ascii	"_next\000"
- 2884      7400
- 2885              	.LASF25:
- 2886 04ba 6770696F 		.ascii	"gpioBase\000"
- 2886      42617365 
- 2886      00
- 2887              	.LASF96:
- 2888 04c3 63707573 		.ascii	"cpussSysTickCtlOffset\000"
- 2888      73537973 
- 2888      5469636B 
- 2888      43746C4F 
- 2888      66667365 
- 2889              	.LASF52:
- 2890 04d9 75646250 		.ascii	"udbPresent\000"
- 2890      72657365 
- 2890      6E7400
- 2891              	.LASF160:
- 2892 04e4 5F5F7661 		.ascii	"__value\000"
- 2892      6C756500 
- 2893              	.LASF70:
- 2894 04ec 64775374 		.ascii	"dwStatusChIdxPos\000"
- 2894      61747573 
- 2894      43684964 
- 2894      78506F73 
- 2894      00
- 2895              	.LASF38:
- 2896 04fd 63707573 		.ascii	"cpussIpcNr\000"
- 2896      73497063 
- 2896      4E7200
- 2897              	.LASF221:
- 2898 0508 5F703573 		.ascii	"_p5s\000"
- 2898      00
- 2899              	.LASF129:
- 2900 050d 76726566 		.ascii	"vrefMvValue\000"
- 2900      4D765661 
- 2900      6C756500 
- 2901              	.LASF255:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 59
+ 2870              	.LASF186:
+ 2871 04b3 5F696E64 		.ascii	"_ind\000"
+ 2871      00
+ 2872              	.LASF240:
+ 2873 04b8 5F617363 		.ascii	"_asctime_buf\000"
+ 2873      74696D65 
+ 2873      5F627566 
+ 2873      00
+ 2874              	.LASF108:
+ 2875 04c5 646F7562 		.ascii	"double\000"
+ 2875      6C6500
+ 2876              	.LASF236:
+ 2877 04cc 5F6D756C 		.ascii	"_mult\000"
+ 2877      7400
+ 2878              	.LASF213:
+ 2879 04d2 5F696E63 		.ascii	"_inc\000"
+ 2879      00
+ 2880              	.LASF109:
+ 2881 04d7 5F426F6F 		.ascii	"_Bool\000"
+ 2881      6C00
+ 2882              	.LASF161:
+ 2883 04dd 5F6D6273 		.ascii	"_mbstate_t\000"
+ 2883      74617465 
+ 2883      5F7400
+ 2884              	.LASF61:
+ 2885 04e8 666C6173 		.ascii	"flashCtlMainWs0Freq\000"
+ 2885      6843746C 
+ 2885      4D61696E 
+ 2885      57733046 
+ 2885      72657100 
+ 2886              	.LASF166:
+ 2887 04fc 5F6E6578 		.ascii	"_next\000"
+ 2887      7400
+ 2888              	.LASF25:
+ 2889 0502 6770696F 		.ascii	"gpioBase\000"
+ 2889      42617365 
+ 2889      00
+ 2890              	.LASF96:
+ 2891 050b 63707573 		.ascii	"cpussSysTickCtlOffset\000"
+ 2891      73537973 
+ 2891      5469636B 
+ 2891      43746C4F 
+ 2891      66667365 
+ 2892              	.LASF52:
+ 2893 0521 75646250 		.ascii	"udbPresent\000"
+ 2893      72657365 
+ 2893      6E7400
+ 2894              	.LASF160:
+ 2895 052c 5F5F7661 		.ascii	"__value\000"
+ 2895      6C756500 
+ 2896              	.LASF70:
+ 2897 0534 64775374 		.ascii	"dwStatusChIdxPos\000"
+ 2897      61747573 
+ 2897      43684964 
+ 2897      78506F73 
+ 2897      00
+ 2898              	.LASF38:
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 59
 
 
- 2902 0519 5F776373 		.ascii	"_wcsrtombs_state\000"
- 2902      72746F6D 
- 2902      62735F73 
- 2902      74617465 
- 2902      00
- 2903              	.LASF245:
- 2904 052a 5F6D626C 		.ascii	"_mblen_state\000"
- 2904      656E5F73 
- 2904      74617465 
- 2904      00
- 2905              	.LASF112:
- 2906 0537 43595F53 		.ascii	"CY_SAR_RANGE_COND_ABOVE\000"
- 2906      41525F52 
- 2906      414E4745 
- 2906      5F434F4E 
- 2906      445F4142 
- 2907              	.LASF106:
- 2908 054f 63686172 		.ascii	"char\000"
- 2908      00
- 2909              	.LASF174:
- 2910 0554 5F5F746D 		.ascii	"__tm_mday\000"
- 2910      5F6D6461 
- 2910      7900
- 2911              	.LASF227:
- 2912 055e 5F736967 		.ascii	"_sig_func\000"
- 2912      5F66756E 
- 2912      6300
- 2913              	.LASF252:
- 2914 0568 5F6D6272 		.ascii	"_mbrtowc_state\000"
- 2914      746F7763 
- 2914      5F737461 
- 2914      746500
- 2915              	.LASF137:
- 2916 0577 72785269 		.ascii	"rxRingBufTail\000"
- 2916      6E674275 
- 2916      66546169 
- 2916      6C00
- 2917              	.LASF82:
- 2918 0585 70657269 		.ascii	"periDiv16_5CtlOffset\000"
- 2918      44697631 
- 2918      365F3543 
- 2918      746C4F66 
- 2918      66736574 
- 2919              	.LASF53:
- 2920 059a 73797350 		.ascii	"sysPmSimoPresent\000"
- 2920      6D53696D 
- 2920      6F507265 
- 2920      73656E74 
- 2920      00
- 2921              	.LASF202:
- 2922 05ab 5F626C6B 		.ascii	"_blksize\000"
- 2922      73697A65 
- 2922      00
- 2923              	.LASF220:
- 2924 05b4 5F726573 		.ascii	"_result_k\000"
- 2924      756C745F 
- 2924      6B00
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 60
+ 2899 0545 63707573 		.ascii	"cpussIpcNr\000"
+ 2899      73497063 
+ 2899      4E7200
+ 2900              	.LASF221:
+ 2901 0550 5F703573 		.ascii	"_p5s\000"
+ 2901      00
+ 2902              	.LASF129:
+ 2903 0555 76726566 		.ascii	"vrefMvValue\000"
+ 2903      4D765661 
+ 2903      6C756500 
+ 2904              	.LASF255:
+ 2905 0561 5F776373 		.ascii	"_wcsrtombs_state\000"
+ 2905      72746F6D 
+ 2905      62735F73 
+ 2905      74617465 
+ 2905      00
+ 2906              	.LASF245:
+ 2907 0572 5F6D626C 		.ascii	"_mblen_state\000"
+ 2907      656E5F73 
+ 2907      74617465 
+ 2907      00
+ 2908              	.LASF112:
+ 2909 057f 43595F53 		.ascii	"CY_SAR_RANGE_COND_ABOVE\000"
+ 2909      41525F52 
+ 2909      414E4745 
+ 2909      5F434F4E 
+ 2909      445F4142 
+ 2910              	.LASF106:
+ 2911 0597 63686172 		.ascii	"char\000"
+ 2911      00
+ 2912              	.LASF174:
+ 2913 059c 5F5F746D 		.ascii	"__tm_mday\000"
+ 2913      5F6D6461 
+ 2913      7900
+ 2914              	.LASF227:
+ 2915 05a6 5F736967 		.ascii	"_sig_func\000"
+ 2915      5F66756E 
+ 2915      6300
+ 2916              	.LASF252:
+ 2917 05b0 5F6D6272 		.ascii	"_mbrtowc_state\000"
+ 2917      746F7763 
+ 2917      5F737461 
+ 2917      746500
+ 2918              	.LASF137:
+ 2919 05bf 72785269 		.ascii	"rxRingBufTail\000"
+ 2919      6E674275 
+ 2919      66546169 
+ 2919      6C00
+ 2920              	.LASF82:
+ 2921 05cd 70657269 		.ascii	"periDiv16_5CtlOffset\000"
+ 2921      44697631 
+ 2921      365F3543 
+ 2921      746C4F66 
+ 2921      66736574 
+ 2922              	.LASF53:
+ 2923 05e2 73797350 		.ascii	"sysPmSimoPresent\000"
+ 2923      6D53696D 
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 60
 
 
- 2925              	.LASF140:
- 2926 05be 72784275 		.ascii	"rxBufIdx\000"
- 2926      66496478 
- 2926      00
- 2927              	.LASF145:
- 2928 05c7 696E6974 		.ascii	"initKey\000"
- 2928      4B657900 
- 2929              	.LASF157:
- 2930 05cf 5F5F7763 		.ascii	"__wch\000"
- 2930      6800
- 2931              	.LASF71:
- 2932 05d5 64775374 		.ascii	"dwStatusChIdxMsk\000"
- 2932      61747573 
- 2932      43684964 
- 2932      784D736B 
- 2932      00
- 2933              	.LASF13:
- 2934 05e6 75696E74 		.ascii	"uint8_t\000"
- 2934      385F7400 
- 2935              	.LASF199:
- 2936 05ee 5F636C6F 		.ascii	"_close\000"
- 2936      736500
- 2937              	.LASF76:
- 2938 05f5 70657269 		.ascii	"periDivCmdDivSelMsk\000"
- 2938      44697643 
- 2938      6D644469 
- 2938      7653656C 
- 2938      4D736B00 
- 2939              	.LASF42:
- 2940 0609 63707573 		.ascii	"cpussIpc0Irq\000"
- 2940      73497063 
- 2940      30497271 
- 2940      00
- 2941              	.LASF127:
- 2942 0616 6D757853 		.ascii	"muxSwitchSqCtrl\000"
- 2942      77697463 
- 2942      68537143 
- 2942      74726C00 
- 2943              	.LASF131:
- 2944 0626 63795F63 		.ascii	"cy_cb_scb_uart_handle_events_t\000"
- 2944      625F7363 
- 2944      625F7561 
- 2944      72745F68 
- 2944      616E646C 
- 2945              	.LASF120:
- 2946 0645 72616E67 		.ascii	"rangeCond\000"
- 2946      65436F6E 
- 2946      6400
- 2947              	.LASF210:
- 2948 064f 5F737464 		.ascii	"_stdin\000"
- 2948      696E00
- 2949              	.LASF242:
- 2950 0656 5F67616D 		.ascii	"_gamma_signgam\000"
- 2950      6D615F73 
- 2950      69676E67 
- 2950      616D00
- 2951              	.LASF100:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 61
+ 2923      6F507265 
+ 2923      73656E74 
+ 2923      00
+ 2924              	.LASF202:
+ 2925 05f3 5F626C6B 		.ascii	"_blksize\000"
+ 2925      73697A65 
+ 2925      00
+ 2926              	.LASF220:
+ 2927 05fc 5F726573 		.ascii	"_result_k\000"
+ 2927      756C745F 
+ 2927      6B00
+ 2928              	.LASF140:
+ 2929 0606 72784275 		.ascii	"rxBufIdx\000"
+ 2929      66496478 
+ 2929      00
+ 2930              	.LASF145:
+ 2931 060f 696E6974 		.ascii	"initKey\000"
+ 2931      4B657900 
+ 2932              	.LASF157:
+ 2933 0617 5F5F7763 		.ascii	"__wch\000"
+ 2933      6800
+ 2934              	.LASF71:
+ 2935 061d 64775374 		.ascii	"dwStatusChIdxMsk\000"
+ 2935      61747573 
+ 2935      43684964 
+ 2935      784D736B 
+ 2935      00
+ 2936              	.LASF13:
+ 2937 062e 75696E74 		.ascii	"uint8_t\000"
+ 2937      385F7400 
+ 2938              	.LASF199:
+ 2939 0636 5F636C6F 		.ascii	"_close\000"
+ 2939      736500
+ 2940              	.LASF76:
+ 2941 063d 70657269 		.ascii	"periDivCmdDivSelMsk\000"
+ 2941      44697643 
+ 2941      6D644469 
+ 2941      7653656C 
+ 2941      4D736B00 
+ 2942              	.LASF42:
+ 2943 0651 63707573 		.ascii	"cpussIpc0Irq\000"
+ 2943      73497063 
+ 2943      30497271 
+ 2943      00
+ 2944              	.LASF127:
+ 2945 065e 6D757853 		.ascii	"muxSwitchSqCtrl\000"
+ 2945      77697463 
+ 2945      68537143 
+ 2945      74726C00 
+ 2946              	.LASF131:
+ 2947 066e 63795F63 		.ascii	"cy_cb_scb_uart_handle_events_t\000"
+ 2947      625F7363 
+ 2947      625F7561 
+ 2947      72745F68 
+ 2947      616E646C 
+ 2948              	.LASF120:
+ 2949 068d 72616E67 		.ascii	"rangeCond\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 61
 
 
- 2952 0665 63707573 		.ascii	"cpussRam0Ctl0\000"
- 2952      7352616D 
- 2952      3043746C 
- 2952      3000
- 2953              	.LASF10:
- 2954 0673 6C6F6E67 		.ascii	"long long int\000"
- 2954      206C6F6E 
- 2954      6720696E 
- 2954      7400
- 2955              	.LASF27:
- 2956 0681 69706342 		.ascii	"ipcBase\000"
- 2956      61736500 
- 2957              	.LASF68:
- 2958 0689 64774368 		.ascii	"dwChCtlPrioPos\000"
- 2958      43746C50 
- 2958      72696F50 
- 2958      6F7300
- 2959              	.LASF28:
- 2960 0698 63727970 		.ascii	"cryptoBase\000"
- 2960      746F4261 
- 2960      736500
- 2961              	.LASF189:
- 2962 06a3 5F626173 		.ascii	"_base\000"
- 2962      6500
- 2963              	.LASF222:
- 2964 06a9 5F667265 		.ascii	"_freelist\000"
- 2964      656C6973 
- 2964      7400
- 2965              	.LASF237:
- 2966 06b3 5F616464 		.ascii	"_add\000"
- 2966      00
- 2967              	.LASF58:
- 2968 06b8 666C6173 		.ascii	"flashWriteDelay\000"
- 2968      68577269 
- 2968      74654465 
- 2968      6C617900 
- 2969              	.LASF268:
- 2970 06c8 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 2970      43313120 
- 2970      352E342E 
- 2970      31203230 
- 2970      31363036 
- 2971 06fb 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m0plus -mthumb -"
- 2971      20726576 
- 2971      6973696F 
- 2971      6E203233 
- 2971      37373135 
- 2972 072e 67202D4F 		.ascii	"g -Og -ffunction-sections -ffat-lto-objects\000"
- 2972      67202D66 
- 2972      66756E63 
- 2972      74696F6E 
- 2972      2D736563 
- 2973              	.LASF254:
- 2974 075a 5F776372 		.ascii	"_wcrtomb_state\000"
- 2974      746F6D62 
- 2974      5F737461 
- 2974      746500
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 62
+ 2949      65436F6E 
+ 2949      6400
+ 2950              	.LASF210:
+ 2951 0697 5F737464 		.ascii	"_stdin\000"
+ 2951      696E00
+ 2952              	.LASF242:
+ 2953 069e 5F67616D 		.ascii	"_gamma_signgam\000"
+ 2953      6D615F73 
+ 2953      69676E67 
+ 2953      616D00
+ 2954              	.LASF100:
+ 2955 06ad 63707573 		.ascii	"cpussRam0Ctl0\000"
+ 2955      7352616D 
+ 2955      3043746C 
+ 2955      3000
+ 2956              	.LASF10:
+ 2957 06bb 6C6F6E67 		.ascii	"long long int\000"
+ 2957      206C6F6E 
+ 2957      6720696E 
+ 2957      7400
+ 2958              	.LASF27:
+ 2959 06c9 69706342 		.ascii	"ipcBase\000"
+ 2959      61736500 
+ 2960              	.LASF68:
+ 2961 06d1 64774368 		.ascii	"dwChCtlPrioPos\000"
+ 2961      43746C50 
+ 2961      72696F50 
+ 2961      6F7300
+ 2962              	.LASF28:
+ 2963 06e0 63727970 		.ascii	"cryptoBase\000"
+ 2963      746F4261 
+ 2963      736500
+ 2964              	.LASF189:
+ 2965 06eb 5F626173 		.ascii	"_base\000"
+ 2965      6500
+ 2966              	.LASF222:
+ 2967 06f1 5F667265 		.ascii	"_freelist\000"
+ 2967      656C6973 
+ 2967      7400
+ 2968              	.LASF237:
+ 2969 06fb 5F616464 		.ascii	"_add\000"
+ 2969      00
+ 2970              	.LASF58:
+ 2971 0700 666C6173 		.ascii	"flashWriteDelay\000"
+ 2971      68577269 
+ 2971      74654465 
+ 2971      6C617900 
+ 2972              	.LASF268:
+ 2973 0710 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 2973      43313120 
+ 2973      352E342E 
+ 2973      31203230 
+ 2973      31363036 
+ 2974 0743 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m0plus -mthumb -"
+ 2974      20726576 
+ 2974      6973696F 
+ 2974      6E203233 
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 62
 
 
- 2975              	.LASF193:
- 2976 0769 5F66696C 		.ascii	"_file\000"
- 2976      6500
- 2977              	.LASF4:
- 2978 076f 5F5F696E 		.ascii	"__int16_t\000"
- 2978      7431365F 
- 2978      7400
- 2979              	.LASF24:
- 2980 0779 6873696F 		.ascii	"hsiomBase\000"
- 2980      6D426173 
- 2980      6500
- 2981              	.LASF74:
- 2982 0783 70657269 		.ascii	"periTrGrOffset\000"
- 2982      54724772 
- 2982      4F666673 
- 2982      657400
- 2983              	.LASF218:
- 2984 0792 5F5F636C 		.ascii	"__cleanup\000"
- 2984      65616E75 
- 2984      7000
- 2985              	.LASF44:
- 2986 079c 63707573 		.ascii	"cpussNotConnectedIrq\000"
- 2986      734E6F74 
- 2986      436F6E6E 
- 2986      65637465 
- 2986      64497271 
- 2987              	.LASF136:
- 2988 07b1 72785269 		.ascii	"rxRingBufHead\000"
- 2988      6E674275 
- 2988      66486561 
- 2988      6400
- 2989              	.LASF40:
- 2990 07bf 63707573 		.ascii	"cpussDwChNr\000"
- 2990      73447743 
- 2990      684E7200 
- 2991              	.LASF270:
- 2992 07cb 433A5C55 		.ascii	"C:\\Users\\dmula\\Documents\\PSoC Creator\\Senior D"
- 2992      73657273 
- 2992      5C646D75 
- 2992      6C615C44 
- 2992      6F63756D 
- 2993 07f9 65736967 		.ascii	"esign\\Testing_Copy_01.cydsn\000"
- 2993      6E5C5465 
- 2993      7374696E 
- 2993      675F436F 
- 2993      70795F30 
+ 2974      37373135 
+ 2975 0776 67202D4F 		.ascii	"g -Og -ffunction-sections -ffat-lto-objects\000"
+ 2975      67202D66 
+ 2975      66756E63 
+ 2975      74696F6E 
+ 2975      2D736563 
+ 2976              	.LASF254:
+ 2977 07a2 5F776372 		.ascii	"_wcrtomb_state\000"
+ 2977      746F6D62 
+ 2977      5F737461 
+ 2977      746500
+ 2978              	.LASF193:
+ 2979 07b1 5F66696C 		.ascii	"_file\000"
+ 2979      6500
+ 2980              	.LASF4:
+ 2981 07b7 5F5F696E 		.ascii	"__int16_t\000"
+ 2981      7431365F 
+ 2981      7400
+ 2982              	.LASF24:
+ 2983 07c1 6873696F 		.ascii	"hsiomBase\000"
+ 2983      6D426173 
+ 2983      6500
+ 2984              	.LASF74:
+ 2985 07cb 70657269 		.ascii	"periTrGrOffset\000"
+ 2985      54724772 
+ 2985      4F666673 
+ 2985      657400
+ 2986              	.LASF218:
+ 2987 07da 5F5F636C 		.ascii	"__cleanup\000"
+ 2987      65616E75 
+ 2987      7000
+ 2988              	.LASF44:
+ 2989 07e4 63707573 		.ascii	"cpussNotConnectedIrq\000"
+ 2989      734E6F74 
+ 2989      436F6E6E 
+ 2989      65637465 
+ 2989      64497271 
+ 2990              	.LASF136:
+ 2991 07f9 72785269 		.ascii	"rxRingBufHead\000"
+ 2991      6E674275 
+ 2991      66486561 
+ 2991      6400
+ 2992              	.LASF40:
+ 2993 0807 63707573 		.ascii	"cpussDwChNr\000"
+ 2993      73447743 
+ 2993      684E7200 
  2994              	.LASF142:
- 2995 0815 74784275 		.ascii	"txBufSize\000"
+ 2995 0813 74784275 		.ascii	"txBufSize\000"
  2995      6653697A 
  2995      6500
  2996              	.LASF179:
- 2997 081f 5F5F746D 		.ascii	"__tm_isdst\000"
+ 2997 081d 5F5F746D 		.ascii	"__tm_isdst\000"
  2997      5F697364 
  2997      737400
  2998              	.LASF200:
- 2999 082a 5F756275 		.ascii	"_ubuf\000"
+ 2999 0828 5F756275 		.ascii	"_ubuf\000"
  2999      6600
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 63
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 63
 
 
  3000              	.LASF91:
- 3001 0830 63707573 		.ascii	"cpussCm4StatusOffset\000"
+ 3001 082e 63707573 		.ascii	"cpussCm4StatusOffset\000"
  3001      73436D34 
  3001      53746174 
  3001      75734F66 
  3001      66736574 
  3002              	.LASF50:
- 3003 0845 70617373 		.ascii	"passSarChannels\000"
+ 3003 0843 70617373 		.ascii	"passSarChannels\000"
  3003      53617243 
  3003      68616E6E 
  3003      656C7300 
  3004              	.LASF102:
- 3005 0855 63707573 		.ascii	"cpussRam2Ctl0\000"
+ 3005 0853 63707573 		.ascii	"cpussRam2Ctl0\000"
  3005      7352616D 
  3005      3243746C 
  3005      3000
  3006              	.LASF256:
- 3007 0863 5F685F65 		.ascii	"_h_errno\000"
+ 3007 0861 5F685F65 		.ascii	"_h_errno\000"
  3007      72726E6F 
  3007      00
  3008              	.LASF141:
- 3009 086c 74784275 		.ascii	"txBuf\000"
+ 3009 086a 74784275 		.ascii	"txBuf\000"
  3009      6600
  3010              	.LASF81:
- 3011 0872 70657269 		.ascii	"periDiv16CtlOffset\000"
+ 3011 0870 70657269 		.ascii	"periDiv16CtlOffset\000"
  3011      44697631 
  3011      3643746C 
  3011      4F666673 
  3011      657400
  3012              	.LASF263:
- 3013 0885 4144435F 		.ascii	"ADC_1_allConfigs\000"
+ 3013 0883 4144435F 		.ascii	"ADC_1_allConfigs\000"
  3013      315F616C 
  3013      6C436F6E 
  3013      66696773 
  3013      00
  3014              	.LASF175:
- 3015 0896 5F5F746D 		.ascii	"__tm_mon\000"
+ 3015 0894 5F5F746D 		.ascii	"__tm_mon\000"
  3015      5F6D6F6E 
  3015      00
  3016              	.LASF126:
- 3017 089f 6D757853 		.ascii	"muxSwitch\000"
+ 3017 089d 6D757853 		.ascii	"muxSwitch\000"
  3017      77697463 
  3017      6800
  3018              	.LASF6:
- 3019 08a9 73686F72 		.ascii	"short unsigned int\000"
+ 3019 08a7 73686F72 		.ascii	"short unsigned int\000"
  3019      7420756E 
  3019      7369676E 
  3019      65642069 
  3019      6E7400
  3020              	.LASF134:
- 3021 08bc 72785269 		.ascii	"rxRingBuf\000"
+ 3021 08ba 72785269 		.ascii	"rxRingBuf\000"
  3021      6E674275 
  3021      6600
  3022              	.LASF18:
- 3023 08c6 6C6F6E67 		.ascii	"long double\000"
+ 3023 08c4 6C6F6E67 		.ascii	"long double\000"
  3023      20646F75 
  3023      626C6500 
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 64
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 64
 
 
  3024              	.LASF15:
- 3025 08d2 75696E74 		.ascii	"uint16_t\000"
+ 3025 08d0 75696E74 		.ascii	"uint16_t\000"
  3025      31365F74 
  3025      00
  3026              	.LASF23:
- 3027 08db 70726F74 		.ascii	"protBase\000"
+ 3027 08d9 70726F74 		.ascii	"protBase\000"
  3027      42617365 
  3027      00
  3028              	.LASF73:
- 3029 08e4 70657269 		.ascii	"periTrCmdGrSelMsk\000"
+ 3029 08e2 70657269 		.ascii	"periTrCmdGrSelMsk\000"
  3029      5472436D 
  3029      64477253 
  3029      656C4D73 
  3029      6B00
  3030              	.LASF226:
- 3031 08f6 5F617465 		.ascii	"_atexit0\000"
+ 3031 08f4 5F617465 		.ascii	"_atexit0\000"
  3031      78697430 
  3031      00
  3032              	.LASF117:
- 3033 08ff 73616D70 		.ascii	"sampleTime01\000"
+ 3033 08fd 73616D70 		.ascii	"sampleTime01\000"
  3033      6C655469 
  3033      6D653031 
  3033      00
  3034              	.LASF265:
- 3035 090c 43795F53 		.ascii	"Cy_SysEnableCM4\000"
+ 3035 090a 43795F53 		.ascii	"Cy_SysEnableCM4\000"
  3035      7973456E 
  3035      61626C65 
  3035      434D3400 
  3036              	.LASF47:
- 3037 091c 73727373 		.ascii	"srssNumHfroot\000"
+ 3037 091a 73727373 		.ascii	"srssNumHfroot\000"
  3037      4E756D48 
  3037      66726F6F 
  3037      7400
  3038              	.LASF31:
- 3039 092a 64775665 		.ascii	"dwVersion\000"
+ 3039 0928 64775665 		.ascii	"dwVersion\000"
  3039      7273696F 
  3039      6E00
  3040              	.LASF63:
- 3041 0934 666C6173 		.ascii	"flashCtlMainWs2Freq\000"
+ 3041 0932 666C6173 		.ascii	"flashCtlMainWs2Freq\000"
  3041      6843746C 
  3041      4D61696E 
  3041      57733246 
  3041      72657100 
  3042              	.LASF72:
- 3043 0948 70657269 		.ascii	"periTrCmdOffset\000"
+ 3043 0946 70657269 		.ascii	"periTrCmdOffset\000"
  3043      5472436D 
  3043      644F6666 
  3043      73657400 
  3044              	.LASF185:
- 3045 0958 5F617465 		.ascii	"_atexit\000"
+ 3045 0956 5F617465 		.ascii	"_atexit\000"
  3045      78697400 
  3046              	.LASF206:
- 3047 0960 5F6D6273 		.ascii	"_mbstate\000"
+ 3047 095e 5F6D6273 		.ascii	"_mbstate\000"
  3047      74617465 
  3047      00
  3048              	.LASF17:
- 3049 0969 73697A65 		.ascii	"sizetype\000"
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 65
+ 3049 0967 73697A65 		.ascii	"sizetype\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 65
 
 
  3049      74797065 
  3049      00
  3050              	.LASF143:
- 3051 0972 74784C65 		.ascii	"txLeftToTransmit\000"
+ 3051 0970 74784C65 		.ascii	"txLeftToTransmit\000"
  3051      6674546F 
  3051      5472616E 
  3051      736D6974 
  3051      00
  3052              	.LASF98:
- 3053 0983 63707573 		.ascii	"cpussCm4NmiCtlOffset\000"
+ 3053 0981 63707573 		.ascii	"cpussCm4NmiCtlOffset\000"
  3053      73436D34 
  3053      4E6D6943 
  3053      746C4F66 
  3053      66736574 
  3054              	.LASF92:
- 3055 0998 63707573 		.ascii	"cpussCm0StatusOffset\000"
+ 3055 0996 63707573 		.ascii	"cpussCm0StatusOffset\000"
  3055      73436D30 
  3055      53746174 
  3055      75734F66 
  3055      66736574 
  3056              	.LASF80:
- 3057 09ad 70657269 		.ascii	"periDiv8CtlOffset\000"
+ 3057 09ab 70657269 		.ascii	"periDiv8CtlOffset\000"
  3057      44697638 
  3057      43746C4F 
  3057      66667365 
  3057      7400
  3058              	.LASF0:
- 3059 09bf 73686F72 		.ascii	"short int\000"
+ 3059 09bd 73686F72 		.ascii	"short int\000"
  3059      7420696E 
  3059      7400
  3060              	.LASF7:
- 3061 09c9 6C6F6E67 		.ascii	"long int\000"
+ 3061 09c7 6C6F6E67 		.ascii	"long int\000"
  3061      20696E74 
  3061      00
  3062              	.LASF29:
- 3063 09d2 63707573 		.ascii	"cpussVersion\000"
+ 3063 09d0 63707573 		.ascii	"cpussVersion\000"
  3063      73566572 
  3063      73696F6E 
  3063      00
  3064              	.LASF33:
- 3065 09df 6770696F 		.ascii	"gpioVersion\000"
+ 3065 09dd 6770696F 		.ascii	"gpioVersion\000"
  3065      56657273 
  3065      696F6E00 
  3066              	.LASF32:
- 3067 09eb 666C6173 		.ascii	"flashcVersion\000"
+ 3067 09e9 666C6173 		.ascii	"flashcVersion\000"
  3067      68635665 
  3067      7273696F 
  3067      6E00
  3068              	.LASF54:
- 3069 09f9 70726F74 		.ascii	"protBusMasterMask\000"
+ 3069 09f7 70726F74 		.ascii	"protBusMasterMask\000"
  3069      4275734D 
  3069      61737465 
  3069      724D6173 
  3069      6B00
  3070              	.LASF229:
- 3071 0a0b 5F5F7366 		.ascii	"__sf\000"
+ 3071 0a09 5F5F7366 		.ascii	"__sf\000"
  3071      00
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 66
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 66
 
 
  3072              	.LASF168:
- 3073 0a10 5F736967 		.ascii	"_sign\000"
+ 3073 0a0e 5F736967 		.ascii	"_sign\000"
  3073      6E00
  3074              	.LASF262:
- 3075 0a16 4144435F 		.ascii	"ADC_1_currentConfig\000"
+ 3075 0a14 4144435F 		.ascii	"ADC_1_currentConfig\000"
  3075      315F6375 
  3075      7272656E 
  3075      74436F6E 
  3075      66696700 
  3076              	.LASF216:
- 3077 0a2a 5F637572 		.ascii	"_current_locale\000"
+ 3077 0a28 5F637572 		.ascii	"_current_locale\000"
  3077      72656E74 
  3077      5F6C6F63 
  3077      616C6500 
  3078              	.LASF204:
- 3079 0a3a 5F646174 		.ascii	"_data\000"
+ 3079 0a38 5F646174 		.ascii	"_data\000"
  3079      6100
  3080              	.LASF158:
- 3081 0a40 5F5F7763 		.ascii	"__wchb\000"
+ 3081 0a3e 5F5F7763 		.ascii	"__wchb\000"
  3081      686200
  3082              	.LASF176:
- 3083 0a47 5F5F746D 		.ascii	"__tm_year\000"
+ 3083 0a45 5F5F746D 		.ascii	"__tm_year\000"
  3083      5F796561 
  3083      7200
  3084              	.LASF203:
- 3085 0a51 5F6F6666 		.ascii	"_offset\000"
+ 3085 0a4f 5F6F6666 		.ascii	"_offset\000"
  3085      73657400 
  3086              	.LASF241:
- 3087 0a59 5F6C6F63 		.ascii	"_localtime_buf\000"
+ 3087 0a57 5F6C6F63 		.ascii	"_localtime_buf\000"
  3087      616C7469 
  3087      6D655F62 
  3087      756600
  3088              	.LASF93:
- 3089 0a68 63707573 		.ascii	"cpussCm4PwrCtlOffset\000"
+ 3089 0a66 63707573 		.ascii	"cpussCm4PwrCtlOffset\000"
  3089      73436D34 
  3089      50777243 
  3089      746C4F66 
  3089      66736574 
  3090              	.LASF3:
- 3091 0a7d 5F5F7569 		.ascii	"__uint8_t\000"
+ 3091 0a7b 5F5F7569 		.ascii	"__uint8_t\000"
  3091      6E74385F 
  3091      7400
  3092              	.LASF225:
- 3093 0a87 5F6E6577 		.ascii	"_new\000"
+ 3093 0a85 5F6E6577 		.ascii	"_new\000"
  3093      00
  3094              	.LASF150:
- 3095 0a8c 6D697363 		.ascii	"miscConfig\000"
+ 3095 0a8a 6D697363 		.ascii	"miscConfig\000"
  3095      436F6E66 
  3095      696700
  3096              	.LASF223:
- 3097 0a97 5F637674 		.ascii	"_cvtlen\000"
+ 3097 0a95 5F637674 		.ascii	"_cvtlen\000"
  3097      6C656E00 
  3098              	.LASF167:
- 3099 0a9f 5F6D6178 		.ascii	"_maxwds\000"
+ 3099 0a9d 5F6D6178 		.ascii	"_maxwds\000"
  3099      77647300 
  3100              	.LASF248:
- 3101 0aa7 5F6C3634 		.ascii	"_l64a_buf\000"
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 67
+ 3101 0aa5 5F6C3634 		.ascii	"_l64a_buf\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 67
 
 
  3101      615F6275 
  3101      6600
  3102              	.LASF84:
- 3103 0ab1 6770696F 		.ascii	"gpioPrtIntrCfgOffset\000"
+ 3103 0aaf 6770696F 		.ascii	"gpioPrtIntrCfgOffset\000"
  3103      50727449 
  3103      6E747243 
  3103      66674F66 
  3103      66736574 
  3104              	.LASF97:
- 3105 0ac6 63707573 		.ascii	"cpussCm0NmiCtlOffset\000"
+ 3105 0ac4 63707573 		.ascii	"cpussCm0NmiCtlOffset\000"
  3105      73436D30 
  3105      4E6D6943 
  3105      746C4F66 
  3105      66736574 
  3106              	.LASF90:
- 3107 0adb 63707573 		.ascii	"cpussCm4ClockCtlOffset\000"
+ 3107 0ad9 63707573 		.ascii	"cpussCm4ClockCtlOffset\000"
  3107      73436D34 
  3107      436C6F63 
  3107      6B43746C 
  3107      4F666673 
  3108              	.LASF163:
- 3109 0af2 5F5F554C 		.ascii	"__ULong\000"
+ 3109 0af0 5F5F554C 		.ascii	"__ULong\000"
  3109      6F6E6700 
  3110              	.LASF95:
- 3111 0afa 63707573 		.ascii	"cpussTrimRomCtlOffset\000"
+ 3111 0af8 63707573 		.ascii	"cpussTrimRomCtlOffset\000"
  3111      73547269 
  3111      6D526F6D 
  3111      43746C4F 
  3111      66667365 
  3112              	.LASF118:
- 3113 0b10 73616D70 		.ascii	"sampleTime23\000"
+ 3113 0b0e 73616D70 		.ascii	"sampleTime23\000"
  3113      6C655469 
  3113      6D653233 
  3113      00
  3114              	.LASF170:
- 3115 0b1d 5F5F746D 		.ascii	"__tm\000"
+ 3115 0b1b 5F5F746D 		.ascii	"__tm\000"
  3115      00
  3116              	.LASF41:
- 3117 0b22 63707573 		.ascii	"cpussFlashPaSize\000"
+ 3117 0b20 63707573 		.ascii	"cpussFlashPaSize\000"
  3117      73466C61 
  3117      73685061 
  3117      53697A65 
  3117      00
  3118              	.LASF205:
- 3119 0b33 5F6C6F63 		.ascii	"_lock\000"
+ 3119 0b31 5F6C6F63 		.ascii	"_lock\000"
  3119      6B00
  3120              	.LASF34:
- 3121 0b39 6873696F 		.ascii	"hsiomVersion\000"
+ 3121 0b37 6873696F 		.ascii	"hsiomVersion\000"
  3121      6D566572 
  3121      73696F6E 
  3121      00
  3122              	.LASF9:
- 3123 0b46 6C6F6E67 		.ascii	"long unsigned int\000"
+ 3123 0b44 6C6F6E67 		.ascii	"long unsigned int\000"
  3123      20756E73 
  3123      69676E65 
  3123      6420696E 
  3123      7400
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 68
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 68
 
 
  3124              	.LASF99:
- 3125 0b58 63707573 		.ascii	"cpussRomCtl\000"
+ 3125 0b56 63707573 		.ascii	"cpussRomCtl\000"
  3125      73526F6D 
  3125      43746C00 
  3126              	.LASF232:
- 3127 0b64 5F6E696F 		.ascii	"_niobs\000"
+ 3127 0b62 5F6E696F 		.ascii	"_niobs\000"
  3127      627300
  3128              	.LASF215:
- 3129 0b6b 5F637572 		.ascii	"_current_category\000"
+ 3129 0b69 5F637572 		.ascii	"_current_category\000"
  3129      72656E74 
  3129      5F636174 
  3129      65676F72 
  3129      7900
  3130              	.LASF105:
- 3131 0b7d 63795F73 		.ascii	"cy_stc_device_t\000"
+ 3131 0b7b 63795F73 		.ascii	"cy_stc_device_t\000"
  3131      74635F64 
  3131      65766963 
  3131      655F7400 
  3132              	.LASF172:
- 3133 0b8d 5F5F746D 		.ascii	"__tm_min\000"
+ 3133 0b8b 5F5F746D 		.ascii	"__tm_min\000"
  3133      5F6D696E 
  3133      00
  3134              	.LASF182:
- 3135 0b96 5F64736F 		.ascii	"_dso_handle\000"
+ 3135 0b94 5F64736F 		.ascii	"_dso_handle\000"
  3135      5F68616E 
  3135      646C6500 
  3136              	.LASF116:
- 3137 0ba2 73616D70 		.ascii	"sampleCtrl\000"
+ 3137 0ba0 73616D70 		.ascii	"sampleCtrl\000"
  3137      6C654374 
  3137      726C00
  3138              	.LASF224:
- 3139 0bad 5F637674 		.ascii	"_cvtbuf\000"
+ 3139 0bab 5F637674 		.ascii	"_cvtbuf\000"
  3139      62756600 
  3140              	.LASF1:
- 3141 0bb5 756E7369 		.ascii	"unsigned char\000"
+ 3141 0bb3 756E7369 		.ascii	"unsigned char\000"
  3141      676E6564 
  3141      20636861 
  3141      7200
  3142              	.LASF8:
- 3143 0bc3 5F5F7569 		.ascii	"__uint32_t\000"
+ 3143 0bc1 5F5F7569 		.ascii	"__uint32_t\000"
  3143      6E743332 
  3143      5F7400
  3144              	.LASF104:
- 3145 0bce 6970634C 		.ascii	"ipcLockStatusOffset\000"
+ 3145 0bcc 6970634C 		.ascii	"ipcLockStatusOffset\000"
  3145      6F636B53 
  3145      74617475 
  3145      734F6666 
  3145      73657400 
  3146              	.LASF250:
- 3147 0be2 5F676574 		.ascii	"_getdate_err\000"
+ 3147 0be0 5F676574 		.ascii	"_getdate_err\000"
  3147      64617465 
  3147      5F657272 
  3147      00
  3148              	.LASF178:
- 3149 0bef 5F5F746D 		.ascii	"__tm_yday\000"
+ 3149 0bed 5F5F746D 		.ascii	"__tm_yday\000"
  3149      5F796461 
  3149      7900
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 69
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 69
 
 
  3150              	.LASF60:
- 3151 0bf9 666C6173 		.ascii	"flashEraseDelay\000"
+ 3151 0bf7 666C6173 		.ascii	"flashEraseDelay\000"
  3151      68457261 
  3151      73654465 
  3151      6C617900 
  3152              	.LASF259:
- 3153 0c09 5F756E75 		.ascii	"_unused\000"
+ 3153 0c07 5F756E75 		.ascii	"_unused\000"
  3153      73656400 
  3154              	.LASF151:
- 3155 0c11 636C6B44 		.ascii	"clkDivider\000"
+ 3155 0c0f 636C6B44 		.ascii	"clkDivider\000"
  3155      69766964 
  3155      657200
  3156              	.LASF188:
- 3157 0c1c 5F5F7362 		.ascii	"__sbuf\000"
+ 3157 0c1a 5F5F7362 		.ascii	"__sbuf\000"
  3157      756600
  3158              	.LASF231:
- 3159 0c23 5F676C75 		.ascii	"_glue\000"
+ 3159 0c21 5F676C75 		.ascii	"_glue\000"
  3159      6500
  3160              	.LASF228:
- 3161 0c29 5F5F7367 		.ascii	"__sglue\000"
+ 3161 0c27 5F5F7367 		.ascii	"__sglue\000"
  3161      6C756500 
  3162              	.LASF56:
- 3163 0c31 666C6173 		.ascii	"flashRwwRequired\000"
+ 3163 0c2f 666C6173 		.ascii	"flashRwwRequired\000"
  3163      68527777 
  3163      52657175 
  3163      69726564 
  3163      00
  3164              	.LASF239:
- 3165 0c42 5F737472 		.ascii	"_strtok_last\000"
+ 3165 0c40 5F737472 		.ascii	"_strtok_last\000"
  3165      746F6B5F 
  3165      6C617374 
  3165      00
  3166              	.LASF246:
- 3167 0c4f 5F6D6274 		.ascii	"_mbtowc_state\000"
+ 3167 0c4d 5F6D6274 		.ascii	"_mbtowc_state\000"
  3167      6F77635F 
  3167      73746174 
  3167      6500
  3168              	.LASF85:
- 3169 0c5d 6770696F 		.ascii	"gpioPrtCfgOffset\000"
+ 3169 0c5b 6770696F 		.ascii	"gpioPrtCfgOffset\000"
  3169      50727443 
  3169      66674F66 
  3169      66736574 
  3169      00
  3170              	.LASF51:
- 3171 0c6e 65704D6F 		.ascii	"epMonitorNr\000"
+ 3171 0c6c 65704D6F 		.ascii	"epMonitorNr\000"
  3171      6E69746F 
  3171      724E7200 
  3172              	.LASF261:
- 3173 0c7a 55415254 		.ascii	"UART_context\000"
+ 3173 0c78 55415254 		.ascii	"UART_context\000"
  3173      5F636F6E 
  3173      74657874 
  3173      00
  3174              	.LASF181:
- 3175 0c87 5F666E61 		.ascii	"_fnargs\000"
+ 3175 0c85 5F666E61 		.ascii	"_fnargs\000"
  3175      72677300 
  3176              	.LASF2:
- 3177 0c8f 7369676E 		.ascii	"signed char\000"
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 70
+ 3177 0c8d 7369676E 		.ascii	"signed char\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 70
 
 
  3177      65642063 
  3177      68617200 
  3178              	.LASF66:
- 3179 0c9b 64774368 		.ascii	"dwChOffset\000"
+ 3179 0c99 64774368 		.ascii	"dwChOffset\000"
  3179      4F666673 
  3179      657400
  3180              	.LASF208:
- 3181 0ca6 5F726565 		.ascii	"_reent\000"
+ 3181 0ca4 5F726565 		.ascii	"_reent\000"
  3181      6E7400
  3182              	.LASF39:
- 3183 0cad 63707573 		.ascii	"cpussIpcIrqNr\000"
+ 3183 0cab 63707573 		.ascii	"cpussIpcIrqNr\000"
  3183      73497063 
  3183      4972714E 
  3183      7200
  3184              	.LASF69:
- 3185 0cbb 64774368 		.ascii	"dwChCtlPreemptablePos\000"
+ 3185 0cb9 64774368 		.ascii	"dwChCtlPreemptablePos\000"
  3185      43746C50 
  3185      7265656D 
  3185      70746162 
  3185      6C65506F 
  3186              	.LASF272:
- 3187 0cd1 6D61696E 		.ascii	"main\000"
+ 3187 0ccf 6D61696E 		.ascii	"main\000"
  3187      00
  3188              	.LASF122:
- 3189 0cd6 6368616E 		.ascii	"chanConfig\000"
+ 3189 0cd4 6368616E 		.ascii	"chanConfig\000"
  3189      436F6E66 
  3189      696700
  3190              	.LASF124:
- 3191 0ce1 73617449 		.ascii	"satIntrMask\000"
+ 3191 0cdf 73617449 		.ascii	"satIntrMask\000"
  3191      6E74724D 
  3191      61736B00 
  3192              	.LASF271:
- 3193 0ced 5F5F656E 		.ascii	"__enable_irq\000"
+ 3193 0ceb 5F5F656E 		.ascii	"__enable_irq\000"
  3193      61626C65 
  3193      5F697271 
  3193      00
  3194              	.LASF183:
- 3195 0cfa 5F666E74 		.ascii	"_fntypes\000"
+ 3195 0cf8 5F666E74 		.ascii	"_fntypes\000"
  3195      79706573 
  3195      00
  3196              	.LASF36:
- 3197 0d03 70657269 		.ascii	"periVersion\000"
+ 3197 0d01 70657269 		.ascii	"periVersion\000"
  3197      56657273 
  3197      696F6E00 
  3198              	.LASF190:
- 3199 0d0f 5F73697A 		.ascii	"_size\000"
+ 3199 0d0d 5F73697A 		.ascii	"_size\000"
  3199      6500
  3200              	.LASF128:
- 3201 0d15 636F6E66 		.ascii	"configRouting\000"
+ 3201 0d13 636F6E66 		.ascii	"configRouting\000"
  3201      6967526F 
  3201      7574696E 
  3201      6700
  3202              	.LASF26:
- 3203 0d23 70617373 		.ascii	"passBase\000"
+ 3203 0d21 70617373 		.ascii	"passBase\000"
  3203      42617365 
  3203      00
  3204              	.LASF45:
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 71
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 71
 
 
- 3205 0d2c 73727373 		.ascii	"srssNumClkpath\000"
+ 3205 0d2a 73727373 		.ascii	"srssNumClkpath\000"
  3205      4E756D43 
  3205      6C6B7061 
  3205      746800
  3206              	.LASF201:
- 3207 0d3b 5F6E6275 		.ascii	"_nbuf\000"
+ 3207 0d39 5F6E6275 		.ascii	"_nbuf\000"
  3207      6600
  3208              	.LASF238:
- 3209 0d41 5F756E75 		.ascii	"_unused_rand\000"
+ 3209 0d3f 5F756E75 		.ascii	"_unused_rand\000"
  3209      7365645F 
  3209      72616E64 
  3209      00
  3210              	.LASF65:
- 3211 0d4e 666C6173 		.ascii	"flashCtlMainWs4Freq\000"
+ 3211 0d4c 666C6173 		.ascii	"flashCtlMainWs4Freq\000"
  3211      6843746C 
  3211      4D61696E 
  3211      57733446 
  3211      72657100 
  3212              	.LASF125:
- 3213 0d62 72616E67 		.ascii	"rangeIntrMask\000"
+ 3213 0d60 72616E67 		.ascii	"rangeIntrMask\000"
  3213      65496E74 
  3213      724D6173 
  3213      6B00
  3214              	.LASF114:
- 3215 0d70 63795F65 		.ascii	"cy_en_sar_range_detect_condition_t\000"
+ 3215 0d6e 63795F65 		.ascii	"cy_en_sar_range_detect_condition_t\000"
  3215      6E5F7361 
  3215      725F7261 
  3215      6E67655F 
  3215      64657465 
  3216              	.LASF207:
- 3217 0d93 5F666C61 		.ascii	"_flags2\000"
+ 3217 0d91 5F666C61 		.ascii	"_flags2\000"
  3217      67733200 
  3218              	.LASF184:
- 3219 0d9b 5F69735F 		.ascii	"_is_cxa\000"
+ 3219 0d99 5F69735F 		.ascii	"_is_cxa\000"
  3219      63786100 
  3220              	.LASF138:
- 3221 0da3 72784275 		.ascii	"rxBuf\000"
+ 3221 0da1 72784275 		.ascii	"rxBuf\000"
  3221      6600
  3222              	.LASF235:
- 3223 0da9 5F736565 		.ascii	"_seed\000"
+ 3223 0da7 5F736565 		.ascii	"_seed\000"
  3223      6400
  3224              	.LASF243:
- 3225 0daf 5F72616E 		.ascii	"_rand_next\000"
+ 3225 0dad 5F72616E 		.ascii	"_rand_next\000"
  3225      645F6E65 
  3225      787400
  3226              	.LASF198:
- 3227 0dba 5F736565 		.ascii	"_seek\000"
+ 3227 0db8 5F736565 		.ascii	"_seek\000"
  3227      6B00
  3228              	.LASF35:
- 3229 0dc0 69706356 		.ascii	"ipcVersion\000"
+ 3229 0dbe 69706356 		.ascii	"ipcVersion\000"
  3229      65727369 
  3229      6F6E00
  3230              	.LASF212:
- 3231 0dcb 5F737464 		.ascii	"_stderr\000"
+ 3231 0dc9 5F737464 		.ascii	"_stderr\000"
  3231      65727200 
  3232              	.LASF258:
- 3233 0dd3 5F6E6D61 		.ascii	"_nmalloc\000"
-ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccBax3YM.s 			page 72
+ 3233 0dd1 5F6E6D61 		.ascii	"_nmalloc\000"
+ARM GAS  C:\Users\dmula\AppData\Local\Temp\ccEZfKtd.s 			page 72
 
 
  3233      6C6C6F63 
  3233      00
  3234              	.LASF233:
- 3235 0ddc 5F696F62 		.ascii	"_iobs\000"
+ 3235 0dda 5F696F62 		.ascii	"_iobs\000"
  3235      7300
  3236              	.LASF139:
- 3237 0de2 72784275 		.ascii	"rxBufSize\000"
+ 3237 0de0 72784275 		.ascii	"rxBufSize\000"
  3237      6653697A 
  3237      6500
  3238              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
