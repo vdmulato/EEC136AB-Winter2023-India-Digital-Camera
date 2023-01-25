@@ -1,0 +1,19 @@
+# Multiplexer
+# 2023-01-25 00:39:50Z
+
+dont_use_location SMIF -1 -1 0
+dont_use_location p4usbcell -1 -1 0
+dont_use_location USB -1 -1 0
+dont_use_location usbcell -1 -1 0
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "Mux_en(0)" iocell 9 4
+set_io "S0(0)" iocell 9 0
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0
+set_io "S1(0)" iocell 9 1
+set_io "Green(0)" iocell 7 1
+set_io "Button(0)" iocell 0 4
+set_io "S3(0)" iocell 9 3
+set_io "S2(0)" iocell 9 2
