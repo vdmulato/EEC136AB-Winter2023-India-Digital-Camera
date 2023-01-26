@@ -429,6 +429,9 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
+<name v="..\Multiplexer.cydsn\TopDesign\TopDesign.cysch" />
+<name v="..\Multiplexer.cydsn\Multiplexer.cydwr" />
+<name v="..\Multiplexer.cydsn\main_cm4.c" />
 <name v=".\main_cm4.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
@@ -437,7 +440,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 544" SelectedTabbedMdiWindow="cc25640e-926a-4fce-aaba-bf001c3bd623"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\VoltageReading.cydsn\main_cm4.c" Guid="cc25640e-926a-4fce-aaba-bf001c3bd623" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 544" SelectedTabbedMdiWindow="9dd10716-ceea-4198-b18d-fda9a4aa108e"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\TopDesign\TopDesign.cysch" Guid="73186a5d-93cb-44ef-a8af-645c1c8c896b" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\Multiplexer.cydwr" Guid="5787e39b-95ea-4409-a507-04a7dd235b12" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\main_cm4.c" Guid="9dd10716-ceea-4198-b18d-fda9a4aa108e" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\VoltageReading.cydsn\main_cm4.c" Guid="13836ed6-58ad-41ea-a323-78ded5e58b21" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
