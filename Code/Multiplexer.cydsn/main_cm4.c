@@ -137,7 +137,7 @@ int main(void)
             states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM),
             states[2] = Cy_GPIO_ReadOut(S2_PORT,S2_NUM),
             states[3] = Cy_GPIO_ReadOut(S3_PORT,S3_NUM); 
-            printf("Channel #%d, Binary = %d%d%d%d \n\r",numberin,states[3],states[2],states[1],states[0]);
+            printf("Channel #%d, Binary = %d%d%d%d \n\r",a,states[3],states[2],states[1],states[0]);
             CyDelay(200);           
           // } 
         }
