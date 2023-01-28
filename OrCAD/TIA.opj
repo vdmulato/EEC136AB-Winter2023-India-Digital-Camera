@@ -40,8 +40,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 26 1356 26 347")
-        (Scroll "-229 0")
-        (Zoom "100")
+        (Scroll "475 -2")
+        (Zoom "204")
         (Occurrence "/"))
       (Path "C:\USERS\DMULA\DOCUMENTS\GITHUB\DIGITALCAMERA\ORCAD\TIA.DSN")
       (Schematic "SCHEMATIC1")

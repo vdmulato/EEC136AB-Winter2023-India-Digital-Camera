@@ -1,4 +1,4 @@
---------------- Build Started: 01/27/2023 09:02:45 Project: Multiplexer, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+--------------- Build Started: 01/27/2023 23:33:59 Project: Multiplexer, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
 The code generation step is up to date.
 The compile step is up to date, no work needs to be done.
 The link step is up to date, no work needs to be done.
@@ -17,4 +17,4 @@ Application checksum calculated and stored in ELF section .cychecksum
 Checksum calculated and stored in ELF section .cymeta
 "C:\Program Files (x86)\Cypress\PDL\3.1.5\tools\win\elf\cymcuelftool.exe" -A C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\CortexM4\ARM_GCC_541\Debug\Multiplexer.elf
 code:39428	sram:2376
---------------- Build Succeeded: 01/27/2023 09:02:48 ---------------
+--------------- Build Succeeded: 01/27/2023 23:34:00 ---------------
