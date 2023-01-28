@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=  NewDesignator=R13
+Added Pin To Net: NetName=VDD Pin=LED1-4
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Pin To Net: NetName=VDD Pin=R12-2
+Added Pin To Net: NetName=VDD Pin=R13-2
+Added Room: Name=BB3_Schematic

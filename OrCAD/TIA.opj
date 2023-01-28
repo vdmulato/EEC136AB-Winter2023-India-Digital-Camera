@@ -1,20 +1,35 @@
-(ExpressProject "Design3"
+(ExpressProject "TIA"
   (ProjectVersion "19981106")
-  (ProjectType "PCB")
+  (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\design3.dsn"
+    (File ".\tia.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x"))
   (Folder "Outputs")
-  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
   (PartMRUSelector)
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"))
+      (Path "Design Resources"
+         "C:\Users\dmula\Documents\GitHub\DigitalCamera\OrCAD\tia.dsn")
+      (Path "Design Resources"
+         "C:\Users\dmula\Documents\GitHub\DigitalCamera\OrCAD\tia.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "C:\Users\dmula\Documents\GitHub\DigitalCamera\OrCAD\tia.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -24,11 +39,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1140 104 425")
-        (Scroll "-9 70")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1356 26 347")
+        (Scroll "-229 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\USERS\DMULA\DOCUMENTS\EEC 110\LAB3\DESIGN3.DSN")
+      (Path "C:\USERS\DMULA\DOCUMENTS\GITHUB\DIGITALCAMERA\ORCAD\TIA.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (MPSSessionName "dmula"))

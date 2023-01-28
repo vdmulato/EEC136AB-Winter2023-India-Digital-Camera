@@ -1,0 +1,142 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Component: Designator=C3(Capacitor)
+Added Component: Designator=CON1(10 Pin Header)
+Added Component: Designator=LED1(TRI-LED)
+Added Component: Designator=P2(CONNECTOR-HEADER-PINS)
+Added Component: Designator=P?(5pin Progamming Header)
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Component: Designator=R3(Resistor)
+Added Component: Designator=R4(Resistor)
+Added Component: Designator=R5(Resistor)
+Added Component: Designator=R6(Resistor)
+Added Component: Designator=R7(Resistor)
+Added Component: Designator=R8(Resistor)
+Added Component: Designator=R9(Resistor)
+Added Component: Designator=R10(Resistor)
+Added Component: Designator=R11(Resistor)
+Added Component: Designator=R12(Resistor)
+Added Component: Designator=R13(Resistor)
+Added Component: Designator=R14(Resistor)
+Added Component: Designator=R15(Resistor)
+Added Component: Designator=SW1(Button)
+Added Component: Designator=U?(PSoC 6)
+Added Component: Designator=Y1(ECX-31B)
+Added Pin To Net: NetName=VDD Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=P0.1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=P0.0 Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=CON1-P1
+Added Pin To Net: NetName=GND Pin=CON1-P2
+Added Pin To Net: NetName=I2C_SDA Pin=CON1-P3
+Added Pin To Net: NetName=I2C_SCL Pin=CON1-P4
+Added Pin To Net: NetName=UART_RX Pin=CON1-P5
+Added Pin To Net: NetName=UART_TX Pin=CON1-P6
+Added Pin To Net: NetName=ADC Pin=CON1-P7
+Added Pin To Net: NetName=GPIO1 Pin=CON1-P8
+Added Pin To Net: NetName=GPIO2 Pin=CON1-P9
+Added Pin To Net: NetName=GPIO3 Pin=CON1-P10
+Added Pin To Net: NetName=VTARG Pin=LED1-4
+Added Pin To Net: NetName=VREF Pin=P2-P1
+Added Pin To Net: NetName=ADC2 Pin=P2-P2
+Added Pin To Net: NetName=GPIO4 Pin=P2-P3
+Added Pin To Net: NetName=GPIO5 Pin=P2-P4
+Added Pin To Net: NetName=GPIO6 Pin=P2-P5
+Added Pin To Net: NetName=VTARG Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=RESET Pin=P?-3
+Added Pin To Net: NetName=SWDCLK Pin=P?-4
+Added Pin To Net: NetName=SWDIO Pin=P?-5
+Added Pin To Net: NetName=P7.1 Pin=R1-2
+Added Pin To Net: NetName=P6.3 Pin=R2-2
+Added Pin To Net: NetName=VBACKUP Pin=R3-1
+Added Pin To Net: NetName=P0.4 Pin=R3-2
+Added Pin To Net: NetName=VBACKUP Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=P0.4 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetR4_2 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=XRES Pin=R7-1
+Added Pin To Net: NetName=RESET Pin=R7-2
+Added Pin To Net: NetName=P6.7 Pin=R8-1
+Added Pin To Net: NetName=SWDCLK Pin=R8-2
+Added Pin To Net: NetName=P6.6 Pin=R9-1
+Added Pin To Net: NetName=SWDIO Pin=R9-2
+Added Pin To Net: NetName=P5.1 Pin=R10-1
+Added Pin To Net: NetName=UART_RX Pin=R10-2
+Added Pin To Net: NetName=P5.0 Pin=R11-1
+Added Pin To Net: NetName=UART_TX Pin=R11-2
+Added Pin To Net: NetName=I2C_SDA Pin=R12-1
+Added Pin To Net: NetName=VTARG Pin=R12-2
+Added Pin To Net: NetName=I2C_SCL Pin=R13-1
+Added Pin To Net: NetName=VTARG Pin=R13-2
+Added Pin To Net: NetName=P6.5 Pin=R14-1
+Added Pin To Net: NetName=I2C_SDA Pin=R14-2
+Added Pin To Net: NetName=P6.4 Pin=R15-1
+Added Pin To Net: NetName=I2C_SCL Pin=R15-2
+Added Pin To Net: NetName=P0.4 Pin=SW1-1
+Added Pin To Net: NetName=NetR4_2 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=P0.0 Pin=U?-P0.0
+Added Pin To Net: NetName=P0.1 Pin=U?-P0.1
+Added Pin To Net: NetName=P0.4 Pin=U?-P0.4
+Added Pin To Net: NetName=P5.0 Pin=U?-P5.0
+Added Pin To Net: NetName=P5.1 Pin=U?-P5.1
+Added Pin To Net: NetName=GPIO6 Pin=U?-P5.3
+Added Pin To Net: NetName=GPIO5 Pin=U?-P5.5
+Added Pin To Net: NetName=P6.3 Pin=U?-P6.3
+Added Pin To Net: NetName=P6.4 Pin=U?-P6.4
+Added Pin To Net: NetName=P6.5 Pin=U?-P6.5
+Added Pin To Net: NetName=P6.6 Pin=U?-P6.6
+Added Pin To Net: NetName=P6.7 Pin=U?-P6.7
+Added Pin To Net: NetName=P7.1 Pin=U?-P7.1
+Added Pin To Net: NetName=ADC Pin=U?-P10.0
+Added Pin To Net: NetName=GPIO1 Pin=U?-P10.1
+Added Pin To Net: NetName=GPIO2 Pin=U?-P10.5
+Added Pin To Net: NetName=GPIO3 Pin=U?-P10.6
+Added Pin To Net: NetName=ADC2 Pin=U?-P12.6
+Added Pin To Net: NetName=GPIO4 Pin=U?-P12.7
+Added Pin To Net: NetName=VBACKUP Pin=U?-Vbackup
+Added Pin To Net: NetName=VDD Pin=U?-VDD
+Added Pin To Net: NetName=VREF Pin=U?-VREF
+Added Pin To Net: NetName=XRES Pin=U?-XRES
+Added Pin To Net: NetName=P0.0 Pin=Y1-1
+Added Pin To Net: NetName=P0.1 Pin=Y1-2
+Added Pin To Net: NetName=Vgreen Pin=LED1-2
+Added Pin To Net: NetName=Vgreen Pin=R1-1
+Added Net: Name=Vgreen
+Added Pin To Net: NetName=Vred Pin=LED1-1
+Added Pin To Net: NetName=Vred Pin=R2-1
+Added Net: Name=Vred
+Added Member To Class: ClassName=BB3_Schematic Member=Component C1 10uF
+Added Member To Class: ClassName=BB3_Schematic Member=Component C2 22 pF
+Added Member To Class: ClassName=BB3_Schematic Member=Component C3 22 pF
+Added Member To Class: ClassName=BB3_Schematic Member=Component CON1 10PIN Header
+Added Member To Class: ClassName=BB3_Schematic Member=Component LED1 Tri-LED
+Added Member To Class: ClassName=BB3_Schematic Member=Component P2 5 pin Header
+Added Member To Class: ClassName=BB3_Schematic Member=Component P? 5-Pin Programming Header
+Added Member To Class: ClassName=BB3_Schematic Member=Component R1 330 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R2 470 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R3 10k
+Added Member To Class: ClassName=BB3_Schematic Member=Component R4 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R5 10k
+Added Member To Class: ClassName=BB3_Schematic Member=Component R6 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R7 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R8 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R9 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R10 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R11 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R12 4.7K
+Added Member To Class: ClassName=BB3_Schematic Member=Component R13 4.7K
+Added Member To Class: ClassName=BB3_Schematic Member=Component R14 0  ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component R15 0 ohm
+Added Member To Class: ClassName=BB3_Schematic Member=Component SW1 Button
+Added Member To Class: ClassName=BB3_Schematic Member=Component U? PSOC 6
+Added Member To Class: ClassName=BB3_Schematic Member=Component Y1 32.768 KHz
+Added Room: Name=BB3_Schematic

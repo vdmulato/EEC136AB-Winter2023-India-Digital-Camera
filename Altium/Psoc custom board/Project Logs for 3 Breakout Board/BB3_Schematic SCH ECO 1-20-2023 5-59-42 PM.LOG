@@ -1,0 +1,2 @@
+Remove Pin=P1-1 From Net=VDD
+Change Component Designator: OldDesignator=R13 NewDesignator= 

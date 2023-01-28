@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VTARG Pin=LED1-4
+Removed Pin From Net: NetName=VTARG Pin=P1-1
+Change Component Designator: OldDesignator=  NewDesignator=R13
+Added Pin To Net: NetName=VDD Pin=LED1-4
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Member To Class: ClassName=BB3_Schematic Member=Component R13 4.7K
+Added Room: Name=BB3_Schematic
