@@ -239,7 +239,7 @@
 #define Negative_THRESHOLD_LEVEL CY_GPIO_VTRIP_CMOS
 
 /* Positive */
-#define Positive_0_DRIVEMODE CY_GPIO_DM_STRONG_IN_OFF
+#define Positive_0_DRIVEMODE CY_GPIO_DM_ANALOG
 #define Positive_0_INBUF_ENABLED 0u
 #define Positive_0_INIT_DRIVESTATE 1u
 #define Positive_0_INIT_MUXSEL 0u
@@ -249,7 +249,7 @@
 #define Positive_0_PORT GPIO_PRT10
 #define Positive_0_SLEWRATE CY_GPIO_SLEW_FAST
 #define Positive_0_THRESHOLD_LEVEL CY_GPIO_VTRIP_CMOS
-#define Positive_DRIVEMODE CY_GPIO_DM_STRONG_IN_OFF
+#define Positive_DRIVEMODE CY_GPIO_DM_ANALOG
 #define Positive_INBUF_ENABLED 0u
 #define Positive_INIT_DRIVESTATE 1u
 #define Positive_INIT_MUXSEL 0u

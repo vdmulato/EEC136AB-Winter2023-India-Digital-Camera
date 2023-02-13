@@ -129,18 +129,24 @@ int main(void)
     int states[4];
     
     for(;;) {
-        for(int a=0;a<=1;a++){
+        //for(int a=0;a<=1;a++){
                //Button is active-low
-        //if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){          
-            channel(a);
+        if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){          
+            channel(numberin);
             states[0] = Cy_GPIO_ReadOut(S0_PORT,S0_NUM);
             states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM),
             states[2] = Cy_GPIO_ReadOut(S2_PORT,S2_NUM),
             states[3] = Cy_GPIO_ReadOut(S3_PORT,S3_NUM); 
-            printf("Channel #%d, Binary = %d%d%d%d \n\r",a,states[3],states[2],states[1],states[0]);
-            CyDelay(10000);           
-          // } 
-        }
+            printf("Channel #%d, Binary = %d%d%d%d \n\r",numberin,states[3],states[2],states[1],states[0]);
+            CyDelay(500);           
+            if(numberin>=5){
+                numberin = 0; 
+            }else{
+                numberin = numberin + 1; 
+            }
+            
+           } 
+       // }
      
 
  }

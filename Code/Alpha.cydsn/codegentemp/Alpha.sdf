@@ -1,6 +1,6 @@
 (DELAYFILE
  (SDFVERSION "IEEE 1497 4.0")
- (DATE "2023-02-03T21:26:06Z")
+ (DATE "2023-02-12T20:55:21Z")
  (DESIGN "Alpha")
  (VENDOR "Cypress Semiconductor")
  (PROGRAM "PSoC Creator")
@@ -31,6 +31,7 @@
     (INTERCONNECT Green\(0\).pad_out Green\(0\)_PAD (0.000:0.000:0.000))
     (INTERCONNECT Green\(0\)_PAD Green\(0\).pad_in (0.000:0.000:0.000))
     (INTERCONNECT Button\(0\)_PAD Button\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT Negative\(0\)_PAD Negative\(0\).pad_in (0.000:0.000:0.000))
     (INTERCONNECT Mux_en\(0\)_PAD Mux_en\(0\).pad_in (0.000:0.000:0.000))
     (INTERCONNECT S0\(0\)_PAD S0\(0\).pad_in (0.000:0.000:0.000))
     (INTERCONNECT S1\(0\)_PAD S1\(0\).pad_in (0.000:0.000:0.000))

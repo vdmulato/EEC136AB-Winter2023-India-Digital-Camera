@@ -1,5 +1,5 @@
 -- Project:   C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cyprj
--- Generated: 02/03/2023 13:26:06
+-- Generated: 02/12/2023 12:55:21
 -- PSoC Creator  4.4
 
 ENTITY Alpha IS
@@ -8,6 +8,7 @@ ENTITY Alpha IS
         \UART:rx(0)_PAD\ : IN std_ulogic;
         Green(0)_PAD : OUT std_ulogic;
         Button(0)_PAD : IN std_ulogic;
+        Negative(0)_PAD : INOUT std_ulogic;
         Mux_en(0)_PAD : OUT std_ulogic;
         S0(0)_PAD : OUT std_ulogic;
         S1(0)_PAD : OUT std_ulogic;
@@ -843,7 +844,7 @@ BEGIN
     Positive:logicalport
         GENERIC MAP(
             cy_registers => "",
-            drive_mode => "110",
+            drive_mode => "000",
             drive_strength => "0",
             hotswap_needed => "0",
             i2c_mode => "0",
@@ -1050,6 +1051,7 @@ BEGIN
         PORT MAP(
             pa_out => Negative(0)__PA,
             oe => open,
+            pad_in => Negative(0)_PAD,
             in_clock => open,
             in_clock_en => open,
             in_reset => open,
@@ -1372,7 +1374,7 @@ BEGIN
     \ADC_1:SAR\:SARADC
         GENERIC MAP(
             cy_registers => "",
-            edge_trigger => 0)
+            edge_trigger => 1)
         PORT MAP(
             dsi_sar_sample_done => Net_80,
             dsi_sar_chan_id_valid => Net_82,

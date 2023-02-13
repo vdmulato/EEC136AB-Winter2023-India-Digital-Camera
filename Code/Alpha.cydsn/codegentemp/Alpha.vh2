@@ -2,7 +2,7 @@
 --	Conversion of Alpha.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Fri Feb 03 13:25:52 2023
+--	Sun Feb 12 12:55:08 2023
 --
 
 USE cypress.cypress.all;
@@ -55,10 +55,10 @@ SIGNAL \ADC_1:Net_428\ : bit;
 TERMINAL \ADC_1:muxoutPlus\ : bit;
 TERMINAL \ADC_1:vinPlus_0\ : bit;
 TERMINAL \ADC_1:muxoutMinus\ : bit;
-TERMINAL \ADC_1:vinMinus_0\ : bit;
-TERMINAL \ADC_1:Net_339_0\ : bit;
-TERMINAL \ADC_1:Net_340_0\ : bit;
 TERMINAL \ADC_1:vinNeg_0\ : bit;
+TERMINAL \ADC_1:Net_339_0\ : bit;
+TERMINAL \ADC_1:vinMinus_0\ : bit;
+TERMINAL \ADC_1:Net_340_0\ : bit;
 TERMINAL \ADC_1:Net_21_0\ : bit;
 SIGNAL \ADC_1:Net_40\ : bit;
 SIGNAL \ADC_1:Net_41\ : bit;
@@ -222,7 +222,6 @@ TERMINAL \ADC_1:vinPlus_62\ : bit;
 TERMINAL \ADC_1:Net_210\ : bit;
 TERMINAL \ADC_1:vinPlus_63\ : bit;
 TERMINAL \ADC_1:Net_211\ : bit;
-TERMINAL Net_130 : bit;
 TERMINAL \ADC_1:Net_213\ : bit;
 TERMINAL \ADC_1:vinMinus_1\ : bit;
 TERMINAL \ADC_1:Net_218\ : bit;
@@ -383,6 +382,7 @@ TERMINAL tmpSIOVREF__Green_net_0 : bit;
 SIGNAL tmpIO_0__Button_net_0 : bit;
 TERMINAL tmpSIOVREF__Button_net_0 : bit;
 SIGNAL tmpFB_0__Negative_net_0 : bit;
+TERMINAL Net_130 : bit;
 SIGNAL tmpIO_0__Negative_net_0 : bit;
 TERMINAL tmpSIOVREF__Negative_net_0 : bit;
 SIGNAL tmpFB_0__Mux_en_net_0 : bit;
@@ -515,7 +515,7 @@ Positive:cy_mxs40_gpio_v1_0
 		width=>1,
 		sio_grp_cnt=>0,
 		id=>"66c75f1e-4c1a-4137-bca3-d396f8eab788",
-		drive_mode=>"6",
+		drive_mode=>"0",
 		ibuf_enabled=>"0",
 		init_dr_st=>"1",
 		input_sync=>"0",
@@ -561,7 +561,7 @@ Positive:cy_mxs40_gpio_v1_0
 	GENERIC MAP(sig_width=>1,
 		is_net_join=>'0')
 	PORT MAP(signal1=>\ADC_1:muxoutMinus\,
-		signal2=>\ADC_1:vinMinus_0\);
+		signal2=>\ADC_1:vinNeg_0\);
 \ADC_1:vinPlusConnect:bus_connect\:cy_connect_v1_0
 	GENERIC MAP(sig_width=>1,
 		is_net_join=>'0')
@@ -594,7 +594,7 @@ Positive:cy_mxs40_gpio_v1_0
 		signal2=>Net_91);
 \ADC_1:SAR\:cy_mxs40_sar_v1_0
 	GENERIC MAP(cy_registers=>"",
-		edge_trigger=>'0')
+		edge_trigger=>'1')
 	PORT MAP(vplus=>\ADC_1:muxoutPlus\,
 		vminus=>\ADC_1:muxoutMinus\,
 		vref=>\ADC_1:vref\,
@@ -1062,7 +1062,7 @@ Positive:cy_mxs40_gpio_v1_0
 	GENERIC MAP(sig_width=>1,
 		is_net_join=>'0')
 	PORT MAP(signal1=>\ADC_1:vinMinus_0\,
-		signal2=>Net_130);
+		signal2=>\ADC_1:Net_213\);
 \ADC_1:cy_analog_noconnect_1\:cy_analog_noconnect_v1_0
 	PORT MAP(noconnect=>\ADC_1:Net_213\);
 \ADC_1:vinMinusMux_1_connect\:cy_connect_v1_0

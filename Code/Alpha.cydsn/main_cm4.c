@@ -130,19 +130,10 @@ int main(void)
    int a =0;
     for(;;) 
     {       
-        //FILE *fp;
-        //fp = fopen("readings.txt", "w");
-        //if (fp == NULL) {
-        //printf("Could not open file");
-       
-    //}else {
-    //    printf("file created succesfully");
-    //}
         ADC_1_StartConvert();
          ADC_1_IsEndConversion(1);      
         if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){            
-           for(a=0;a<4;a++){  
-            
+          // for(a=0;a<6;a++){  
             channel(a);
             states[0] = Cy_GPIO_ReadOut(S0_PORT,S0_NUM);
             states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM),
@@ -156,15 +147,16 @@ int main(void)
             printf("volts = %fv \n\r",voltagereading); 
             printf(" \n\r");
             CyDelay(50);
-         }
-        
-            //  if(a<3){
-             //   a=a+1;
-           // }else{
-           //     a=0;
-           // }
+            
+            if(a>6){
+                a = 0;
+            }else{
+                a = a + 1;
+            }
+         //}
+                
     CyDelay(100);
-           // }
+     
         } 
         
         

@@ -284,7 +284,7 @@ static void AnalogSetDefault(void);
 static void AnalogSetDefault(void)
 {
 	CY_SET_REG32(CYREG_SAR_CTRL, 0x80000000u);
-	CY_SET_REG32(CYREG_SAR_MUX_SWITCH0, 0x00000201u);
+	CY_SET_REG32(CYREG_SAR_MUX_SWITCH0, 0x00000001u);
 	CY_SET_REG32(CYREG_PASS_AREF_AREF_CTRL, 0x80110001u);
 }
 
@@ -312,13 +312,6 @@ void Cy_SystemInit(void)
 {
 	/* Set worst case memory wait states (150 MHz), ClockInit() will update */
 	Cy_SysLib_SetWaitStates(false, 150);
-
-	if(0u == Cy_SysLib_GetResetReason()) /* POR, XRES, or BOD */
-	{
-		Cy_SysLib_ResetBackupDomain();
-		Cy_SysClk_IloDisable();
-		Cy_SysClk_IloEnable();
-	}
 
 	/* Power Mode */
 	Cy_SysPm_LdoSetVoltage(CY_SYSPM_LDO_VOLTAGE_1_1V);
@@ -727,7 +720,7 @@ void Cy_SystemInit(void)
 	        .out        = 0x00000003u,
 	        .intrMask   = 0x00000000u,
 	        .intrCfg    = 0x00000000u,
-	        .cfg        = 0x00000006u,
+	        .cfg        = 0x00000000u,
 	        .cfgIn      = 0x00000000u,
 	        .cfgOut     = 0x00000000u,
 	        .cfgSIO     = 0x00000000u,
