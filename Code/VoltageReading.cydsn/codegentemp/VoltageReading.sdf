@@ -1,6 +1,6 @@
 (DELAYFILE
  (SDFVERSION "IEEE 1497 4.0")
- (DATE "2023-01-23T06:49:10Z")
+ (DATE "2023-02-15T00:51:37Z")
  (DESIGN "VoltageReading")
  (VENDOR "Cypress Semiconductor")
  (PROGRAM "PSoC Creator")
@@ -33,6 +33,7 @@
     (INTERCONNECT Green\(0\).pad_out Green\(0\)_PAD (0.000:0.000:0.000))
     (INTERCONNECT Green\(0\)_PAD Green\(0\).pad_in (0.000:0.000:0.000))
     (INTERCONNECT Button\(0\)_PAD Button\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT Negative\(0\)_PAD Negative\(0\).pad_in (0.000:0.000:0.000))
    )
   )
  )

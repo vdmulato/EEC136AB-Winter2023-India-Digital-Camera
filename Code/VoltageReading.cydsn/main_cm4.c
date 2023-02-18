@@ -31,7 +31,7 @@ int main(void)
               printf("ADC VALUE = %f\r\n",actualValue);         
                     voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
                         printf("volts = %fv \n\r",voltagereading);
-    CyDelay(5000);
+    CyDelay(100);
  }
 }
 /* [] END OF FILE */

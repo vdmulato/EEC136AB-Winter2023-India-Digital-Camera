@@ -1,5 +1,5 @@
 -- Project:   VoltageReading
--- Generated: 01/22/2023 22:49:01
+-- Generated: 02/14/2023 16:51:28
 -- PSoC Creator  4.4
 
 ENTITY VoltageReading IS
@@ -9,7 +9,8 @@ ENTITY VoltageReading IS
         \UART:tx(0)_PAD\ : OUT std_ulogic;
         \UART:rx(0)_PAD\ : IN std_ulogic;
         Green(0)_PAD : OUT std_ulogic;
-        Button(0)_PAD : IN std_ulogic);
+        Button(0)_PAD : IN std_ulogic;
+        Negative(0)_PAD : INOUT std_ulogic);
     ATTRIBUTE voltage_VBACKUP OF __DEFAULT__ : ENTITY IS 3.3e0;
     ATTRIBUTE voltage_VDDA_CSD OF __DEFAULT__ : ENTITY IS 3.3e0;
     ATTRIBUTE voltage_VDDIO_A OF __DEFAULT__ : ENTITY IS 3.3e0;
@@ -1066,6 +1067,7 @@ BEGIN
         PORT MAP(
             pa_out => Negative(0)__PA,
             oe => open,
+            pad_in => Negative(0)_PAD,
             in_clock => open,
             in_clock_en => open,
             in_reset => open,

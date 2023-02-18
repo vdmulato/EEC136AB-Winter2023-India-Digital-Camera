@@ -128,36 +128,49 @@ int main(void)
      float voltagereading,actualValue; 
     int states[4];
    int a =0;
+     
     for(;;) 
     {       
         ADC_1_StartConvert();
          ADC_1_IsEndConversion(1);      
-        if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){            
-          // for(a=0;a<6;a++){  
+        if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){             
+              
+           //for(a=0;a<6;a++){  
+          
             channel(a);
             states[0] = Cy_GPIO_ReadOut(S0_PORT,S0_NUM);
-            states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM),
-            states[2] = Cy_GPIO_ReadOut(S2_PORT,S2_NUM),
+            states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM);
+            states[2] = Cy_GPIO_ReadOut(S2_PORT,S2_NUM);
             states[3] = Cy_GPIO_ReadOut(S3_PORT,S3_NUM); 
-             CyDelay(300);
-            actualValue = ADC_1_GetResult16(0);     
-            printf("Channel #%d, Binary = %d%d%d%d \n\r",a,states[3],states[2],states[1],states[0]);   
-            printf("ADC VALUE = %f\r\n",actualValue);         
+            
+            actualValue = ADC_1_GetResult16(0);
             voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
+            
+            printf("Channel #%d, Binary = %d%d%d%d \n\r",a,states[3],states[2],states[1],states[0]);   
+            printf("ADC VALUE = %f\r\n",actualValue);        
+           
             printf("volts = %fv \n\r",voltagereading); 
             printf(" \n\r");
-            CyDelay(50);
+            CyDelay(100);
             
-            if(a>6){
+             if(a==7){
                 a = 0;
             }else{
-                a = a + 1;
+                 a = a + 1;
             }
-         //}
-                
-    CyDelay(100);
-     
+             
+           
+            
+            channel(a);
+            states[0] = Cy_GPIO_ReadOut(S0_PORT,S0_NUM);
+            states[1] = Cy_GPIO_ReadOut(S1_PORT,S1_NUM);
+            states[2] = Cy_GPIO_ReadOut(S2_PORT,S2_NUM);
+            states[3] = Cy_GPIO_ReadOut(S3_PORT,S3_NUM); 
+           CyDelay(200);
+        // voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
         } 
+        
+        
         
         
  }
