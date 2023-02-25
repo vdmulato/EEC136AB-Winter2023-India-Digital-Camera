@@ -55,4 +55,4 @@ image(convertedArray); colormap gray ; colorbar;    % displays image
 %% delete contents of file
 fclose(file);
 file = fopen('PSOC_Output.log','w'); % opening a file in write mode clears the contents
-fclose(file);
+fclose(file);24

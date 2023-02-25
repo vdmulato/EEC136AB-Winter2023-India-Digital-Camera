@@ -18,9 +18,10 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="VoltageReading\Alpha">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>VoltageReading</v>
+<v>VoltageReading\Alpha</v>
 <v>VoltageReading\Alpha\TopDesign</v>
 <v>VoltageReading\Alpha\Alpha.cydwr</v>
 <v>VoltageReading\Alpha\Alpha.cydwr\Pins</v>
@@ -106,7 +107,6 @@
 <v>VoltageReading\Multiplexer\Shared Files\stdio_user.h</v>
 <v>VoltageReading\Multiplexer\Shared Files\system_psoc6.h</v>
 <v>VoltageReading\Multiplexer\Generated_Source\PSoC6</v>
-<v>VoltageReading\VoltageReading</v>
 <v>VoltageReading\VoltageReading\TopDesign</v>
 <v>VoltageReading\VoltageReading\VoltageReading.cydwr\Pins</v>
 <v>VoltageReading\VoltageReading\VoltageReading.cydwr\Analog</v>
@@ -152,28 +152,29 @@
 <VisibleNodeIds>
 <v>VoltageReading</v>
 <v>VoltageReading\Alpha</v>
-<v>VoltageReading\Multiplexer</v>
-<v>VoltageReading\VoltageReading</v>
-<v>VoltageReading\VoltageReading\TopDesign</v>
-<v>VoltageReading\VoltageReading\VoltageReading.cydwr</v>
-<v>VoltageReading\VoltageReading\CM0p (Core 0)</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\ARM GCC Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\ARM IAR Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\ARM MDK Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Header Files</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\main_cm4.c</v>
-<v>VoltageReading\VoltageReading\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
-<v>VoltageReading\VoltageReading\Shared Files</v>
-<v>VoltageReading\VoltageReading\Generated_Source</v>
+<v>VoltageReading\Alpha\TopDesign</v>
+<v>VoltageReading\Alpha\Alpha.cydwr</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\Pins</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\Analog</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\DMA</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\Clocks</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\Interrupts</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\System</v>
+<v>VoltageReading\Alpha\Alpha.cydwr\Directives</v>
+<v>VoltageReading\Alpha\CM0p (Core 0)</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\ARM GCC Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\ARM IAR Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\ARM MDK Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Header Files</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\main_cm4.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -583,9 +584,6 @@
 <name v="..\Alpha.cydsn\Alpha.cydwr" />
 <name v="..\Alpha.cydsn\TopDesign\TopDesign.cysch" />
 <name v="..\Alpha.cydsn\main_cm4.c" />
-<name v="..\Multiplexer.cydsn\main_cm4.c" />
-<name v=".\main_cm4.c" />
-<name v=".\TopDesign\TopDesign.cysch" />
 <name v="..\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
@@ -594,7 +592,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 504" SelectedTabbedMdiWindow="e35fa839-239c-480a-9ad5-d64b391fed6c"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\main_cm4.c" Guid="8a234a4b-4fae-4134-a90e-238c92b98730" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\VoltageReading.cydsn\main_cm4.c" Guid="89c1abc8-2039-42c2-a14b-830c275c08b1" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\VoltageReading.cydsn\TopDesign\TopDesign.cysch" Guid="6327ab67-54a0-42ae-af20-bb05dddd18a2" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 504" SelectedTabbedMdiWindow="e35fa839-239c-480a-9ad5-d64b391fed6c"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
