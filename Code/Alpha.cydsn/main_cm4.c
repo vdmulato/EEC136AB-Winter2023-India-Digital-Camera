@@ -20,22 +20,22 @@ switch (in)
     case 0:
    Cy_GPIO_Write(R0_PORT,R0_NUM,0);
    Cy_GPIO_Write(R1_PORT,R1_NUM,0);
- Cy_GPIO_Write(R2_PORT,R2_NUM,0);
- Cy_GPIO_Write(R3_PORT,R3_NUM,0);
+   Cy_GPIO_Write(R2_PORT,R2_NUM,0);
+   Cy_GPIO_Write(R3_PORT,R3_NUM,0);
 
     break;
     case 1:
      Cy_GPIO_Write(R0_PORT,R0_NUM,1);
      Cy_GPIO_Write(R1_PORT,R1_NUM,0);
      Cy_GPIO_Write(R2_PORT,R2_NUM,0);
-    Cy_GPIO_Write(R3_PORT,R3_NUM,0);
+     Cy_GPIO_Write(R3_PORT,R3_NUM,0);
     
     break;
      case 2:
      Cy_GPIO_Write(R0_PORT,R0_NUM,0);
      Cy_GPIO_Write(R1_PORT,R1_NUM,1);
      Cy_GPIO_Write(R2_PORT,R2_NUM,0);
-    Cy_GPIO_Write(R3_PORT,R3_NUM,0);
+     Cy_GPIO_Write(R3_PORT,R3_NUM,0);
     
     break;
      case 3:
@@ -97,21 +97,21 @@ switch (in)
      Cy_GPIO_Write(R0_PORT,R0_NUM,1);
      Cy_GPIO_Write(R1_PORT,R1_NUM,1);
      Cy_GPIO_Write(R2_PORT,R2_NUM,0);
-    Cy_GPIO_Write(R3_PORT,R3_NUM,1);
+     Cy_GPIO_Write(R3_PORT,R3_NUM,1);
     
     break;
      case 12:
-    Cy_GPIO_Write(R0_PORT,R0_NUM,0);
+     Cy_GPIO_Write(R0_PORT,R0_NUM,0);
      Cy_GPIO_Write(R1_PORT,R1_NUM,0);
      Cy_GPIO_Write(R2_PORT,R2_NUM,1);
-   Cy_GPIO_Write(R3_PORT,R3_NUM,1);
+     Cy_GPIO_Write(R3_PORT,R3_NUM,1);
 
     break;
      case 13:
      Cy_GPIO_Write(R0_PORT,R0_NUM,1);
      Cy_GPIO_Write(R1_PORT,R1_NUM,0);
      Cy_GPIO_Write(R2_PORT,R2_NUM,1);
-    Cy_GPIO_Write(R3_PORT,R3_NUM,1);
+     Cy_GPIO_Write(R3_PORT,R3_NUM,1);
     
     break;
      case 14:
@@ -135,28 +135,27 @@ void columnselect(int in){
 switch (in)
 {
     case 0:
- Cy_GPIO_Write(C0_PORT,C0_NUM,0);
+   Cy_GPIO_Write(C0_PORT,C0_NUM,0);
    Cy_GPIO_Write(C1_PORT,C1_NUM,0);
- Cy_GPIO_Write(C2_PORT,C2_NUM,0);
- Cy_GPIO_Write(C3_PORT,C3_NUM,0);
+   Cy_GPIO_Write(C2_PORT,C2_NUM,0);
+   Cy_GPIO_Write(C3_PORT,C3_NUM,0);
     break;
     case 1:
     
-    Cy_GPIO_Write(C0_PORT,C0_NUM,1);
+     Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,0);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
-    Cy_GPIO_Write(C3_PORT,C3_NUM,0);
+     Cy_GPIO_Write(C3_PORT,C3_NUM,0);
     break;
      case 2:
    
-    Cy_GPIO_Write(C0_PORT,C0_NUM,0);
+     Cy_GPIO_Write(C0_PORT,C0_NUM,0);
      Cy_GPIO_Write(C1_PORT,C1_NUM,1);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
-    Cy_GPIO_Write(C3_PORT,C3_NUM,0);
+     Cy_GPIO_Write(C3_PORT,C3_NUM,0);
     break;
      case 3:
-   
-    
+  
      Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,1);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
@@ -177,8 +176,7 @@ switch (in)
      Cy_GPIO_Write(C3_PORT,C3_NUM,0);
     break;
      case 6:
-    
-    
+   
      Cy_GPIO_Write(C0_PORT,C0_NUM,0);
      Cy_GPIO_Write(C1_PORT,C1_NUM,1);
      Cy_GPIO_Write(C2_PORT,C2_NUM,1);
@@ -186,23 +184,20 @@ switch (in)
     break;
      case 7:
      
-    
      Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,1);
      Cy_GPIO_Write(C2_PORT,C2_NUM,1);
      Cy_GPIO_Write(C3_PORT,C3_NUM,0);
     break;
      case 8:
-    
-    
+      
      Cy_GPIO_Write(C0_PORT,C0_NUM,0);
      Cy_GPIO_Write(C1_PORT,C1_NUM,0);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
      Cy_GPIO_Write(C3_PORT,C3_NUM,1);
     break;
      case 9:
-    
-    
+      
      Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,0);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
@@ -217,22 +212,22 @@ switch (in)
     break;
      case 11:
     
-    Cy_GPIO_Write(C0_PORT,C0_NUM,1);
+     Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,1);
      Cy_GPIO_Write(C2_PORT,C2_NUM,0);
-    Cy_GPIO_Write(C3_PORT,C3_NUM,1);
+     Cy_GPIO_Write(C3_PORT,C3_NUM,1);
     break;
      case 12:
-  Cy_GPIO_Write(C0_PORT,C0_NUM,0);
+     Cy_GPIO_Write(C0_PORT,C0_NUM,0);
      Cy_GPIO_Write(C1_PORT,C1_NUM,0);
      Cy_GPIO_Write(C2_PORT,C2_NUM,1);
-   Cy_GPIO_Write(C3_PORT,C3_NUM,1);
+     Cy_GPIO_Write(C3_PORT,C3_NUM,1);
     break;
      case 13: 
-    Cy_GPIO_Write(C0_PORT,C0_NUM,1);
+     Cy_GPIO_Write(C0_PORT,C0_NUM,1);
      Cy_GPIO_Write(C1_PORT,C1_NUM,0);
      Cy_GPIO_Write(C2_PORT,C2_NUM,1);
-    Cy_GPIO_Write(C3_PORT,C3_NUM,1);
+     Cy_GPIO_Write(C3_PORT,C3_NUM,1);
     
     break;
      case 14:
@@ -250,6 +245,8 @@ switch (in)
     break;
 }
 }
+
+
 void states(){
   row[0]    = Cy_GPIO_ReadOut(R0_PORT,R0_NUM);
   row[1]    = Cy_GPIO_ReadOut(R1_PORT,R1_NUM);
@@ -260,55 +257,73 @@ void states(){
   column[2] = Cy_GPIO_ReadOut(C2_PORT,R2_NUM);
   column[3] = Cy_GPIO_ReadOut(C3_PORT,R3_NUM); 
    }
+
+
 int main(void)
 {    
-    __enable_irq(); /* Enable global interrupts. */
-    /* Place your initialization/startup code here (e.g. MyInst_Start()) */   
+    __enable_irq(); 
+    // Enable UART and ADC
     UART_Start();
     ADC_1_Init();
     ADC_1_Start();
     ADC_1_StartConvert();
     setvbuf(stdin, NULL,_IONBF,0); 
+    // Variables for ADC values
     float voltagereading,actualValue; 
-    int a =0;
-     
+    int r = 0;
+    int c = 0; 
+    int count = 0;
     for(;;) 
     {       
         ADC_1_StartConvert();
          ADC_1_IsEndConversion(1);      
-        if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){             
-              
-           //for(a=0;a<6;a++){           
-            rowselect(a);
+        // This code is a test for the beta prototype.
+        // When presssing the button we are going to select 1 pixel from the array.
+        // On this first test we only have 4 pixels that is 2 rows and 2 columns.
+        if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){           
+            switch (count){
+                case 0:
+                // selecting pixel 0
+                r = 0;
+                c = 0;
+                break;
+                case 1: 
+                 // selecting pixel 1
+                r = 0;
+                c = 1;
+                break;
+                case 2: 
+                 // selecting pixel 2
+                r = 1;
+                c = 0;
+                break;
+                case 3:
+                 // selecting pixel 3
+                r = 1;
+                c = 1;
+                break;
+            }      
+            rowselect(r);
+            columnselect(c);
             states();
-            
             actualValue = ADC_1_GetResult16(0);
             voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
-            
-            printf("row #%d, Binary = %d%d%d%d \n\r",a,row[3],row[2],row[1],row[0]);   
-            printf("column #%d, Binary = %d%d%d%d \n\r",a,column[3],column[2],column[1],column[0]);
+            printf("row #%d, Binary = %d%d%d%d \n\r",r,row[3],row[2],row[1],row[0]);   
+            printf("column #%d, Binary = %d%d%d%d \n\r",c,column[3],column[2],column[1],column[0]);
             printf("ADC VALUE = %f\r\n",actualValue);             
             printf("volts = %fv \n\r",voltagereading); 
             printf(" \n\r");
             CyDelay(100);
-            
-             if(a==7){
-                a = 0;
+            if(count == 4){
+                count = 0;
             }else{
-                 a = a + 1;
+             count = count +1;
             }
-             
-           
-            
-            rowselect(a);
-            states();
+           // rowselect(r);
+          //  columnselect(c);
+          // states();
            CyDelay(200);
-        // voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
-        } 
-        
-        
-        
-        
+        }        
  }
 }
 /* [] END OF FILE */
