@@ -1,6 +1,6 @@
 // ======================================================================
 // Alpha.v generated from TopDesign.cysch
-// 02/12/2023 at 12:55
+// 02/25/2023 at 01:01
 // This file is auto generated. ANY EDITS YOU MAKE MAY BE LOST WHEN THIS FILE IS REGENERATED!!!
 // ======================================================================
 
@@ -1748,7 +1748,6 @@ module top ;
           wire  Net_12;
           wire  Net_9;
           wire  Net_13;
-    electrical  Net_130;
     electrical  Net_91;
 
     SCB_UART_PDL_v2_0_0 UART (
@@ -1884,82 +1883,9 @@ module top ;
 		  .siovref(tmpSIOVREF__Button_net));
 
 
-	wire [0:0] tmpFB_0__Negative_net;
-	wire [0:0] tmpIO_0__Negative_net;
-	electrical [0:0] tmpSIOVREF__Negative_net;
-
-	cy_mxs40_gpio_v1_0
-		#(.id("91e8ddbf-abfc-4b64-b0d4-f2c4d6bd7b22"),
-		  .width(1),
-		  .sio_grp_cnt(0),
-		  .drive_mode("0"),
-		  .ibuf_enabled("0"),
-		  .init_dr_st("1"),
-		  .input_sync("0"),
-		  .intr_mode("0"),
-		  .io_voltage(""),
-		  .output_conn("0"),
-		  .oe_conn("0"),
-		  .output_sync("0"),
-		  .oe_sync("0"),
-		  .drive_strength("0"),
-		  .max_frequency("100"),
-		  .i2c_mode("0"),
-		  .output_current_cap("8"),
-		  .pin_aliases(""),
-		  .pin_mode("A"),
-		  .slew_rate("0"),
-		  .vtrip("0"),
-		  .use_annotation("0"),
-		  .hotswap_needed("0"))
-		Negative
-		 (.oe({1'b1}),
-		  .y({1'b0}),
-		  .fb({tmpFB_0__Negative_net[0:0]}),
-		  .analog({Net_130}),
-		  .io({tmpIO_0__Negative_net[0:0]}),
-		  .siovref(tmpSIOVREF__Negative_net));
-
-
-	wire [0:0] tmpFB_0__Mux_en_net;
-	wire [0:0] tmpIO_0__Mux_en_net;
-	electrical [0:0] tmpSIOVREF__Mux_en_net;
-
-	cy_mxs40_gpio_v1_0
-		#(.id("51a7ba05-6060-4bbe-bfd9-433457348069"),
-		  .width(1),
-		  .sio_grp_cnt(0),
-		  .drive_mode("6"),
-		  .ibuf_enabled("0"),
-		  .init_dr_st("0"),
-		  .input_sync("0"),
-		  .intr_mode("0"),
-		  .io_voltage(""),
-		  .output_conn("0"),
-		  .oe_conn("0"),
-		  .output_sync("0"),
-		  .oe_sync("0"),
-		  .drive_strength("0"),
-		  .max_frequency("100"),
-		  .i2c_mode("0"),
-		  .output_current_cap("8"),
-		  .pin_aliases(""),
-		  .pin_mode("O"),
-		  .slew_rate("0"),
-		  .vtrip("0"),
-		  .use_annotation("0"),
-		  .hotswap_needed("0"))
-		Mux_en
-		 (.oe({1'b1}),
-		  .y({1'b0}),
-		  .fb({tmpFB_0__Mux_en_net[0:0]}),
-		  .io({tmpIO_0__Mux_en_net[0:0]}),
-		  .siovref(tmpSIOVREF__Mux_en_net));
-
-
-	wire [0:0] tmpFB_0__S0_net;
-	wire [0:0] tmpIO_0__S0_net;
-	electrical [0:0] tmpSIOVREF__S0_net;
+	wire [0:0] tmpFB_0__R0_net;
+	wire [0:0] tmpIO_0__R0_net;
+	electrical [0:0] tmpSIOVREF__R0_net;
 
 	cy_mxs40_gpio_v1_0
 		#(.id("ac282289-e7f0-4689-a186-f8b76a29585d"),
@@ -1985,17 +1911,17 @@ module top ;
 		  .vtrip("0"),
 		  .use_annotation("0"),
 		  .hotswap_needed("0"))
-		S0
+		R0
 		 (.oe({1'b1}),
 		  .y({1'b0}),
-		  .fb({tmpFB_0__S0_net[0:0]}),
-		  .io({tmpIO_0__S0_net[0:0]}),
-		  .siovref(tmpSIOVREF__S0_net));
+		  .fb({tmpFB_0__R0_net[0:0]}),
+		  .io({tmpIO_0__R0_net[0:0]}),
+		  .siovref(tmpSIOVREF__R0_net));
 
 
-	wire [0:0] tmpFB_0__S1_net;
-	wire [0:0] tmpIO_0__S1_net;
-	electrical [0:0] tmpSIOVREF__S1_net;
+	wire [0:0] tmpFB_0__R1_net;
+	wire [0:0] tmpIO_0__R1_net;
+	electrical [0:0] tmpSIOVREF__R1_net;
 
 	cy_mxs40_gpio_v1_0
 		#(.id("67115430-bd1b-43ca-97ec-a6c4c6e160d4"),
@@ -2021,17 +1947,17 @@ module top ;
 		  .vtrip("0"),
 		  .use_annotation("0"),
 		  .hotswap_needed("0"))
-		S1
+		R1
 		 (.oe({1'b1}),
 		  .y({1'b0}),
-		  .fb({tmpFB_0__S1_net[0:0]}),
-		  .io({tmpIO_0__S1_net[0:0]}),
-		  .siovref(tmpSIOVREF__S1_net));
+		  .fb({tmpFB_0__R1_net[0:0]}),
+		  .io({tmpIO_0__R1_net[0:0]}),
+		  .siovref(tmpSIOVREF__R1_net));
 
 
-	wire [0:0] tmpFB_0__S2_net;
-	wire [0:0] tmpIO_0__S2_net;
-	electrical [0:0] tmpSIOVREF__S2_net;
+	wire [0:0] tmpFB_0__R2_net;
+	wire [0:0] tmpIO_0__R2_net;
+	electrical [0:0] tmpSIOVREF__R2_net;
 
 	cy_mxs40_gpio_v1_0
 		#(.id("a38a7691-bcf2-4754-b183-83933acd1a47"),
@@ -2057,17 +1983,17 @@ module top ;
 		  .vtrip("0"),
 		  .use_annotation("0"),
 		  .hotswap_needed("0"))
-		S2
+		R2
 		 (.oe({1'b1}),
 		  .y({1'b0}),
-		  .fb({tmpFB_0__S2_net[0:0]}),
-		  .io({tmpIO_0__S2_net[0:0]}),
-		  .siovref(tmpSIOVREF__S2_net));
+		  .fb({tmpFB_0__R2_net[0:0]}),
+		  .io({tmpIO_0__R2_net[0:0]}),
+		  .siovref(tmpSIOVREF__R2_net));
 
 
-	wire [0:0] tmpFB_0__S3_net;
-	wire [0:0] tmpIO_0__S3_net;
-	electrical [0:0] tmpSIOVREF__S3_net;
+	wire [0:0] tmpFB_0__R3_net;
+	wire [0:0] tmpIO_0__R3_net;
+	electrical [0:0] tmpSIOVREF__R3_net;
 
 	cy_mxs40_gpio_v1_0
 		#(.id("b6b2e883-f8a0-4be7-8530-ba7530433c26"),
@@ -2093,12 +2019,156 @@ module top ;
 		  .vtrip("0"),
 		  .use_annotation("0"),
 		  .hotswap_needed("0"))
-		S3
+		R3
 		 (.oe({1'b1}),
 		  .y({1'b0}),
-		  .fb({tmpFB_0__S3_net[0:0]}),
-		  .io({tmpIO_0__S3_net[0:0]}),
-		  .siovref(tmpSIOVREF__S3_net));
+		  .fb({tmpFB_0__R3_net[0:0]}),
+		  .io({tmpIO_0__R3_net[0:0]}),
+		  .siovref(tmpSIOVREF__R3_net));
+
+
+	wire [0:0] tmpFB_0__C0_net;
+	wire [0:0] tmpIO_0__C0_net;
+	electrical [0:0] tmpSIOVREF__C0_net;
+
+	cy_mxs40_gpio_v1_0
+		#(.id("a61270bc-07ec-447d-ac9e-34cfe85c30e9"),
+		  .width(1),
+		  .sio_grp_cnt(0),
+		  .drive_mode("6"),
+		  .ibuf_enabled("0"),
+		  .init_dr_st("0"),
+		  .input_sync("0"),
+		  .intr_mode("0"),
+		  .io_voltage(""),
+		  .output_conn("0"),
+		  .oe_conn("0"),
+		  .output_sync("0"),
+		  .oe_sync("0"),
+		  .drive_strength("0"),
+		  .max_frequency("100"),
+		  .i2c_mode("0"),
+		  .output_current_cap("8"),
+		  .pin_aliases(""),
+		  .pin_mode("O"),
+		  .slew_rate("0"),
+		  .vtrip("0"),
+		  .use_annotation("0"),
+		  .hotswap_needed("0"))
+		C0
+		 (.oe({1'b1}),
+		  .y({1'b0}),
+		  .fb({tmpFB_0__C0_net[0:0]}),
+		  .io({tmpIO_0__C0_net[0:0]}),
+		  .siovref(tmpSIOVREF__C0_net));
+
+
+	wire [0:0] tmpFB_0__C1_net;
+	wire [0:0] tmpIO_0__C1_net;
+	electrical [0:0] tmpSIOVREF__C1_net;
+
+	cy_mxs40_gpio_v1_0
+		#(.id("3f7e5900-d0c7-40d4-8257-63c6f88c4233"),
+		  .width(1),
+		  .sio_grp_cnt(0),
+		  .drive_mode("6"),
+		  .ibuf_enabled("0"),
+		  .init_dr_st("0"),
+		  .input_sync("0"),
+		  .intr_mode("0"),
+		  .io_voltage(""),
+		  .output_conn("0"),
+		  .oe_conn("0"),
+		  .output_sync("0"),
+		  .oe_sync("0"),
+		  .drive_strength("0"),
+		  .max_frequency("100"),
+		  .i2c_mode("0"),
+		  .output_current_cap("8"),
+		  .pin_aliases(""),
+		  .pin_mode("O"),
+		  .slew_rate("0"),
+		  .vtrip("0"),
+		  .use_annotation("0"),
+		  .hotswap_needed("0"))
+		C1
+		 (.oe({1'b1}),
+		  .y({1'b0}),
+		  .fb({tmpFB_0__C1_net[0:0]}),
+		  .io({tmpIO_0__C1_net[0:0]}),
+		  .siovref(tmpSIOVREF__C1_net));
+
+
+	wire [0:0] tmpFB_0__C2_net;
+	wire [0:0] tmpIO_0__C2_net;
+	electrical [0:0] tmpSIOVREF__C2_net;
+
+	cy_mxs40_gpio_v1_0
+		#(.id("1b8e2fe8-214b-4981-ba16-4d8582c2b97a"),
+		  .width(1),
+		  .sio_grp_cnt(0),
+		  .drive_mode("6"),
+		  .ibuf_enabled("0"),
+		  .init_dr_st("0"),
+		  .input_sync("0"),
+		  .intr_mode("0"),
+		  .io_voltage(""),
+		  .output_conn("0"),
+		  .oe_conn("0"),
+		  .output_sync("0"),
+		  .oe_sync("0"),
+		  .drive_strength("0"),
+		  .max_frequency("100"),
+		  .i2c_mode("0"),
+		  .output_current_cap("8"),
+		  .pin_aliases(""),
+		  .pin_mode("O"),
+		  .slew_rate("0"),
+		  .vtrip("0"),
+		  .use_annotation("0"),
+		  .hotswap_needed("0"))
+		C2
+		 (.oe({1'b1}),
+		  .y({1'b0}),
+		  .fb({tmpFB_0__C2_net[0:0]}),
+		  .io({tmpIO_0__C2_net[0:0]}),
+		  .siovref(tmpSIOVREF__C2_net));
+
+
+	wire [0:0] tmpFB_0__C3_net;
+	wire [0:0] tmpIO_0__C3_net;
+	electrical [0:0] tmpSIOVREF__C3_net;
+
+	cy_mxs40_gpio_v1_0
+		#(.id("bcdfecfd-31b1-4e40-8985-3daee409cddc"),
+		  .width(1),
+		  .sio_grp_cnt(0),
+		  .drive_mode("6"),
+		  .ibuf_enabled("0"),
+		  .init_dr_st("0"),
+		  .input_sync("0"),
+		  .intr_mode("0"),
+		  .io_voltage(""),
+		  .output_conn("0"),
+		  .oe_conn("0"),
+		  .output_sync("0"),
+		  .oe_sync("0"),
+		  .drive_strength("0"),
+		  .max_frequency("100"),
+		  .i2c_mode("0"),
+		  .output_current_cap("8"),
+		  .pin_aliases(""),
+		  .pin_mode("O"),
+		  .slew_rate("0"),
+		  .vtrip("0"),
+		  .use_annotation("0"),
+		  .hotswap_needed("0"))
+		C3
+		 (.oe({1'b1}),
+		  .y({1'b0}),
+		  .fb({tmpFB_0__C3_net[0:0]}),
+		  .io({tmpIO_0__C3_net[0:0]}),
+		  .siovref(tmpSIOVREF__C3_net));
 
 
 
