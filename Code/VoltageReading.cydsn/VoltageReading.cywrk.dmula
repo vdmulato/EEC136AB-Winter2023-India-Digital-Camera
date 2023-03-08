@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="VoltageReading\Alpha\Alpha.cydwr">
 <ExpandedNodeIds>
 <v>VoltageReading</v>
 <v>VoltageReading\Alpha</v>
@@ -592,7 +592,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 504" SelectedTabbedMdiWindow="e35fa839-239c-480a-9ad5-d64b391fed6c"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1049, 504" SelectedTabbedMdiWindow="77d69f97-7f62-443a-876f-6c7369f131b9"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
