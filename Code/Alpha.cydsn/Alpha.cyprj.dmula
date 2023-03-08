@@ -5890,6 +5890,9 @@
 <v>Off-Chip Component Catalog\Transistors</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>Off-Chip Component Catalog\Sensors\Microphone [v1.0]</v>
+<v>Off-Chip Component Catalog\Sensors\Photo Resistor [v1.0]</v>
+<v>Off-Chip Component Catalog\Sensors\Strain Gauge [v1.0]</v>
 <v>Off-Chip Component Catalog\Sensors\Thermistor [v1.0]</v>
 <v>Off-Chip Component Catalog\Sensors\Thermocouple [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors</v>
