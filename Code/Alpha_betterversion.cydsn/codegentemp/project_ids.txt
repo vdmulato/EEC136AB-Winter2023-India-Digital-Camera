@@ -1,0 +1,10 @@
+C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\VoltageReading.cydsn\VoltageReading.cyprj|48c7fa9b-c499-47e2-9413-7272a18a60a7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|72fdb29b-7d0e-4e1e-8bb9-994ac1715559
+C:\Users\dmula\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|aedf7a76-fbd7-4336-90b1-a140eb52805b
+C:\Users\dmula\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|5fe12635-dc18-4dec-ae47-438002367e2a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|a51ce1b5-99c5-4917-ae4e-bc851aacbdaa
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|68315f03-6226-4862-91e1-807cd854d052
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b54d0e3e-bdda-47e1-8c3e-668bf570c337
+C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Multiplexer.cydsn\Multiplexer.cyprj|fa139946-89be-44ec-802b-18338543ada8
+C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cyprj|b1ffd577-5a2a-4d6a-9a76-926137856c85
+C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha_betterversion.cydsn\Alpha_betterversion.cyprj|c1a0aef5-63db-40a9-8922-560cf4137aeb

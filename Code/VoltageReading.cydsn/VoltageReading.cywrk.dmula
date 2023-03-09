@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART">
 <ExpandedNodeIds>
 <v>VoltageReading</v>
 <v>VoltageReading\Alpha</v>
@@ -66,6 +66,58 @@
 <v>VoltageReading\Alpha\Shared Files\stdio_user.h</v>
 <v>VoltageReading\Alpha\Shared Files\system_psoc6.h</v>
 <v>VoltageReading\Alpha\Generated_Source\PSoC6</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\TopDesign</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\Pins</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\Analog</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\DMA</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\Clocks</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\Interrupts</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\System</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.cydwr\Directives</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM GCC Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM IAR Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM MDK Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Header Files</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>VoltageReading\Alpha_betterversion\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM GCC Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM IAR Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM MDK Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Header Files</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\cyapicallbacks.h</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\stdio_user.c</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\stdio_user.h</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\system_psoc6.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART</v>
 <v>VoltageReading\Multiplexer\TopDesign</v>
 <v>VoltageReading\Multiplexer\Multiplexer.cydwr\Pins</v>
 <v>VoltageReading\Multiplexer\Multiplexer.cydwr\Analog</v>
@@ -150,31 +202,33 @@
 <v>VoltageReading\VoltageReading\Generated_Source\PSoC6</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>VoltageReading</v>
-<v>VoltageReading\Alpha</v>
-<v>VoltageReading\Alpha\TopDesign</v>
-<v>VoltageReading\Alpha\Alpha.cydwr</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\Pins</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\Analog</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\DMA</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\Clocks</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\Interrupts</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\System</v>
-<v>VoltageReading\Alpha\Alpha.cydwr\Directives</v>
-<v>VoltageReading\Alpha\CM0p (Core 0)</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\ARM GCC Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\ARM IAR Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\ARM MDK Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Header Files</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
-<v>VoltageReading\Alpha\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>VoltageReading\Alpha_betterversion\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\cyapicallbacks.h</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\stdio_user.c</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\stdio_user.h</v>
+<v>VoltageReading\Alpha_betterversion\Shared Files\system_psoc6.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\pdl</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\ADC_1</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\ADC_1_intSarClock</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\Pins and Interrupts</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART\UART.c</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART\UART.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\UART_SCBCLK</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cycodeshareexport.ld</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cycodeshareimport.ld</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cycodeshareimport.scat</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cydevice_trm.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cydevicegnu_trm.inc</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cydeviceiar_trm.inc</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cydevicerv_trm.inc</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cydisabledsheets.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cyfitter.h</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cyfitter_cfg.c</v>
+<v>VoltageReading\Alpha_betterversion\Generated_Source\PSoC6\cyfitter_cfg.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -183,6 +237,9 @@
 <v>VoltageReading\Alpha</v>
 <v>VoltageReading\Alpha\TopDesign</v>
 <v>VoltageReading\Alpha\TopDesign\TopDesign.cysch</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\TopDesign</v>
+<v>VoltageReading\Alpha_betterversion\TopDesign\TopDesign.cysch</v>
 <v>VoltageReading\Multiplexer</v>
 <v>VoltageReading\Multiplexer\TopDesign</v>
 <v>VoltageReading\Multiplexer\TopDesign\TopDesign.cysch</v>
@@ -195,6 +252,9 @@
 <v>VoltageReading\Alpha</v>
 <v>VoltageReading\Alpha\TopDesign</v>
 <v>VoltageReading\Alpha\TopDesign\TopDesign.cysch</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\TopDesign</v>
+<v>VoltageReading\Alpha_betterversion\TopDesign\TopDesign.cysch</v>
 <v>VoltageReading\Multiplexer</v>
 <v>VoltageReading\Multiplexer\TopDesign</v>
 <v>VoltageReading\Multiplexer\TopDesign\TopDesign.cysch</v>
@@ -301,6 +361,101 @@
 <v>VoltageReading\Alpha\Alpha.gpdsc</v>
 <v>VoltageReading\Alpha\Alpha.rpt</v>
 <v>VoltageReading\Alpha\Alpha_timing.html</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_1.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_1_INIT.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_1_INT.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_1_PM.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Alpha_betterversion.elf</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Alpha_betterversion.hex</v>
+<v>VoltageReading\Alpha_betterversion\CortexM0p\ARM_GCC_541\Debug\Alpha_betterversion.map</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_1.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_1_INIT.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_1_INT.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_1_PM.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\retarget.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\stdio_user.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Alpha_betterversion.elf</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Alpha_betterversion.hex</v>
+<v>VoltageReading\Alpha_betterversion\CortexM4\ARM_GCC_541\Debug\Alpha_betterversion.map</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.gpdsc</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion.rpt</v>
+<v>VoltageReading\Alpha_betterversion\Alpha_betterversion_timing.html</v>
 <v>VoltageReading\Multiplexer</v>
 <v>VoltageReading\Multiplexer\CortexM0p</v>
 <v>VoltageReading\Multiplexer\CortexM0p\ARM_GCC_541</v>
@@ -508,6 +663,8 @@
 <v>VoltageReading\Alpha\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_common.lst</v>
 <v>VoltageReading\Alpha\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_ezi2c.lst</v>
 <v>VoltageReading\Alpha\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_i2c.lst</v>
+<v>VoltageReading\Alpha\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_spi.lst</v>
+<v>VoltageReading\Alpha\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_scb_uart.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -527,6 +684,15 @@
 <v>VoltageReading\Alpha\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
 <v>VoltageReading\Alpha\Scan_ADC_P6_v3_10.pdf</v>
 <v>VoltageReading\Alpha\SCB_UART_PDL_v2_0.pdf</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\PSoC 6 Architecture TRM</v>
+<v>VoltageReading\Alpha_betterversion\PSoC 63 Family Datasheet</v>
+<v>VoltageReading\Alpha_betterversion\Peripheral Driver Library</v>
+<v>VoltageReading\Alpha_betterversion\System Reference Guides</v>
+<v>VoltageReading\Alpha_betterversion\GPIO_PDL_v1_0</v>
+<v>VoltageReading\Alpha_betterversion\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>VoltageReading\Alpha_betterversion\Scan_ADC_P6_v3_10.pdf</v>
+<v>VoltageReading\Alpha_betterversion\SCB_UART_PDL_v2_0.pdf</v>
 <v>VoltageReading\Multiplexer</v>
 <v>VoltageReading\Multiplexer\PSoC 6 Architecture TRM</v>
 <v>VoltageReading\Multiplexer\PSoC 63 Family Datasheet</v>
@@ -557,6 +723,15 @@
 <v>VoltageReading\Alpha\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
 <v>VoltageReading\Alpha\Scan_ADC_P6_v3_10.pdf</v>
 <v>VoltageReading\Alpha\SCB_UART_PDL_v2_0.pdf</v>
+<v>VoltageReading\Alpha_betterversion</v>
+<v>VoltageReading\Alpha_betterversion\PSoC 6 Architecture TRM</v>
+<v>VoltageReading\Alpha_betterversion\PSoC 63 Family Datasheet</v>
+<v>VoltageReading\Alpha_betterversion\Peripheral Driver Library</v>
+<v>VoltageReading\Alpha_betterversion\System Reference Guides</v>
+<v>VoltageReading\Alpha_betterversion\GPIO_PDL_v1_0</v>
+<v>VoltageReading\Alpha_betterversion\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>VoltageReading\Alpha_betterversion\Scan_ADC_P6_v3_10.pdf</v>
+<v>VoltageReading\Alpha_betterversion\SCB_UART_PDL_v2_0.pdf</v>
 <v>VoltageReading\Multiplexer</v>
 <v>VoltageReading\Multiplexer\PSoC 6 Architecture TRM</v>
 <v>VoltageReading\Multiplexer\PSoC 63 Family Datasheet</v>
@@ -565,13 +740,6 @@
 <v>VoltageReading\Multiplexer\GPIO_PDL_v1_0</v>
 <v>VoltageReading\Multiplexer\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
 <v>VoltageReading\Multiplexer\SCB_UART_PDL_v2_0.pdf</v>
-<v>VoltageReading\VoltageReading</v>
-<v>VoltageReading\VoltageReading\PSoC 6 Architecture TRM</v>
-<v>VoltageReading\VoltageReading\PSoC 63 Family Datasheet</v>
-<v>VoltageReading\VoltageReading\Peripheral Driver Library</v>
-<v>VoltageReading\VoltageReading\System Reference Guides</v>
-<v>VoltageReading\VoltageReading\GPIO_PDL_v1_0</v>
-<v>VoltageReading\VoltageReading\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -592,7 +760,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1158, 504" SelectedTabbedMdiWindow="e35fa839-239c-480a-9ad5-d64b391fed6c"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1049, 504" SelectedTabbedMdiWindow="77d69f97-7f62-443a-876f-6c7369f131b9"><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Alpha.cydwr" Guid="7f7f20e2-7b32-4f03-bdd2-1140fe722b50" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\TopDesign\TopDesign.cysch" Guid="77d69f97-7f62-443a-876f-6c7369f131b9" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\main_cm4.c" Guid="e35fa839-239c-480a-9ad5-d64b391fed6c" /><DocumentWindow Key="C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Alpha.cydsn\Generated_Source\PSoC6\pdl\cmsis\include\cmsis_gcc.h" Guid="ccf21b18-dd80-485f-ab98-30d4964d43df" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="37dcf358-1866-4ebd-b55e-0d4e92add923" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

@@ -282,25 +282,45 @@ int main(void)
         // On this first test we only have 4 pixels that is 2 rows and 2 columns.
         if(Cy_GPIO_Read(Button_0_PORT,Button_0_NUM)==0){           
             switch (count){
-                case 0:
+                case 7:
                 // selecting pixel 0
                 r = 0;
-                c = 0;
+                c = 7;
                 break;
-                case 1: 
+                case 6: 
                  // selecting pixel 1
-                r = 0;
-                c = 1;
+                r = 1;
+                c = 6;
                 break;
-                case 2: 
+                case 5: 
                  // selecting pixel 2
-                r = 1;
-                c = 0;
+                r = 2;
+                c = 5;
                 break;
-                case 3:
+                case 4:
                  // selecting pixel 3
-                r = 1;
+                r = 3;
+                c = 4;
+                break;
+                 case 3:
+                 // selecting pixel 3
+                r = 4;
+                c = 3;
+                break;
+                 case 2:
+                 // selecting pixel 3
+                r = 5;
+                c = 2;
+                break;
+                 case 1:
+                 // selecting pixel 3
+                r = 6;
                 c = 1;
+                break;
+                 case 0:
+                 // selecting pixel 3
+                r = 7;
+                c = 0;
                 break;
             }      
             rowselect(r);
@@ -314,7 +334,7 @@ int main(void)
             printf("volts = %fv \n\r",voltagereading); 
             printf(" \n\r");
             CyDelay(100);
-            if(count == 4){
+            if(count == 7){
                 count = 0;
             }else{
              count = count +1;

@@ -5843,7 +5843,7 @@
 <CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563 type_name="CyDesigner.Common.ProjMgmt.Model.CyLinkCustomData" version="1">
 <link_deps_times>
 <name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM0p" v="133217893618509393" />
-<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM4" v="133218356308314521" />
+<name_val_pair name="c9323d49-d323-40b8-9b59-cc008d68a989@Debug@CortexM4" v="133227116260098505" />
 </link_deps_times>
 </CyGuid_769d31ea-68b1-4f0c-b90a-7c10a43ee563>
 </dataGuid>
@@ -5890,6 +5890,9 @@
 <v>Off-Chip Component Catalog\Transistors</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>Off-Chip Component Catalog\Sensors\Microphone [v1.0]</v>
+<v>Off-Chip Component Catalog\Sensors\Photo Resistor [v1.0]</v>
+<v>Off-Chip Component Catalog\Sensors\Strain Gauge [v1.0]</v>
 <v>Off-Chip Component Catalog\Sensors\Thermistor [v1.0]</v>
 <v>Off-Chip Component Catalog\Sensors\Thermocouple [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors</v>
@@ -5899,9 +5902,6 @@
 <v>Off-Chip Component Catalog\Transistors\NPN Transistor [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors\P-Channel FET (Depletion Mode) [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors\P-Channel JFET [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\P-Channel MOSFET (Enhancement mode) [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\Photo Transistor [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\PNP Transistor [v1.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </tree_states>
