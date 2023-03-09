@@ -15,8 +15,8 @@
 clear
 %% serial comms processing
 % Adapted from code created by YouTube channel @PSoCProjects
-serial_PSoC=serial('COM4','BaudRate',115200,'Parity','none','DataBits',8,'StopBits',1); % serial parameters
-set(serial_PSoC,'InputBufferSize',5); % number of bytes in each read
+serial_PSoC=serial('COM8','BaudRate',115200,'Parity','none','DataBits',8,'StopBits',1); % serial parameters
+set(serial_PSoC,'InputBufferSize',16); % number of bytes in each read
 set(serial_PSoC,'Terminator',' '); % terminator so MATLAB knows the data is finished
 fopen(serial_PSoC); % open the serial port
 

@@ -1,0 +1,6 @@
+C:\Users\Angel\OneDrive\Desktop\clcd_063proto_210114.cydsn\clcd_063proto_210114.cyprj|82a0635b-20a7-411a-bfe5-321dd33f1a9e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b2dd2446-f824-443b-9003-8b5c7ce39c1b
+C:\Users\Angel\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7870c845-9cd3-4744-b51f-40dea3949334
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|9605d7af-c28f-48cc-927b-548eb36e14e1
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ab50e094-2b89-40dd-80f9-2be397452960
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|21e601f3-036f-4533-b4c2-c353462d3b4d
