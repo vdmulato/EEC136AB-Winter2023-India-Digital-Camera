@@ -5902,9 +5902,6 @@
 <v>Off-Chip Component Catalog\Transistors\NPN Transistor [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors\P-Channel FET (Depletion Mode) [v1.0]</v>
 <v>Off-Chip Component Catalog\Transistors\P-Channel JFET [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\P-Channel MOSFET (Enhancement mode) [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\Photo Transistor [v1.0]</v>
-<v>Off-Chip Component Catalog\Transistors\PNP Transistor [v1.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </tree_states>
