@@ -23,15 +23,15 @@ fopen(serial_PSoC); % open the serial port
 fprintf(serial_PSoC,'%c','l'); % display serial port?
 
 reading = fscanf(serial_PSoC,'%c');
-data = [];
+dataIn = [];
 while (~contains(reading,'e') == 1)
-    data = [data, reading];
+    dataIn = [dataIn, reading];
     reading = fscanf(serial_PSoC,'%c');
 end
-data = str2num(data);
+data = abs(str2num(dataIn)+2047);
 n = sqrt(length(data));    % determines the size of the square
 inArray = reshape(data,[n,n])';    % reshapes the data into a square array
-inArray = abs(inArray);
+%inArray = abs(inArray);
 
 %% image creation
 % iterates through rows and columns of array and converts the 12-bit ADC
@@ -45,7 +45,7 @@ for row = 1:size(inArray,1)
         % reading we do not want this bit
 
         % turn the truncated data into an integer
-       convertedArray(row, col) = test(1)*2^7+test(2)*2^6+test(3)*2^5+test(4)*2^4+test(5)*2^3+test(6)*2^2+test(7)*2+test(8);       
+       convertedArray(9-row, col) = test(1)*2^7+test(2)*2^6+test(3)*2^5+test(4)*2^4+test(5)*2^3+test(6)*2^2+test(7)*2+test(8);       
    end
 end
 image(convertedArray); colormap gray ; colorbar;    % displays image

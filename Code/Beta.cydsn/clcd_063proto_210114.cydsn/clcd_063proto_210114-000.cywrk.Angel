@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\main_cm4.c">
 <ExpandedNodeIds>
 <v>clcd_063proto_210114-000</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114</v>
@@ -47,6 +47,7 @@
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM0p (Core 0)\Source Files\main_cm0p.c</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM0p (Core 0)\Source Files\system_psoc6_cm0plus.c</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM GCC Generic</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM IAR Generic</v>
@@ -91,6 +92,22 @@
 <v>clcd_063proto_210114-000\clcd_063proto_210114\clcd_063proto_210114.cydwr\Directives</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM0p (Core 0)</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM GCC Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM GCC Generic\cy8c6xx7_cm4_dual.ld</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM IAR Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM IAR Generic\cy8c6xx7_cm4_dual.icf</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM MDK Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Header Files</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>clcd_063proto_210114-000\clcd_063proto_210114\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\Shared Files</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\sources</v>
 <v>clcd_063proto_210114-000\clcd_063proto_210114\sources\clcd</v>
@@ -320,9 +337,9 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\main_cm4.c" />
-<name v=".\TopDesign\TopDesign.cysch" />
 <name v=".\clcd_063proto_210114.cydwr" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main_cm4.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -330,7 +347,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1570, 664" SelectedTabbedMdiWindow="6dbf720a-ba5d-4db9-b1d4-2f9c3065ce3f"><DocumentWindow Key="C:\Users\Angel\OneDrive\Desktop\clcd_063proto_210114.cydsn\main_cm4.c" Guid="6dbf720a-ba5d-4db9-b1d4-2f9c3065ce3f" /><DocumentWindow Key="C:\Users\Angel\OneDrive\Desktop\clcd_063proto_210114.cydsn\TopDesign\TopDesign.cysch" Guid="ff81432e-2203-4649-80d4-a65b56ae49a7" /><DocumentWindow Key="C:\Users\Angel\OneDrive\Desktop\clcd_063proto_210114.cydsn\clcd_063proto_210114.cydwr" Guid="4c7d93bc-3676-4a0a-b769-62a09c226224" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1570, 701" SelectedTabbedMdiWindow="fd098b76-cde6-435d-a333-6048e26b8627"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="debaecba-929b-44fb-a303-de7f4d7a02da" /><DocumentWindow Key="C:\Users\Angel\OneDrive\Documents\GitHub\DigitalCamera\Code\Beta.cydsn\clcd_063proto_210114.cydsn\clcd_063proto_210114.cydwr" Guid="a11a0697-46f3-4b04-afb3-76258bffc9bb" /><DocumentWindow Key="C:\Users\Angel\OneDrive\Documents\GitHub\DigitalCamera\Code\Beta.cydsn\clcd_063proto_210114.cydsn\TopDesign\TopDesign.cysch" Guid="b1c25924-b2f9-4954-be37-71b676b2f8ca" /><DocumentWindow Key="C:\Users\Angel\OneDrive\Documents\GitHub\DigitalCamera\Code\Beta.cydsn\clcd_063proto_210114.cydsn\main_cm4.c" Guid="fd098b76-cde6-435d-a333-6048e26b8627" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
