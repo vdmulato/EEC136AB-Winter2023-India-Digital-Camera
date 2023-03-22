@@ -1,6 +1,7 @@
-C:\Users\Angel\OneDrive\Desktop\clcd_063proto_210114.cydsn\clcd_063proto_210114.cyprj|82a0635b-20a7-411a-bfe5-321dd33f1a9e
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b2dd2446-f824-443b-9003-8b5c7ce39c1b
-C:\Users\Angel\OneDrive\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7870c845-9cd3-4744-b51f-40dea3949334
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|9605d7af-c28f-48cc-927b-548eb36e14e1
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ab50e094-2b89-40dd-80f9-2be397452960
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|21e601f3-036f-4533-b4c2-c353462d3b4d
+C:\Users\dmula\Documents\GitHub\DigitalCamera\Code\Beta.cydsn\clcd_063proto_210114.cydsn\clcd_063proto_210114.cyprj|b5c66f5c-637e-44c0-8262-169a04dfced2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|116d62df-3403-499a-8df0-ef6f4a18901b
+C:\Users\dmula\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|1584c53f-a183-48ef-8c9d-40f0017b4949
+C:\Users\dmula\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|7b6ff865-e2c6-4e34-95a1-ee064b2cb6c9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|eece2726-4086-4fde-9ec6-27624f85b967
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|febd19d6-b17a-4475-aa48-10cbc51d26b6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7093b941-c879-4b64-970f-dc702fb78054

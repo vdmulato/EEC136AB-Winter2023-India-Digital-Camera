@@ -259,28 +259,32 @@ void states(){
    }
 
 
+
 int main(void)
-{    
-    __enable_irq(); 
-    // Enable UART and ADC
-    UART_Start();
+
+{
+    uint8_t data ;
+    char cmd[32] ;  
+    int size; 
+    size = 8;
+    __enable_irq(); /* Enable global interrupts. */
     ADC_1_Init();
     ADC_1_Start();
     ADC_1_StartConvert();
-    setvbuf(stdin, NULL,_IONBF,0); 
-    // Variables for ADC values
-    float voltagereading,actualValue; 
-    int r = 0;
-    int c = 0; 
-    int count = 0;
+    float voltagereading;
+    int actualValue;
     
-    int size;
-    size = 8;
+
+    //CLCD_PutString("Welcome To Group India") ;
     
-    for(;;) 
-    {       
+   
+    
+   // prompt("> ") ;
+    for(;;)
+    {
+       
+         
         
-        printf("started \n\r");
      
          //voltagereading = ADC_1_CountsTo_Volts(0,actualValue);
          //voltagereading = (int)voltagereading;
@@ -289,46 +293,42 @@ int main(void)
         
         if(Cy_GPIO_Read(P0_4_PORT, P0_4_NUM))
             {
-                //CLCD_PutString("Ready for Pic...") ;
-                printf("not pressed \n\r");
-                CyDelay(500);
+               
             }
         else
             {
-               //CLCD_Clear();
-               //CLCD_PutString("Acquiring Pic...");
-                printf("pressed");
+               
                int i, j;
                 
                for(i = 0; i < size; i++)
             {
                 rowselect(i);
-                CyDelay(200);//Psoc is 6.7 ns; Mux needs 500 ns delay (THIS IS 1 ms)
+                CyDelay(1);//Psoc is 6.7 ns; Mux needs 500 ns delay (THIS IS 1 ms)
                 for(j=0; j<size; j++)
                 { 
                         columnselect(j);
-                        CyDelay(200); //Psoc is 6.7 ns; Mux is 500 ns delay (THIS IS 1 ms)
+                        CyDelay(1); //Psoc is 6.7 ns; Mux is 500 ns delay (THIS IS 1 ms)
                         
                        // actualValue = ADC_1_GetResult16(0);
-                        //char myString[200];
+                        char myString[16];
                     
+                        //adc data printed to UART
                         ADC_1_StartConvert();
                         ADC_1_IsEndConversion(1);
-                        //adc data printed to UART
+                        
                         actualValue = ADC_1_GetResult16(0);
-                        //sprintf(myString, "%d", actualValue);
-                        printf("%d %d %f \n\r", i, j, actualValue);
-                        //UART_PutString(myString);
+                        sprintf(myString, "%d", actualValue);
+                        printf("%s ", myString);
+                        
+                        UART_PutString(myString);
+                        UART_PutString(" ");
                 }
                 
             }
-              // UART_PutString("e ");
-               //CLCD_Clear();
-               //CLCD_PutString("Done");
-                
+               UART_PutString("e ");
                 CyDelay(100);
-            } 
-
- }
+            }
+        
+    }
 }
 /* [] END OF FILE */
